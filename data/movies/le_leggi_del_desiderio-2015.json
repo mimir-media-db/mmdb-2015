@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_leggi_del_desiderio_2015",
+  "title": "Le leggi del desiderio",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19622324",
+    "imdb": "tt4487766",
+    "tmdb": 327372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

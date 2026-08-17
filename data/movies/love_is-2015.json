@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_2015",
+  "title": "Love Is",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20570945",
+    "imdb": "tt4556708",
+    "tmdb": 378621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

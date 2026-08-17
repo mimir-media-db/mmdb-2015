@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rescue_2015",
+  "title": "The Last Rescue",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703167",
+    "imdb": "tt3396166",
+    "tmdb": 323901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 107
+}

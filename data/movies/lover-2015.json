@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lover_2015",
+  "title": "Lover",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6692338",
+    "imdb": "tt7943306"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

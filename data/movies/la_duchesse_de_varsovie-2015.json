@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_duchesse_de_varsovie_2015",
+  "title": "La duchesse de Varsovie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19544318",
+    "imdb": "tt2461594",
+    "tmdb": 321210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

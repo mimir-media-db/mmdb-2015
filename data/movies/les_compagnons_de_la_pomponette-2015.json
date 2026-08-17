@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_compagnons_de_la_pomponette_2015",
+  "title": "Les compagnons de la Pomponette",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427093",
+    "imdb": "tt4584560",
+    "tmdb": 595815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

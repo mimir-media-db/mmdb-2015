@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_dancing_2_2015",
+  "title": "Lion Dancing 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18228409",
+    "imdb": "tt37221298",
+    "tmdb": 527008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

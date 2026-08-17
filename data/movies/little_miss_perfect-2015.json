@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_miss_perfect_2015",
+  "title": "Little Miss Perfect",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19427403",
+    "imdb": "tt3276618",
+    "tmdb": 424979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

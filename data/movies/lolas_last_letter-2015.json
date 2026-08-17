@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lolas_last_letter_2015",
+  "title": "Lola's Last Letter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20647643",
+    "imdb": "tt3206798",
+    "tmdb": 340231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

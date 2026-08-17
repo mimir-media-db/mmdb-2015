@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_a_rabbit_the_martial_of_fire_2015",
+  "title": "Legend of a Rabbit: The Martial of Fire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363424",
+    "imdb": "tt4838316",
+    "tmdb": 361122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

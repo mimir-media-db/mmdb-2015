@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_paon_de_nuit_2015",
+  "title": "Le Paon de Nuit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263880",
+    "imdb": "tt4310356",
+    "tmdb": 400385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_theft_and_other_entanglements_2015",
+  "title": "Love, Theft and Other Entanglements",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811611",
+    "imdb": "tt4253322",
+    "tmdb": 324437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}

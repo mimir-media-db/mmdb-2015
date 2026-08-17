@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_24x7_2015",
+  "title": "Love 24x7",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649455",
+    "imdb": "tt4882692",
+    "tmdb": 350549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

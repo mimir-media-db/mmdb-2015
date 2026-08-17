@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_faith_2015",
+  "title": "Love and Faith",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19728580",
+    "imdb": "tt3843110",
+    "tmdb": 329327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

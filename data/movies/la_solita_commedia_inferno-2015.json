@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_solita_commedia_inferno_2015",
+  "title": "La solita commedia - Inferno",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20969852",
+    "imdb": "tt4536222",
+    "tmdb": 331444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

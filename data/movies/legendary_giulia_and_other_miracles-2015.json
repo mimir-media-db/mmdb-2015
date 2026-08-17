@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legendary_giulia_and_other_miracles_2015",
+  "title": "The Legendary Giulia and Other Miracles",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19299876",
+    "imdb": "tt3809308",
+    "tmdb": 325690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

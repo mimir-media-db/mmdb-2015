@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lava_2015",
+  "title": "Lava",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18002980",
+    "imdb": "tt3824386",
+    "tmdb": 286192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 7
+}
