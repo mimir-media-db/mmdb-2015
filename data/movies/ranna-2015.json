@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ranna_2015",
+  "title": "Ranna",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170321",
+    "imdb": "tt3817652",
+    "tmdb": 417878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 152
+}

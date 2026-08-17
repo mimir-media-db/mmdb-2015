@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rabbit_hero_2015",
+  "title": "Rabbit Hero",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058660",
+    "imdb": "tt10453416",
+    "tmdb": 1393571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

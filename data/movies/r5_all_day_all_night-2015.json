@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_r5_all_day_all_night_2015",
+  "title": "R5: All Day, All Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844362",
+    "imdb": "tt4621790",
+    "tmdb": 725906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

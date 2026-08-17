@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_the_cuckoo_2015",
+  "title": "Return of the Cuckoo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19594140",
+    "imdb": "tt5111790",
+    "tmdb": 367210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}

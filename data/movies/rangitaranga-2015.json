@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rangitaranga_2015",
+  "title": "RangiTaranga",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19895762",
+    "imdb": "tt4432480",
+    "tmdb": 354667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 149
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rotor_dr1_2015",
+  "title": "Rotor DR1",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203305",
+    "imdb": "tt4162992",
+    "tmdb": 371690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
