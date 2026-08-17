@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queens_2015",
+  "title": "The Queens",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17163747",
+    "imdb": "tt4483422",
+    "tmdb": 340603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}
