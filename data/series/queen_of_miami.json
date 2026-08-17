@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_miami",
+  "title": "The Queen of Miami",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17047799",
+    "imdb": "tt3975034",
+    "tmdb": 98814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 71
+}

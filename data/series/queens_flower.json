@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queens_flower",
+  "title": "Queen's Flower",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18880728",
+    "imdb": "tt4554488",
+    "tmdb": 63053
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

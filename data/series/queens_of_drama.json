@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_queens_of_drama",
+  "title": "Queens of Drama",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19866582",
+    "imdb": "tt4103742",
+    "tmdb": 62679
+  },
+  "last_updated": "2026-08-17"
+}
