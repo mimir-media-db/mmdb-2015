@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pride_of_ukraine_2015",
+  "title": "Pride of Ukraine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25437706",
+    "imdb": "tt4518682",
+    "tmdb": 1063721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

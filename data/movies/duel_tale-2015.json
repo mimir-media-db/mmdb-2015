@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_duel_tale_2015",
+  "title": "A DUEL TALE",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114582419",
+    "imdb": "tt8709320",
+    "tmdb": 576200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-07"
+}

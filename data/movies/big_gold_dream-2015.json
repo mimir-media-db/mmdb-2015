@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_gold_dream_2015",
+  "title": "Big Gold Dream",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51756400",
+    "imdb": "tt3417444",
+    "tmdb": 345068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

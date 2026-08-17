@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_they_will_all_die_in_space_2015",
+  "title": "They Will All Die in Space",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61951928",
+    "imdb": "tt4164866",
+    "tmdb": 380169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 15
+}

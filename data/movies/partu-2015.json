@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_partu_2015",
+  "title": "Partu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116894069",
+    "imdb": "tt3809032"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04"
+}

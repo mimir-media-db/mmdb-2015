@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pursuit_2015",
+  "title": "Pursuit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23797157",
+    "imdb": "tt4971424",
+    "tmdb": 362997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18",
+  "runtime_minutes": 89
+}

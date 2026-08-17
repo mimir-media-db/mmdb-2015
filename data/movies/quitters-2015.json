@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quitters_2015",
+  "title": "Quitters",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959312",
+    "imdb": "tt3018528",
+    "tmdb": 323692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-15",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_will_be_ok_2015",
+  "title": "We Will Be Ok",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21575741",
+    "imdb": "tt4108684",
+    "tmdb": 367338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_te_saludan_los_cabitos_2015",
+  "title": "Te saludan los cabitos",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123434894",
+    "imdb": "tt4592516",
+    "tmdb": 653689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 70
+}

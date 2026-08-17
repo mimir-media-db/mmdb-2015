@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barista_2015",
+  "title": "Barista",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672405",
+    "imdb": "tt4651932",
+    "tmdb": 359440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06",
+  "runtime_minutes": 103
+}

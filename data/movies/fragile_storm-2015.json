@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fragile_storm_2015",
+  "title": "Fragile Storm",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034491",
+    "imdb": "tt4002314"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24"
+}

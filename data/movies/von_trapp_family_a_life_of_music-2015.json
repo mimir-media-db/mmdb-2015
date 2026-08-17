@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_von_trapp_family_a_life_of_music_2015",
+  "title": "The von Trapp Family: A Life of Music",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21445464",
+    "imdb": "tt4742670",
+    "tmdb": 367416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

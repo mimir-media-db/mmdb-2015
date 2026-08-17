@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_za_kralja_i_otadzbinu_2015",
+  "title": "Za kralja i otadžbinu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20435096",
+    "imdb": "tt3809506",
+    "tmdb": 388775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lockdown_2015",
+  "title": "Lockdown",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18388990",
+    "imdb": "tt3957956",
+    "tmdb": 351901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-11",
+  "runtime_minutes": 90
+}

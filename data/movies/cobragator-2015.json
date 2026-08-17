@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cobragator_2015",
+  "title": "CobraGator",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30126698",
+    "imdb": "tt4155680",
+    "tmdb": 387660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

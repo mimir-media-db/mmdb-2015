@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jess_james_2015",
+  "title": "Jess & James",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28840031",
+    "imdb": "tt4544008",
+    "tmdb": 365126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

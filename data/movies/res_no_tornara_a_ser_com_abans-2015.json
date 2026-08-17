@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_res_no_tornara_a_ser_com_abans_2015",
+  "title": "Res no tornarà a ser com abans",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81218268",
+    "imdb": "tt4715180",
+    "tmdb": 369703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 77
+}

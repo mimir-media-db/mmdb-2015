@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salt_of_the_earth_2015",
+  "title": "The Salt of the Earth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736285",
+    "imdb": "tt3674140",
+    "tmdb": 265297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-12",
+  "runtime_minutes": 110
+}

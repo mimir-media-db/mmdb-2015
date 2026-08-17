@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mutes_house_2015",
+  "title": "The Mute's House",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28466214",
+    "imdb": "tt5231436",
+    "tmdb": 425356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 32
+}

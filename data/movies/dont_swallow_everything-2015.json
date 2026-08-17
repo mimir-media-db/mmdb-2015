@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_swallow_everything_2015",
+  "title": "Don't Swallow Everything",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19949233",
+    "imdb": "tt4714428",
+    "tmdb": 342874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-28",
+  "runtime_minutes": 86
+}

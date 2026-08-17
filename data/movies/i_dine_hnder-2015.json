@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dine_hnder_2015",
+  "title": "I dine hænder",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19702701",
+    "imdb": "tt2719660",
+    "tmdb": 322664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21",
+  "runtime_minutes": 88
+}

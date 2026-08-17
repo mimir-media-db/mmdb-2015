@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belief_the_possession_of_janet_moses_2015",
+  "title": "Belief: The Possession of Janet Moses",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47457893",
+    "imdb": "tt4930242",
+    "tmdb": 345718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

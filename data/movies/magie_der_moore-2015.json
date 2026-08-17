@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magie_der_moore_2015",
+  "title": "Magie der Moore",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962711",
+    "imdb": "tt4895820",
+    "tmdb": 361032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24",
+  "runtime_minutes": 95
+}

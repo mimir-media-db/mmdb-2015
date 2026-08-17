@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_600_miles_2015",
+  "title": "600 Miles",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811585",
+    "imdb": "tt3685622",
+    "tmdb": 321666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-06",
+  "runtime_minutes": 85
+}

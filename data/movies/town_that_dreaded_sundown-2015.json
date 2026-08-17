@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_town_that_dreaded_sundown_2015",
+  "title": "The Town That Dreaded Sundown",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16679828",
+    "imdb": "tt2561546",
+    "tmdb": 287084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 90
+}

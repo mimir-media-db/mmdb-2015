@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_facialized_2_2015",
+  "title": "Facialized 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139796910",
+    "imdb": "tt4727722",
+    "tmdb": 519997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-27"
+}

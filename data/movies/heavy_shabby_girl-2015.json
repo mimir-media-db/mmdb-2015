@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heavy_shabby_girl_2015",
+  "title": "Heavy Shabby Girl",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111280330",
+    "imdb": "tt5330254",
+    "tmdb": 1224537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-12"
+}

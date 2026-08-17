@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wkreceni_2_2015",
+  "title": "Wkreceni 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18431143",
+    "imdb": "tt4332728",
+    "tmdb": 340389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-16",
+  "runtime_minutes": 95
+}

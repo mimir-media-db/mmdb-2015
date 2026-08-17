@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cumple_de_la_abuela_2015",
+  "title": "El cumple de la abuela",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96377080",
+    "imdb": "tt3123010",
+    "tmdb": 269577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

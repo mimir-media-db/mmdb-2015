@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maharaja_ajasath_2015",
+  "title": "Maharaja Ajasath",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859395",
+    "imdb": "tt4820704",
+    "tmdb": 1631176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7285_2015",
+  "title": "7285",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61819667",
+    "imdb": "tt10013074"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 6
+}

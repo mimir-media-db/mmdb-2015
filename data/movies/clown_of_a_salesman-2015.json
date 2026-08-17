@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clown_of_a_salesman_2015",
+  "title": "Clown of a Salesman",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19794826",
+    "imdb": "tt15106736",
+    "tmdb": 339295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-23"
+}

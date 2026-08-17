@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mira_story_2015",
+  "title": "Mira Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740621",
+    "imdb": "tt4286458",
+    "tmdb": 473020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jogajog_2015",
+  "title": "Jogajog",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126318",
+    "imdb": "tt4416012",
+    "tmdb": 579198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_my_child_2015",
+  "title": "10% My Child",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122459473",
+    "imdb": "tt2339406",
+    "tmdb": 321525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

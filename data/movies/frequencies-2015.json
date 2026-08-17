@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frequencies_2015",
+  "title": "Frequencies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703136",
+    "imdb": "tt2414766",
+    "tmdb": 218425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-23",
+  "runtime_minutes": 109
+}

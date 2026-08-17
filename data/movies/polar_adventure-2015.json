@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_polar_adventure_2015",
+  "title": "Polar Adventure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427934",
+    "imdb": "tt4656772",
+    "tmdb": 448665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01"
+}

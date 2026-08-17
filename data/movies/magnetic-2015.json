@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magnetic_2015",
+  "title": "Magnetic",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55621728",
+    "imdb": "tt3194622",
+    "tmdb": 333333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

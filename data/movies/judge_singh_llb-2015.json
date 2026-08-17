@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_judge_singh_llb_2015",
+  "title": "Judge Singh LLB",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775779",
+    "imdb": "tt4678200",
+    "tmdb": 370852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04"
+}

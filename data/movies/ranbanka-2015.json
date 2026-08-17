@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ranbanka_2015",
+  "title": "Ranbanka",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646922",
+    "imdb": "tt5151622",
+    "tmdb": 371439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06",
+  "runtime_minutes": 98
+}

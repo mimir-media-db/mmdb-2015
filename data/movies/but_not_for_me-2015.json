@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_but_not_for_me_2015",
+  "title": "But Not for Me",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958205",
+    "imdb": "tt4292478",
+    "tmdb": 1197077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-04"
+}

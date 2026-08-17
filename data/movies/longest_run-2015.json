@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_longest_run_2015",
+  "title": "The Longest Run",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87983078",
+    "imdb": "tt10151800"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-27",
+  "runtime_minutes": 55
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_massacre_2_reich_of_the_dead_2015",
+  "title": "Zombie Massacre 2: Reich of the Dead",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98078641",
+    "imdb": "tt4117510",
+    "tmdb": 308194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

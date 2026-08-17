@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hearts_know_the_runaway_brides_2015",
+  "title": "Hearts Know * the Runaway Brides",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726941",
+    "imdb": "tt4446250",
+    "tmdb": 1168861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-24",
+  "runtime_minutes": 72
+}

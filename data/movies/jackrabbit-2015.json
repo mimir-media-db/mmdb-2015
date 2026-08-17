@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackrabbit_2015",
+  "title": "Jackrabbit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29262741",
+    "imdb": "tt3975556",
+    "tmdb": 333123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-01",
+  "runtime_minutes": 100
+}

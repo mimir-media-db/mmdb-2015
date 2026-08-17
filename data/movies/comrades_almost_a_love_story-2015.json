@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comrades_almost_a_love_story_2015",
+  "title": "Comrades: Almost a Love Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q708888",
+    "imdb": "tt0117905",
+    "tmdb": 37185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 118
+}

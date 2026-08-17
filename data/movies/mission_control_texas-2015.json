@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_control_texas_2015",
+  "title": "Mission Control Texas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88402662",
+    "imdb": "tt4137928",
+    "tmdb": 346587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

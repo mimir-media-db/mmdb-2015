@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gariwala_2015",
+  "title": "Gariwala",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22252150",
+    "imdb": "tt4257084",
+    "tmdb": 684897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-04",
+  "runtime_minutes": 85
+}

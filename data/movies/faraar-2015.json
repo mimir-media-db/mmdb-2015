@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faraar_2015",
+  "title": "Faraar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751320",
+    "imdb": "tt4984868",
+    "tmdb": 376199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-28"
+}

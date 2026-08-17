@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_love_2015",
+  "title": "Sunshine Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170476",
+    "imdb": "tt3582090",
+    "tmdb": 361517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-17"
+}

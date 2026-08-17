@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chubby_got_guts_2015",
+  "title": "Chubby Got Guts",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64336820",
+    "imdb": "tt4381194",
+    "tmdb": 729678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 90
+}

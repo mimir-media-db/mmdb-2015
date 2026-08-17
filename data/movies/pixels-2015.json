@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pixels_2015",
+  "title": "Pixels",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17182905",
+    "imdb": "tt2120120",
+    "tmdb": 257344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-24",
+  "runtime_minutes": 105
+}

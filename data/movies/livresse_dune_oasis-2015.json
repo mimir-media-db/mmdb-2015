@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_livresse_dune_oasis_2015",
+  "title": "L'Ivresse d'une Oasis",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74258887",
+    "imdb": "tt3147900",
+    "tmdb": 276190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willkommen_auf_deutsch_2015",
+  "title": "Willkommen auf Deutsch",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776652",
+    "imdb": "tt4443888",
+    "tmdb": 336492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-12",
+  "runtime_minutes": 93
+}

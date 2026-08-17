@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gvulot_2015",
+  "title": "Gvulot",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108442797",
+    "imdb": "tt4838516",
+    "tmdb": 834841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

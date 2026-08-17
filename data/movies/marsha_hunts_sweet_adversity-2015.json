@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marsha_hunts_sweet_adversity_2015",
+  "title": "Marsha Hunt's Sweet Adversity",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119217973",
+    "imdb": "tt3422240",
+    "tmdb": 619228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

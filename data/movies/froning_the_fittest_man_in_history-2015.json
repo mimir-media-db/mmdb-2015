@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_froning_the_fittest_man_in_history_2015",
+  "title": "Froning: The Fittest Man in History",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408758",
+    "imdb": "tt5079382",
+    "tmdb": 362226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

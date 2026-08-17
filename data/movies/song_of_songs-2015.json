@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_songs_2015",
+  "title": "Song of Songs",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20643298",
+    "imdb": "tt4826842",
+    "tmdb": 349660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-05",
+  "runtime_minutes": 75
+}

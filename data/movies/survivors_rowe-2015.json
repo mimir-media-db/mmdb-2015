@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_survivors_rowe_2015",
+  "title": "Survivors Rowe",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65677551"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-26"
+}

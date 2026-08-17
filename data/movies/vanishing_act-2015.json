@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_act_2015",
+  "title": "The Vanishing Act",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170618",
+    "imdb": "tt3781948"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steel_2015",
+  "title": "Steel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055354",
+    "imdb": "tt3588082",
+    "tmdb": 376504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 108
+}

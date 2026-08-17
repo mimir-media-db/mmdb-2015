@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoarder_2015",
+  "title": "The Hoarder",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27189854",
+    "imdb": "tt1891923",
+    "tmdb": 207270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

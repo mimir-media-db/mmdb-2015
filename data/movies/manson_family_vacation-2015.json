@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manson_family_vacation_2015",
+  "title": "Manson Family Vacation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720588",
+    "imdb": "tt3275216",
+    "tmdb": 323679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-16",
+  "runtime_minutes": 84
+}

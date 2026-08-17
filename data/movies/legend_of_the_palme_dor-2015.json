@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_palme_dor_2015",
+  "title": "The Legend of the Palme D'Or",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113330450",
+    "imdb": "tt4691552",
+    "tmdb": 458399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 70
+}

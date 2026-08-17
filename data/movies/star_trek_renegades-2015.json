@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_renegades_2015",
+  "title": "Star Trek: Renegades",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16556668",
+    "imdb": "tt2621446"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-01"
+}

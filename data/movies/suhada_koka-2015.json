@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suhada_koka_2015",
+  "title": "Suhada Koka",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859397",
+    "imdb": "tt7662602",
+    "tmdb": 704885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22"
+}

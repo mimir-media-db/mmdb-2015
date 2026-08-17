@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bestefreunde_2015",
+  "title": "Bestefreunde",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19835423",
+    "imdb": "tt3604582",
+    "tmdb": 327131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-26",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anabel_2015",
+  "title": "Anabel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108908083",
+    "imdb": "tt5032026",
+    "tmdb": 362579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-11",
+  "runtime_minutes": 75
+}

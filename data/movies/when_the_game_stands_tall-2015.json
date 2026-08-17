@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_game_stands_tall_2015",
+  "title": "When the Game Stands Tall",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12132457",
+    "imdb": "tt2247476",
+    "tmdb": 232679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12"
+}

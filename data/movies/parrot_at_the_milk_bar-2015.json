@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parrot_at_the_milk_bar_2015",
+  "title": "Parrot at the Milk Bar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64509799",
+    "imdb": "tt3116276",
+    "tmdb": 267309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07",
+  "runtime_minutes": 80
+}

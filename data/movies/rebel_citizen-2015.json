@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_citizen_2015",
+  "title": "Rebel Citizen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61718152",
+    "imdb": "tt5181352",
+    "tmdb": 392165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-31",
+  "runtime_minutes": 76
+}

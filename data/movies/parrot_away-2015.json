@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parrot_away_2015",
+  "title": "Parrot Away",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483037",
+    "imdb": "tt5150526",
+    "tmdb": 381747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 6
+}

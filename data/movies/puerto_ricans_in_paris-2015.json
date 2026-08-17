@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puerto_ricans_in_paris_2015",
+  "title": "Puerto Ricans in Paris",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211474",
+    "imdb": "tt3730510",
+    "tmdb": 342169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intern_2015",
+  "title": "The Intern",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18151084",
+    "imdb": "tt2361509",
+    "tmdb": 257211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24",
+  "runtime_minutes": 121
+}

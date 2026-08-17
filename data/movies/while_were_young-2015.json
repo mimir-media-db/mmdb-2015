@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_while_were_young_2015",
+  "title": "While We're Young",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17089779",
+    "imdb": "tt1791682",
+    "tmdb": 252512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-30",
+  "runtime_minutes": 97
+}

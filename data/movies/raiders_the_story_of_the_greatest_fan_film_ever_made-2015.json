@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raiders_the_story_of_the_greatest_fan_film_ever_made_2015",
+  "title": "Raiders!: The Story of the Greatest Fan Film Ever Made",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408835",
+    "imdb": "tt3551954",
+    "tmdb": 329697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

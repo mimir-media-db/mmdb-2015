@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valiyavan_2015",
+  "title": "Valiyavan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17075842",
+    "imdb": "tt4435628",
+    "tmdb": 280149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-27"
+}

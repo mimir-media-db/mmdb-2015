@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_a_monster_2015",
+  "title": "Breaking a Monster",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57939466",
+    "imdb": "tt4276112",
+    "tmdb": 324263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

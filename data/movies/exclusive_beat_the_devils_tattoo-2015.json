@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exclusive_beat_the_devils_tattoo_2015",
+  "title": "The Exclusive: Beat the Devil's Tattoo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060594",
+    "imdb": "tt5034194",
+    "tmdb": 362974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 125
+}

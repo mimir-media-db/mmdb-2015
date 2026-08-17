@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_them_come_2015",
+  "title": "Let Them Come",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899486",
+    "imdb": "tt4520338",
+    "tmdb": 358765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10",
+  "runtime_minutes": 95
+}

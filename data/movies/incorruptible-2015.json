@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incorruptible_2015",
+  "title": "Incorruptible",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47472810",
+    "imdb": "tt3246600",
+    "tmdb": 339143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

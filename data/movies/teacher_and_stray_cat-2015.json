@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teacher_and_stray_cat_2015",
+  "title": "Teacher And Stray Cat",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97220151",
+    "imdb": "tt4156646",
+    "tmdb": 382489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-28"
+}

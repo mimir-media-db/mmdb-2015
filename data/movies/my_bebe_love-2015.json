@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_bebe_love_2015",
+  "title": "My Bebe Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065534",
+    "imdb": "tt5201424",
+    "tmdb": 373907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25"
+}

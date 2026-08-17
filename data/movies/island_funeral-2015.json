@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_island_funeral_2015",
+  "title": "The Island Funeral",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29995994",
+    "imdb": "tt5112052",
+    "tmdb": 370896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

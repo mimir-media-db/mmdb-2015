@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_feels_good_2015",
+  "title": "Life Feels Good",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15957676",
+    "imdb": "tt3092552",
+    "tmdb": 226437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_from_wonderland_2015",
+  "title": "Boy from Wonderland",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21709987",
+    "imdb": "tt4584814",
+    "tmdb": 373944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-10"
+}

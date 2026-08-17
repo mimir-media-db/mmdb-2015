@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neulovimye_posledniy_geroy_2015",
+  "title": "Neulovimye: Posledniy geroy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27049544",
+    "imdb": "tt6746534",
+    "tmdb": 365543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 76
+}

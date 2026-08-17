@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_heaven_2015",
+  "title": "Under Heaven",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108802689",
+    "imdb": "tt4697114",
+    "tmdb": 824540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-24",
+  "runtime_minutes": 88
+}

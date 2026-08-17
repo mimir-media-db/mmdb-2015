@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_straensamurai_2015",
+  "title": "Straßensamurai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21007702",
+    "imdb": "tt4527190",
+    "tmdb": 810744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-08"
+}

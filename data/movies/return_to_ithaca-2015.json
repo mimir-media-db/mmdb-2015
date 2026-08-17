@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_ithaca_2015",
+  "title": "Return to Ithaca",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16672663",
+    "imdb": "tt3480158",
+    "tmdb": 284290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 95
+}

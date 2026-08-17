@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ultima_fermata_2015",
+  "title": "Ultima fermata",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28064449",
+    "imdb": "tt4218218",
+    "tmdb": 528454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

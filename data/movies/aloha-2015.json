@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aloha_2015",
+  "title": "Aloha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15078029",
+    "imdb": "tt1243974",
+    "tmdb": 222936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-06",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_bohms_architektur_einer_familie_2015",
+  "title": "Die Böhms - Architektur einer Familie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19278190",
+    "imdb": "tt3845142",
+    "tmdb": 336427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-29",
+  "runtime_minutes": 87
+}

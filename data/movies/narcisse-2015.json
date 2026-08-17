@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narcisse_2015",
+  "title": "Narcisse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22808802",
+    "imdb": "tt10848188",
+    "tmdb": 751463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

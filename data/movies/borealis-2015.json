@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_borealis_2015",
+  "title": "Borealis",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67207148",
+    "imdb": "tt3630652",
+    "tmdb": 361678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-05"
+}

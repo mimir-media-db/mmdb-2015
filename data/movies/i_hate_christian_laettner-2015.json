@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_hate_christian_laettner_2015",
+  "title": "I Hate Christian Laettner",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30675305",
+    "imdb": "tt4300028",
+    "tmdb": 328346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

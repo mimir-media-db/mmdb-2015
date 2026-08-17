@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_left_ear_2015",
+  "title": "The Left Ear",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17500141",
+    "imdb": "tt4545806",
+    "tmdb": 334973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-24",
+  "runtime_minutes": 120
+}

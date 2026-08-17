@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_magdalenas_akte_2015",
+  "title": "Magdalenas Akte",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39790299",
+    "imdb": "tt6178798"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

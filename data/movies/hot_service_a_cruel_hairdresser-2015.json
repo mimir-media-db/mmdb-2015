@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_service_a_cruel_hairdresser_2015",
+  "title": "Hot Service: A Cruel Hairdresser",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19162340",
+    "tmdb": 322587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-29"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_here_2015",
+  "title": "We are here",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130564944",
+    "tmdb": 608312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

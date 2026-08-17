@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prodigal_sister_2015",
+  "title": "The Prodigal Sister",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27442159",
+    "imdb": "tt5230412",
+    "tmdb": 404871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-23"
+}

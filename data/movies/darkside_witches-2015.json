@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darkside_witches_2015",
+  "title": "Darkside Witches",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899989",
+    "imdb": "tt2720726",
+    "tmdb": 330214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

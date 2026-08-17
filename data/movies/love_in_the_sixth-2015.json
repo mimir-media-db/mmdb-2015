@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_the_sixth_2015",
+  "title": "Love in the Sixth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64859648",
+    "imdb": "tt4720284",
+    "tmdb": 611787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04"
+}

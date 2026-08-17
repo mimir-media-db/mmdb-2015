@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hebei_taipei_2015",
+  "title": "Hebei Taipei",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65052069",
+    "imdb": "tt4842868",
+    "tmdb": 406255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

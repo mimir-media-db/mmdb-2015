@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_que_nous_nous_assoupissions_2015",
+  "title": "Que nous nous assoupissions",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77974963"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 15
+}

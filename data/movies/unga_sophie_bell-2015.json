@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unga_sophie_bell_2015",
+  "title": "Unga Sophie Bell",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18449626",
+    "imdb": "tt3588544",
+    "tmdb": 303636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23"
+}

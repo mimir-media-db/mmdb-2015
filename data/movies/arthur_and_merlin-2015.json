@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_and_merlin_2015",
+  "title": "Arthur and Merlin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992329",
+    "imdb": "tt4065340",
+    "tmdb": 336149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-11",
+  "runtime_minutes": 104
+}

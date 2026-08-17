@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giraffada_2015",
+  "title": "Giraffada",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16860873",
+    "imdb": "tt3132086",
+    "tmdb": 216436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-28",
+  "runtime_minutes": 85
+}

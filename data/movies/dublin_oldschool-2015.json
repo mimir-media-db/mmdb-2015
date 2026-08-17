@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dublin_oldschool_2015",
+  "title": "Dublin Oldschool",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55191837",
+    "imdb": "tt6406848",
+    "tmdb": 472025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

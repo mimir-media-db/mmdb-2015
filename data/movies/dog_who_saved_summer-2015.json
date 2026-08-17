@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_who_saved_summer_2015",
+  "title": "The Dog Who Saved Summer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31824145",
+    "imdb": "tt4469200",
+    "tmdb": 339344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

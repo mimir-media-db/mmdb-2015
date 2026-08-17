@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soan_papdi_2015",
+  "title": "Soan Papdi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19898418",
+    "imdb": "tt4685898",
+    "tmdb": 340311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29"
+}

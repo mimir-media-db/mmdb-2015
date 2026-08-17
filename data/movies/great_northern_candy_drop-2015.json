@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_northern_candy_drop_2015",
+  "title": "The Great Northern Candy Drop",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48816098",
+    "imdb": "tt7762044",
+    "tmdb": 570543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 30
+}

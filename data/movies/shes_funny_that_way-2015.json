@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_funny_that_way_2015",
+  "title": "She's Funny That Way",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14526650",
+    "imdb": "tt1767372",
+    "tmdb": 245906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 94
+}

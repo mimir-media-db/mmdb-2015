@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_me_deadly_2015",
+  "title": "Kill Me, Deadly",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35775442",
+    "imdb": "tt2022441",
+    "tmdb": 355019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

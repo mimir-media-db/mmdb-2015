@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adrien_2015",
+  "title": "Adrien",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25206366",
+    "imdb": "tt4969816",
+    "tmdb": 370785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-29",
+  "runtime_minutes": 97
+}

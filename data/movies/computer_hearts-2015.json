@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_computer_hearts_2015",
+  "title": "Computer Hearts",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30688858",
+    "imdb": "tt3127480",
+    "tmdb": 246236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

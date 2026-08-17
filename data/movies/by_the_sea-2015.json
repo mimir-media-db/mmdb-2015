@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_the_sea_2015",
+  "title": "By the Sea",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17986183",
+    "imdb": "tt3707106",
+    "tmdb": 314385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-05",
+  "runtime_minutes": 132
+}

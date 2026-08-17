@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hans_im_gluck_2015",
+  "title": "Hans im Glück",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21146495",
+    "imdb": "tt4915492",
+    "tmdb": 1067178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-12",
+  "runtime_minutes": 61
+}

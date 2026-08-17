@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_or_foes_2015",
+  "title": "Friends or Foes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113312271",
+    "imdb": "tt21378336"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

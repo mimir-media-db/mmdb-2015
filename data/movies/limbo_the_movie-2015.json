@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_limbo_the_movie_2015",
+  "title": "Limbo the movie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64013102",
+    "imdb": "tt3358808",
+    "tmdb": 606881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 12
+}

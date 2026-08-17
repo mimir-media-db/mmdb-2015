@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casper_and_emma_on_safari_2015",
+  "title": "Casper and Emma on Safari",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106774329",
+    "imdb": "tt3877978",
+    "tmdb": 369948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-04",
+  "runtime_minutes": 83
+}

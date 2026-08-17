@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_relationshit_2015",
+  "title": "Relationshit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95532590",
+    "imdb": "tt13958028",
+    "tmdb": 504222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-19",
+  "runtime_minutes": 90
+}

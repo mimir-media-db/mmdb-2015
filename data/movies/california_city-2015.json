@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_california_city_2015",
+  "title": "California City",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751867",
+    "imdb": "tt3815248",
+    "tmdb": 336251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-20",
+  "runtime_minutes": 84
+}

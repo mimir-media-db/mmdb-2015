@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faith_connections_2015",
+  "title": "Faith Connections",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19816780",
+    "imdb": "tt2768766",
+    "tmdb": 211086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-30",
+  "runtime_minutes": 115
+}

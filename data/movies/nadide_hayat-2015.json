@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nadide_hayat_2015",
+  "title": "Nadide Hayat",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21526691",
+    "imdb": "tt5065790",
+    "tmdb": 374074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

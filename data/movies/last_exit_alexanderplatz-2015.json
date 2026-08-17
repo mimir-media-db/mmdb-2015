@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_exit_alexanderplatz_2015",
+  "title": "Last Exit Alexanderplatz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28865915",
+    "imdb": "tt5231462",
+    "tmdb": 393596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 56
+}

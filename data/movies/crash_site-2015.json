@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crash_site_2015",
+  "title": "Crash Site",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72882408",
+    "imdb": "tt5090838",
+    "tmdb": 1077401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 13
+}

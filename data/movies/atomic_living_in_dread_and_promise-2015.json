@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atomic_living_in_dread_and_promise_2015",
+  "title": "Atomic, Living in Dread and Promise",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590821",
+    "imdb": "tt4944030",
+    "tmdb": 352731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-10",
+  "runtime_minutes": 71
+}

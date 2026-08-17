@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_her_sisters_in_the_great_puppy_adventure_2015",
+  "title": "Barbie & Her Sisters in the Great Puppy Adventure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23758904",
+    "imdb": "tt5042426",
+    "tmdb": 361380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 76
+}

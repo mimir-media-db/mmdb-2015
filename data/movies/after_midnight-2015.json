@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_midnight_2015",
+  "title": "After Midnight",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27997222",
+    "imdb": "tt3515520",
+    "tmdb": 511749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

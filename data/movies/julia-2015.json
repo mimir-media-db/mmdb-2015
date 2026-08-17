@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_julia_2015",
+  "title": "Julia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19967460",
+    "imdb": "tt3182348",
+    "tmdb": 252729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08"
+}

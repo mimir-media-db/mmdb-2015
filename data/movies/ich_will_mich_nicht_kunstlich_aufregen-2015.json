@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_will_mich_nicht_kunstlich_aufregen_2015",
+  "title": "Ich will mich nicht künstlich aufregen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20972711",
+    "imdb": "tt3471498",
+    "tmdb": 276952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 84
+}

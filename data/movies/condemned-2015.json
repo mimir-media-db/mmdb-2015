@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_condemned_2015",
+  "title": "Condemned",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24008176",
+    "imdb": "tt3619102",
+    "tmdb": 368256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-18",
+  "runtime_minutes": 83
+}

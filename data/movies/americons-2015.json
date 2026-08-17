@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_americons_2015",
+  "title": "Americons",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132158085",
+    "imdb": "tt2293060",
+    "tmdb": 312788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

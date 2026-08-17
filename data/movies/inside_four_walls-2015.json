@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_four_walls_2015",
+  "title": "Inside Four Walls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115793954",
+    "imdb": "tt7071408"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-01",
+  "runtime_minutes": 41
+}

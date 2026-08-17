@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_rewired_2015",
+  "title": "Dreams Rewired",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726969",
+    "imdb": "tt4414694",
+    "tmdb": 341240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-25",
+  "runtime_minutes": 88
+}

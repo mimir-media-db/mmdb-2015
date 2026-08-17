@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_house_2015",
+  "title": "Scary House",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55729756",
+    "imdb": "tt5068856",
+    "tmdb": 354697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

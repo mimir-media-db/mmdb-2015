@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_party_talk_2015",
+  "title": "Party Talk",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55687246",
+    "imdb": "tt8286178"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-15"
+}

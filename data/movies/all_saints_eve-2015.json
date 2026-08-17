@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_saints_eve_2015",
+  "title": "All Saints Eve",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899388",
+    "imdb": "tt2286506",
+    "tmdb": 325744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-17",
+  "runtime_minutes": 83
+}

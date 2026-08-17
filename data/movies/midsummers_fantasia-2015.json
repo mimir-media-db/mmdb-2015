@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midsummers_fantasia_2015",
+  "title": "A Midsummer's Fantasia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26582591",
+    "imdb": "tt3808172",
+    "tmdb": 297743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-11",
+  "runtime_minutes": 96
+}

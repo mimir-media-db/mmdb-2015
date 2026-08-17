@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_believe_me_2015",
+  "title": "Believe Me",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15070713",
+    "imdb": "tt3107070",
+    "tmdb": 285270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-16",
+  "runtime_minutes": 93
+}

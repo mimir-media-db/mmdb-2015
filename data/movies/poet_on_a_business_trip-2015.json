@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poet_on_a_business_trip_2015",
+  "title": "Poet on a Business Trip",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890549",
+    "imdb": "tt4653836",
+    "tmdb": 320858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}

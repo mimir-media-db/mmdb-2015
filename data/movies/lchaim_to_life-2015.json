@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lchaim_to_life_2015",
+  "title": "L'Chaim!: To Life!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20817249",
+    "imdb": "tt3163312",
+    "tmdb": 355622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27"
+}

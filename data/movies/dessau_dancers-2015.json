@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dessau_dancers_2015",
+  "title": "Dessau Dancers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20972616",
+    "imdb": "tt3797700",
+    "tmdb": 313517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-16",
+  "runtime_minutes": 90
+}

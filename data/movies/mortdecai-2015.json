@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mortdecai_2015",
+  "title": "Mortdecai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15103254",
+    "imdb": "tt3045616",
+    "tmdb": 210860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 106
+}

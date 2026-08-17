@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_directors_cut_2015",
+  "title": "Director's CUT",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20651718",
+    "imdb": "tt3714426",
+    "tmdb": 314491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-02"
+}

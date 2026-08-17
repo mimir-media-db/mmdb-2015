@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starve_your_dog_2015",
+  "title": "Starve Your Dog",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21480364",
+    "imdb": "tt4957512",
+    "tmdb": 358911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

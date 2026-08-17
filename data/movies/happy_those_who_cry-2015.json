@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_those_who_cry_2015",
+  "title": "Happy Those Who Cry",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112762798",
+    "imdb": "tt4595198",
+    "tmdb": 353796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

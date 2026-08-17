@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidnapping_freddy_heineken_2015",
+  "title": "Kidnapping Freddy Heineken",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16467411",
+    "imdb": "tt2917388",
+    "tmdb": 228968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-30",
+  "runtime_minutes": 99
+}

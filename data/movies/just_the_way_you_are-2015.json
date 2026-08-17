@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_the_way_you_are_2015",
+  "title": "Just The Way You Are",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20026852",
+    "imdb": "tt3837166",
+    "tmdb": 345630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-17",
+  "runtime_minutes": 107
+}

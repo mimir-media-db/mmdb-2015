@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sommeren_92_2015",
+  "title": "Sommeren '92",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496491",
+    "imdb": "tt2378830",
+    "tmdb": 353614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27",
+  "runtime_minutes": 93
+}

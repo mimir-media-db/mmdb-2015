@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_rack_2015",
+  "title": "Killer Rack",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28128948",
+    "imdb": "tt3369624",
+    "tmdb": 366255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

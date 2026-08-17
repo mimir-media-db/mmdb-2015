@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_a_beautiful_surprise_2015",
+  "title": "What a Beautiful Surprise",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19601592",
+    "imdb": "tt3916378",
+    "tmdb": 328720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-11",
+  "runtime_minutes": 91
+}

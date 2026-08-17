@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_iranian_style_2015",
+  "title": "Dance Iranian Style",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22252127",
+    "imdb": "tt4153328"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

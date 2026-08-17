@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_due_date_2015",
+  "title": "Due Date",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21526113",
+    "imdb": "tt4857062",
+    "tmdb": 385194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29"
+}

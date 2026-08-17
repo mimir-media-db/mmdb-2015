@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_am_kolnberg_2015",
+  "title": "Am Kölnberg",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19963476",
+    "imdb": "tt4111050",
+    "tmdb": 418439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-12",
+  "runtime_minutes": 88
+}

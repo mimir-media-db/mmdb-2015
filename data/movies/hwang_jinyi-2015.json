@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hwang_jinyi_2015",
+  "title": "Hwang Jin-yi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139840858",
+    "tmdb": 565304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-10"
+}

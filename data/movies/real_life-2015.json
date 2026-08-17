@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_life_2015",
+  "title": "Real Life",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126920605",
+    "imdb": "tt5296510",
+    "tmdb": 339789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07",
+  "runtime_minutes": 90
+}

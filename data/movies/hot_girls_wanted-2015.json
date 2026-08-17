@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_girls_wanted_2015",
+  "title": "Hot Girls Wanted",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263684",
+    "imdb": "tt4382552",
+    "tmdb": 318256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-24",
+  "runtime_minutes": 84
+}

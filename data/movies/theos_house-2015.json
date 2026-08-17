@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theos_house_2015",
+  "title": "Theo’s House",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65245442",
+    "imdb": "tt3678180",
+    "tmdb": 309952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

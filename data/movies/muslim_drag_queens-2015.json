@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muslim_drag_queens_2015",
+  "title": "Muslim Drag Queens",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136339519",
+    "imdb": "tt4959956",
+    "tmdb": 426635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naxal_2015",
+  "title": "Naxal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16948628",
+    "imdb": "tt4796654",
+    "tmdb": 378146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-19"
+}

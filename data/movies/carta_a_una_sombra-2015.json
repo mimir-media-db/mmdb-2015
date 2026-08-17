@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carta_a_una_sombra_2015",
+  "title": "Carta a una sombra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52063224",
+    "imdb": "tt4827256",
+    "tmdb": 365789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 73
+}

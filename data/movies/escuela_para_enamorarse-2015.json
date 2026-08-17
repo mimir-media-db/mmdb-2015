@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escuela_para_enamorarse_2015",
+  "title": "Escuela para Enamorarse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91812027",
+    "imdb": "tt6386372",
+    "tmdb": 1059740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

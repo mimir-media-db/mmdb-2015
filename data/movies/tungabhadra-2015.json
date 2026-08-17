@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tungabhadra_2015",
+  "title": "Tungabhadra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30598987",
+    "imdb": "tt6543384",
+    "tmdb": 400719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-20"
+}

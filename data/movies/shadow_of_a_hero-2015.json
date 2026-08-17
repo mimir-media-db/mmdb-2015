@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_of_a_hero_2015",
+  "title": "Shadow of a Hero",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729489",
+    "imdb": "tt2316585",
+    "tmdb": 521052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-03",
+  "runtime_minutes": 90
+}

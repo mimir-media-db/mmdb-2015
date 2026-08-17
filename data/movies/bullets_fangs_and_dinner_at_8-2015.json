@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullets_fangs_and_dinner_at_8_2015",
+  "title": "Bullets, Fangs and Dinner at 8",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28146810",
+    "imdb": "tt4509084",
+    "tmdb": 402448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-12",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nazis_in_the_cia_2015",
+  "title": "Nazis in the CIA",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50449653",
+    "imdb": "tt4758818",
+    "tmdb": 499580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-01",
+  "runtime_minutes": 52
+}

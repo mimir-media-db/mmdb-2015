@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_can_we_take_a_joke_2015",
+  "title": "Can We Take A Joke?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032558",
+    "imdb": "tt4324916",
+    "tmdb": 394668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 74
+}

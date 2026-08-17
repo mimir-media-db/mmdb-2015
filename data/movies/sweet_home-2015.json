@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_home_2015",
+  "title": "Sweet Home",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28864616",
+    "imdb": "tt3477752",
+    "tmdb": 328252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-06",
+  "runtime_minutes": 80
+}

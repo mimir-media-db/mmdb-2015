@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_im_gone_a_film_about_amy_2015",
+  "title": "I'm Gone, a film about Amy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055299"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

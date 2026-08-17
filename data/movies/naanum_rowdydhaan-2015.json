@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naanum_rowdydhaan_2015",
+  "title": "Naanum Rowdydhaan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252043",
+    "imdb": "tt5128328",
+    "tmdb": 320910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-21",
+  "runtime_minutes": 139
+}

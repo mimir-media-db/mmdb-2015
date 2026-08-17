@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_touch_by_touch_2015",
+  "title": "Touch by Touch",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19941354",
+    "imdb": "tt6081060",
+    "tmdb": 387960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-30"
+}

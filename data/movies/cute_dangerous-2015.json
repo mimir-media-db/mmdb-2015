@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cute_dangerous_2015",
+  "title": "Cute & Dangerous",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29891364",
+    "imdb": "tt4306308",
+    "tmdb": 325134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12"
+}

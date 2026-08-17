@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1000_oru_note_paranja_katha_2015",
+  "title": "1000 – Oru Note Paranja Katha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859377",
+    "imdb": "tt5471518",
+    "tmdb": 526883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gender_wars_2015",
+  "title": "Gender Wars",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21637187",
+    "imdb": "tt5253372",
+    "tmdb": 364760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

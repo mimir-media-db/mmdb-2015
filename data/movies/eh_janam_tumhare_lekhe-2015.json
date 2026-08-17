@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eh_janam_tumhare_lekhe_2015",
+  "title": "Eh Janam Tumhare Lekhe",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18918583",
+    "imdb": "tt4280824",
+    "tmdb": 321675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-30",
+  "runtime_minutes": 135
+}

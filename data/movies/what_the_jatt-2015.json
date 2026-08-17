@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_the_jatt_2015",
+  "title": "What the Jatt!!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869988",
+    "imdb": "tt5080254",
+    "tmdb": 351410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

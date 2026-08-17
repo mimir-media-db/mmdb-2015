@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yongju_valley_2015",
+  "title": "Yongju Valley",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136905003",
+    "imdb": "tt13545344",
+    "tmdb": 398222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-19"
+}

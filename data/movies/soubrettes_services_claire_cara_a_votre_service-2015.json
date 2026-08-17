@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soubrettes_services_claire_cara_a_votre_service_2015",
+  "title": "Soubrettes Services: Claire & Cara à votre service",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139864694",
+    "imdb": "tt5370436",
+    "tmdb": 334494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-09",
+  "runtime_minutes": 100
+}

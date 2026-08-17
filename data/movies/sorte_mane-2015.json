@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorte_mane_2015",
+  "title": "Sorte måne",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33569823",
+    "imdb": "tt4746594",
+    "tmdb": 385136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-11",
+  "runtime_minutes": 28
+}

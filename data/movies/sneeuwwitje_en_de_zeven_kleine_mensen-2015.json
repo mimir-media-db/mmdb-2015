@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sneeuwwitje_en_de_zeven_kleine_mensen_2015",
+  "title": "Sneeuwwitje en de zeven kleine mensen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28123793",
+    "imdb": "tt4298406",
+    "tmdb": 315252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 70
+}

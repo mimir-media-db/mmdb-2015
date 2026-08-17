@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_through_the_house_2015",
+  "title": "All Through the House",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720471",
+    "imdb": "tt4278962",
+    "tmdb": 373048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-31",
+  "runtime_minutes": 88
+}

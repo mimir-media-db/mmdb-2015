@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_of_adaline_2015",
+  "title": "The Age of Adaline",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16242543",
+    "imdb": "tt1655441",
+    "tmdb": 293863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-23",
+  "runtime_minutes": 112
+}

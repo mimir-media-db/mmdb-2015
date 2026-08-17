@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_night_bloody_night_2_revival_2015",
+  "title": "Silent Night, Bloody Night 2: Revival",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96405690",
+    "imdb": "tt4332746",
+    "tmdb": 418873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_happiness_2015",
+  "title": "Welcome to Happiness",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590564",
+    "imdb": "tt3564794",
+    "tmdb": 340255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

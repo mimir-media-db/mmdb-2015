@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_tribe_2015",
+  "title": "Tokyo Tribe",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20795559",
+    "imdb": "tt2808986",
+    "tmdb": 240566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-16",
+  "runtime_minutes": 116
+}

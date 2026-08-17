@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_nostro_ultimo_2015",
+  "title": "Il nostro ultimo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30889569",
+    "imdb": "tt5780594",
+    "tmdb": 367671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-09",
+  "runtime_minutes": 92
+}

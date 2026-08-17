@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_killed_nelson_nutmeg_2015",
+  "title": "Who Killed Nelson Nutmeg?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26964700",
+    "imdb": "tt3800520",
+    "tmdb": 381918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-10"
+}

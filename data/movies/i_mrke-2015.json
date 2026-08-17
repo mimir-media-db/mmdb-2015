@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_mrke_2015",
+  "title": "I mørke",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33541271",
+    "imdb": "tt4971426",
+    "tmdb": 705739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-11"
+}

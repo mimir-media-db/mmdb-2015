@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hanas_miso_soup_2015",
+  "title": "Hanas Miso Soup",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27952786",
+    "imdb": "tt5462892",
+    "tmdb": 363117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

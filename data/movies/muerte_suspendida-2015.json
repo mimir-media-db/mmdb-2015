@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muerte_suspendida_2015",
+  "title": "Muerte Suspendida",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58918041",
+    "imdb": "tt9173586",
+    "tmdb": 475499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}

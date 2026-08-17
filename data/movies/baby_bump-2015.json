@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_bump_2015",
+  "title": "Baby Bump",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30909539",
+    "imdb": "tt5028892",
+    "tmdb": 358511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03",
+  "runtime_minutes": 89
+}

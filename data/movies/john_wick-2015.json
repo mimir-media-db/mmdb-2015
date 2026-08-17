@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_wick_2015",
+  "title": "John Wick",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15732802",
+    "imdb": "tt2911666",
+    "tmdb": 245891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 101
+}

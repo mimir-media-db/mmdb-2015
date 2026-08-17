@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_live_the_bride_2015",
+  "title": "Long Live the Bride",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86666030",
+    "imdb": "tt4460546",
+    "tmdb": 356380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

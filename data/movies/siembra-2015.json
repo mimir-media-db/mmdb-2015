@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_siembra_2015",
+  "title": "Siembra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89037422",
+    "imdb": "tt4881328",
+    "tmdb": 354170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 82
+}

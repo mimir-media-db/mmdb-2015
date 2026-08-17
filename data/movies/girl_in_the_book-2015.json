@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_in_the_book_2015",
+  "title": "The Girl in the Book",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039849",
+    "imdb": "tt2980554",
+    "tmdb": 339145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-13",
+  "runtime_minutes": 86
+}

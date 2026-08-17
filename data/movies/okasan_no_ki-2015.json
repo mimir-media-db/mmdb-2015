@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_okasan_no_ki_2015",
+  "title": "Okāsan no Ki",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20039161",
+    "imdb": "tt4417518",
+    "tmdb": 738817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-06",
+  "runtime_minutes": 115
+}

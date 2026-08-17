@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_boy_2015",
+  "title": "Little Boy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18151808",
+    "imdb": "tt1810683",
+    "tmdb": 256962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-24",
+  "runtime_minutes": 106
+}

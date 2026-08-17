@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ombre_della_sera_2015",
+  "title": "Ombre della sera",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140474112",
+    "imdb": "tt3992280",
+    "tmdb": 826528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

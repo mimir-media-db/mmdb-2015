@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gotthard_graubner_farbraumkorper_2015",
+  "title": "Gotthard Graubner – Farb-Raum-Körper",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20850481",
+    "imdb": "tt4921070",
+    "tmdb": 360960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03"
+}

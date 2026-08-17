@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ula_2015",
+  "title": "Ula",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254928",
+    "imdb": "tt2946468",
+    "tmdb": 273872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-12"
+}

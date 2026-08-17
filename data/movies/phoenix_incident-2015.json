@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phoenix_incident_2015",
+  "title": "The Phoenix Incident",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26964660",
+    "imdb": "tt4341532",
+    "tmdb": 321039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-10",
+  "runtime_minutes": 81
+}

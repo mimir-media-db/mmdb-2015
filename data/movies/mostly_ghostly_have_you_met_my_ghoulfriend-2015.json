@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mostly_ghostly_have_you_met_my_ghoulfriend_2015",
+  "title": "Mostly Ghostly: Have You Met My Ghoulfriend?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17437792",
+    "imdb": "tt3138192",
+    "tmdb": 289239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-05",
+  "runtime_minutes": 90
+}

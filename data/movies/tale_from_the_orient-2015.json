@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_from_the_orient_2015",
+  "title": "A Tale from the Orient",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110263349",
+    "imdb": "tt6423420",
+    "tmdb": 534927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-04",
+  "runtime_minutes": 90
+}

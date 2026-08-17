@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intimate_enemies_2015",
+  "title": "Intimate Enemies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939567",
+    "imdb": "tt4607976",
+    "tmdb": 340067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-25",
+  "runtime_minutes": 110
+}

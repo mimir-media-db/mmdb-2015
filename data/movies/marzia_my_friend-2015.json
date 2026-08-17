@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marzia_my_friend_2015",
+  "title": "Marzia, My Friend",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113469644",
+    "imdb": "tt4518086",
+    "tmdb": 774913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-07",
+  "runtime_minutes": 80
+}

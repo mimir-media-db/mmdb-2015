@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resurrection_of_jake_the_snake_2015",
+  "title": "The Resurrection of Jake the Snake",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899995",
+    "imdb": "tt4016226",
+    "tmdb": 324181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 97
+}

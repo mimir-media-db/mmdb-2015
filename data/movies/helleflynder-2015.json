@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_helleflynder_2015",
+  "title": "Helleflynder",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73481735",
+    "imdb": "tt4632434"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 12
+}

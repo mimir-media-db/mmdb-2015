@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_magnifique_sous_leau_2015",
+  "title": "La Vie magnifique sous l'eau",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61074981",
+    "imdb": "tt4677352"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_through_the_rye_2015",
+  "title": "Coming Through the Rye",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27890352",
+    "imdb": "tt4048168",
+    "tmdb": 301339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-04",
+  "runtime_minutes": 97
+}

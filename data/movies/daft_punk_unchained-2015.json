@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daft_punk_unchained_2015",
+  "title": "Daft Punk Unchained",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21648702",
+    "imdb": "tt3833822",
+    "tmdb": 346401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

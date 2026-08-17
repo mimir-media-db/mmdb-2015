@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_kidnap_the_top_star_2015",
+  "title": "Mission: Kidnap the Top Star",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20946981",
+    "tmdb": 417585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03"
+}

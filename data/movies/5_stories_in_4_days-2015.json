@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_stories_in_4_days_2015",
+  "title": "5 Stories in 4 Days",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008508",
+    "imdb": "tt4295294",
+    "tmdb": 344926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 82
+}

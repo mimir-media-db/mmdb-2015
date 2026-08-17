@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catching_the_sun_2015",
+  "title": "Catching the Sun",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136720",
+    "imdb": "tt1698654",
+    "tmdb": 339161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-12",
+  "runtime_minutes": 75
+}

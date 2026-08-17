@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_12_deep_red_nights_2015",
+  "title": "12 Deep Red Nights",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19940313",
+    "imdb": "tt4577332",
+    "tmdb": 599139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_global_player_2015",
+  "title": "Global Player",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15857806",
+    "imdb": "tt2585798",
+    "tmdb": 174621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-24",
+  "runtime_minutes": 98
+}

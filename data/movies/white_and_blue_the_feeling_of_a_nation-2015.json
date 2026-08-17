@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_and_blue_the_feeling_of_a_nation_2015",
+  "title": "White and Blue: the feeling of a nation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123143096",
+    "tmdb": 1430688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 97
+}

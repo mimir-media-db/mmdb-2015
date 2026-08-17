@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhello_divas_2015",
+  "title": "Chhello Divas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21674485",
+    "imdb": "tt5086104",
+    "tmdb": 369865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-20"
+}

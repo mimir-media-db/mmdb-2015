@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_two_three_2015",
+  "title": "One, Two, Three",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47454960",
+    "imdb": "tt2381361",
+    "tmdb": 363589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

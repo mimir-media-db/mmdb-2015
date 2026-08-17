@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freetown_2015",
+  "title": "Freetown",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136262",
+    "imdb": "tt3735554",
+    "tmdb": 305044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-08"
+}

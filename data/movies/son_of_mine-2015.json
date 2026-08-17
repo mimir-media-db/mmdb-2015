@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_mine_2015",
+  "title": "Son of Mine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26155635",
+    "imdb": "tt2585160",
+    "tmdb": 306547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 102
+}

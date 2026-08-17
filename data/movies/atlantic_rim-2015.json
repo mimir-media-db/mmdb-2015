@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atlantic_rim_2015",
+  "title": "Atlantic Rim",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13534622",
+    "imdb": "tt2740710",
+    "tmdb": 203351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-03",
+  "runtime_minutes": 85
+}

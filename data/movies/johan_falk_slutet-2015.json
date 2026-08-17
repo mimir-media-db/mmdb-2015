@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_slutet_2015",
+  "title": "Johan Falk: Slutet",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26709214",
+    "imdb": "tt4815716",
+    "tmdb": 343689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}

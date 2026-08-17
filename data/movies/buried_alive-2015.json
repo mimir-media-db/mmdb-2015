@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buried_alive_2015",
+  "title": "Buried Alive",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107378393",
+    "imdb": "tt4530368",
+    "tmdb": 1481963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

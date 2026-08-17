@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_he_looks_2015",
+  "title": "The Way He Looks",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15485665",
+    "imdb": "tt1702014",
+    "tmdb": 237791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-26",
+  "runtime_minutes": 95
+}

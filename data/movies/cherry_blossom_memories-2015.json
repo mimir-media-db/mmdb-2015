@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_blossom_memories_2015",
+  "title": "Cherry Blossom Memories",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22815212",
+    "imdb": "tt5301956",
+    "tmdb": 365819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29"
+}

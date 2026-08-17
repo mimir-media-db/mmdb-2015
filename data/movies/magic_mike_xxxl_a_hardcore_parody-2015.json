@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_mike_xxxl_a_hardcore_parody_2015",
+  "title": "Magic Mike XXXL: A Hardcore Parody",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22249836",
+    "imdb": "tt4852724",
+    "tmdb": 348612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-07",
+  "runtime_minutes": 201
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barkhaa_2015",
+  "title": "Barkhaa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703077",
+    "imdb": "tt4556848",
+    "tmdb": 339795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-27"
+}

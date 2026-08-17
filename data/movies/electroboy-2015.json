@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_electroboy_2015",
+  "title": "Electroboy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15807752",
+    "imdb": "tt3905024",
+    "tmdb": 314530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-26",
+  "runtime_minutes": 117
+}

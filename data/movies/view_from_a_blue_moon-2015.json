@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_view_from_a_blue_moon_2015",
+  "title": "View from a Blue Moon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60642688",
+    "imdb": "tt5199588",
+    "tmdb": 368239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

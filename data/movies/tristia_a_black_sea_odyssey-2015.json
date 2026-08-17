@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tristia_a_black_sea_odyssey_2015",
+  "title": "Tristia: A Black Sea Odyssey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776629",
+    "imdb": "tt4151956",
+    "tmdb": 504726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-19",
+  "runtime_minutes": 98
+}

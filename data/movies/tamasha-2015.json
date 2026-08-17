@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tamasha_2015",
+  "title": "Tamasha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18387836",
+    "imdb": "tt3148502",
+    "tmdb": 339274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-27"
+}

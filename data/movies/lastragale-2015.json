@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lastragale_2015",
+  "title": "L'Astragale",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19817628",
+    "imdb": "tt3712088",
+    "tmdb": 329967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-08",
+  "runtime_minutes": 96
+}

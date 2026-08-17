@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lorchestre_de_minuit_2015",
+  "title": "L'orchestre de minuit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899838",
+    "imdb": "tt3276944",
+    "tmdb": 386207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 114
+}

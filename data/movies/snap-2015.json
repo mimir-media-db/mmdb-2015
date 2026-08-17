@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snap_2015",
+  "title": "Snap",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123149567",
+    "imdb": "tt5111886",
+    "tmdb": 368585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-31"
+}

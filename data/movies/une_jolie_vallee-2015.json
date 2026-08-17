@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_jolie_vallee_2015",
+  "title": "Une jolie vallée",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109046229",
+    "imdb": "tt5046234",
+    "tmdb": 359959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-01"
+}

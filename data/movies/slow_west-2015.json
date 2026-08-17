@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slow_west_2015",
+  "title": "Slow West",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15427353",
+    "imdb": "tt3205376",
+    "tmdb": 223485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-24",
+  "runtime_minutes": 84
+}

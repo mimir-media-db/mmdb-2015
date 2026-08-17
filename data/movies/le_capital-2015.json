@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_capital_2015",
+  "title": "Le Capital",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220821",
+    "imdb": "tt1951166",
+    "tmdb": 121793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 114
+}

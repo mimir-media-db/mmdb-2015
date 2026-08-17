@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_stop_a_wedding_2015",
+  "title": "How to Stop a Wedding",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18454729",
+    "imdb": "tt3630492",
+    "tmdb": 295881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-28",
+  "runtime_minutes": 72
+}

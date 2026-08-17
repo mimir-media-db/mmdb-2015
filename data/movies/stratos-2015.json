@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stratos_2015",
+  "title": "Stratos",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17057859",
+    "imdb": "tt3259474",
+    "tmdb": 254166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 137
+}

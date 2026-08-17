@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calendar_girls_2015",
+  "title": "Calendar Girls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19801769",
+    "imdb": "tt4897908",
+    "tmdb": 353952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-07",
+  "runtime_minutes": 131
+}

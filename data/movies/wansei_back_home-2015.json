@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wansei_back_home_2015",
+  "title": "Wansei Back Home",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099102",
+    "imdb": "tt5540084",
+    "tmdb": 364389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 111
+}

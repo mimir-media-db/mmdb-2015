@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zubaan_2015",
+  "title": "Zubaan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23783717",
+    "imdb": "tt3776484",
+    "tmdb": 455272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

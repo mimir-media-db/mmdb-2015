@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tyke_elephant_outlaw_2015",
+  "title": "Tyke Elephant Outlaw",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27929340",
+    "imdb": "tt4254838",
+    "tmdb": 339888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

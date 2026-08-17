@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_2015",
+  "title": "Spring",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18578674",
+    "imdb": "tt3395184",
+    "tmdb": 241855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-20",
+  "runtime_minutes": 109
+}

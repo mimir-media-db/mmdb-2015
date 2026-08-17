@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dusminguet_i_la_patxanga_jonda_2015",
+  "title": "Dusminguet i la patxanga jonda",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118641188",
+    "imdb": "tt5313590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

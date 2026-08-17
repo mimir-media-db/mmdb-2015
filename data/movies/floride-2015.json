@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floride_2015",
+  "title": "Floride",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20718321",
+    "imdb": "tt4163636",
+    "tmdb": 340361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-12",
+  "runtime_minutes": 110
+}

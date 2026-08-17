@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reversion_2015",
+  "title": "Reversion",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58815059",
+    "imdb": "tt4578084",
+    "tmdb": 362128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

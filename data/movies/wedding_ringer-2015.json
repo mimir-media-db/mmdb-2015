@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_ringer_2015",
+  "title": "The Wedding Ringer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17049587",
+    "imdb": "tt0884732",
+    "tmdb": 252838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-10",
+  "runtime_minutes": 101
+}

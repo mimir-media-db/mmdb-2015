@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_handout_2015",
+  "title": "The Handout",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106807587",
+    "imdb": "tt2610468",
+    "tmdb": 327649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-23",
+  "runtime_minutes": 99
+}

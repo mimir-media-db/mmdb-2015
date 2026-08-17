@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_in_gold_2015",
+  "title": "The Woman in Gold",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17184103",
+    "imdb": "tt2404425",
+    "tmdb": 304357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-09",
+  "runtime_minutes": 109
+}

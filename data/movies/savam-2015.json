@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_savam_2015",
+  "title": "Savam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646973",
+    "imdb": "tt5228918",
+    "tmdb": 384263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-01"
+}

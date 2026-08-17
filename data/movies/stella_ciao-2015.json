@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_stella_ciao_2015",
+  "title": "Stella ciao",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88874328"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_staatsdiener_2015",
+  "title": "Staatsdiener",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20817310",
+    "imdb": "tt4443860",
+    "tmdb": 346642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27",
+  "runtime_minutes": 80
+}

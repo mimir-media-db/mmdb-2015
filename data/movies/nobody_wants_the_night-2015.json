@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_wants_the_night_2015",
+  "title": "Nobody Wants the Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18758169",
+    "imdb": "tt2735996",
+    "tmdb": 320004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-05",
+  "runtime_minutes": 118
+}

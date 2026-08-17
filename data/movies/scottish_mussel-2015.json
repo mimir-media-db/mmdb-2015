@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scottish_mussel_2015",
+  "title": "Scottish Mussel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83808455",
+    "imdb": "tt4194108",
+    "tmdb": 346145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

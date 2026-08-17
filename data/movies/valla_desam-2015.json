@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valla_desam_2015",
+  "title": "Valla Desam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814884",
+    "imdb": "tt4981012",
+    "tmdb": 477239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-17"
+}

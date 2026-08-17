@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_of_age_2015",
+  "title": "Coming of Age",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719352",
+    "imdb": "tt4433886",
+    "tmdb": 384304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

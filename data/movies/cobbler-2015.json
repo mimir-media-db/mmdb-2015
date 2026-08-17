@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cobbler_2015",
+  "title": "The Cobbler",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15407653",
+    "imdb": "tt3203616",
+    "tmdb": 238215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-12",
+  "runtime_minutes": 99
+}

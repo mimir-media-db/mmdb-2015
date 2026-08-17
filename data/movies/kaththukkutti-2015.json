@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaththukkutti_2015",
+  "title": "Kaththukkutti",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126667",
+    "imdb": "tt13057496",
+    "tmdb": 363182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-09"
+}

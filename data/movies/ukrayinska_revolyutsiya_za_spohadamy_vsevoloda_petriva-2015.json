@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ukrayinska_revolyutsiya_za_spohadamy_vsevoloda_petriva_2015",
+  "title": "Ukrayins'ka revolyutsiya za spohadamy Vsevoloda Petriva",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576036",
+    "imdb": "tt7031912",
+    "tmdb": 1519649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-14"
+}

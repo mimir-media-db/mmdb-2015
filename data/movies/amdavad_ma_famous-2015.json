@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amdavad_ma_famous_2015",
+  "title": "Amdavad Ma Famous",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23692030",
+    "imdb": "tt5090740",
+    "tmdb": 439756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-01",
+  "runtime_minutes": 29
+}

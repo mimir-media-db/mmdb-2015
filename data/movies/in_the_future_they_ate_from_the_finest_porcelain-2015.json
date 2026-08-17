@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_future_they_ate_from_the_finest_porcelain_2015",
+  "title": "In the Future They Ate from the Finest Porcelain",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50379249",
+    "imdb": "tt4932736",
+    "tmdb": 447108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 29
+}

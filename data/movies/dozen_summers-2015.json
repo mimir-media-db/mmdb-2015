@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dozen_summers_2015",
+  "title": "A Dozen Summers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21480322",
+    "imdb": "tt3533254",
+    "tmdb": 355571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-21"
+}

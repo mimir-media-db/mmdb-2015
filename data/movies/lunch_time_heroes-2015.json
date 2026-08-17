@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lunch_time_heroes_2015",
+  "title": "Lunch Time Heroes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095396",
+    "imdb": "tt4884912",
+    "tmdb": 473543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-28",
+  "runtime_minutes": 88
+}

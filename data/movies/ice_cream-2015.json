@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_cream_2015",
+  "title": "Ice Cream",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22678082",
+    "imdb": "tt10569454"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bajirao_mastani_2015",
+  "title": "Bajirao Mastani",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16837125",
+    "imdb": "tt3735246",
+    "tmdb": 362045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04",
+  "runtime_minutes": 158
+}

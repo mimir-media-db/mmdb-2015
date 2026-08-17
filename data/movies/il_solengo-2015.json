@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_solengo_2015",
+  "title": "Il solengo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25236157",
+    "imdb": "tt4924618",
+    "tmdb": 378480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 66
+}

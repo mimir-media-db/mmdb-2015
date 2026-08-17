@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ts_playground_21_2015",
+  "title": "TS Playground 21",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140310616",
+    "imdb": "tt28627657",
+    "tmdb": 441539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-28",
+  "runtime_minutes": 165
+}

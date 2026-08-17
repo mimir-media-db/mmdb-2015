@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_we_become_2015",
+  "title": "What We Become",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19929809",
+    "imdb": "tt3547682",
+    "tmdb": 356326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-29",
+  "runtime_minutes": 90
+}

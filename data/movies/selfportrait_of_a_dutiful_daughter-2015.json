@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selfportrait_of_a_dutiful_daughter_2015",
+  "title": "Self-Portrait of a Dutiful Daughter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28734830",
+    "imdb": "tt4213758",
+    "tmdb": 318066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

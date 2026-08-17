@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anthony_jeselnik_thoughts_and_prayers_2015",
+  "title": "Anthony Jeselnik: Thoughts and Prayers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100350",
+    "imdb": "tt5087554",
+    "tmdb": 364089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16",
+  "runtime_minutes": 59
+}

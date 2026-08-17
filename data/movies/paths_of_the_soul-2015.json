@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paths_of_the_soul_2015",
+  "title": "Paths of the Soul",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25213076",
+    "imdb": "tt4957446",
+    "tmdb": 358908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-15",
+  "runtime_minutes": 115
+}

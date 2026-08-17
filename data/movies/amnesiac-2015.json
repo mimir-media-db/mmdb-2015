@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amnesiac_2015",
+  "title": "Amnesiac",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20821908",
+    "imdb": "tt2837336",
+    "tmdb": 351043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-14",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacation_2015",
+  "title": "Vacation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18155457",
+    "imdb": "tt1524930",
+    "tmdb": 296099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-29",
+  "runtime_minutes": 99
+}

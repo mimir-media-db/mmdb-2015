@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adrenaline_2015",
+  "title": "Adrenaline",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775647",
+    "imdb": "tt2458952",
+    "tmdb": 358883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teenage_mutant_ninja_turtles_2015",
+  "title": "Teenage Mutant Ninja Turtles",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9653404",
+    "imdb": "tt1291150",
+    "tmdb": 98566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-02",
+  "runtime_minutes": 101
+}

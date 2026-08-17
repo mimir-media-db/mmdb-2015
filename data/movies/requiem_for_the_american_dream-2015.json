@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_requiem_for_the_american_dream_2015",
+  "title": "Requiem for the American Dream",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24273547",
+    "imdb": "tt3270538",
+    "tmdb": 333377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 73
+}

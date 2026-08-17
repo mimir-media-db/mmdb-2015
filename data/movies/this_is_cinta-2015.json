@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_cinta_2015",
+  "title": "This Is Cinta",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19317534",
+    "imdb": "tt27614009",
+    "tmdb": 361386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_who_fall_have_wings_2015",
+  "title": "Those Who Fall Have Wings",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20731368",
+    "imdb": "tt3446876",
+    "tmdb": 346761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-08",
+  "runtime_minutes": 93
+}

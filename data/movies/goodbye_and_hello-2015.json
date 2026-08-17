@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_and_hello_2015",
+  "title": "Goodbye and Hello",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21706943",
+    "imdb": "tt6150298",
+    "tmdb": 383040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-24"
+}

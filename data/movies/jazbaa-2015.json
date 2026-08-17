@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jazbaa_2015",
+  "title": "Jazbaa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18702263",
+    "imdb": "tt4323504",
+    "tmdb": 360826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-09",
+  "runtime_minutes": 119
+}

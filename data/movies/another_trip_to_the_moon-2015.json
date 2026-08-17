@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_trip_to_the_moon_2015",
+  "title": "Another Trip to the Moon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25470202",
+    "imdb": "tt4653526",
+    "tmdb": 316884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

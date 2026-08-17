@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nola_circus_2015",
+  "title": "N.O.L.A Circus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83047962",
+    "imdb": "tt3349550",
+    "tmdb": 447140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

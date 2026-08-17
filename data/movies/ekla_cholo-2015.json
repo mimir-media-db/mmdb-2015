@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ekla_cholo_2015",
+  "title": "Ekla Cholo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905142",
+    "imdb": "tt4949966",
+    "tmdb": 579806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-19"
+}

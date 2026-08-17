@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_tub_time_machine_2_2015",
+  "title": "Hot Tub Time Machine 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15028220",
+    "imdb": "tt2637294",
+    "tmdb": 243938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-20",
+  "runtime_minutes": 93
+}

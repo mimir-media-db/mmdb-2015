@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_dictator_2015",
+  "title": "Dear Dictator",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21825218",
+    "imdb": "tt3644552",
+    "tmdb": 293429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-31"
+}

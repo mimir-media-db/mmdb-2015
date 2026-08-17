@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_on_2015",
+  "title": "Dream On",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28132673",
+    "imdb": "tt5200392",
+    "tmdb": 1419305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

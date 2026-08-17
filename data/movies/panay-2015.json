@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panay_2015",
+  "title": "Panay",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21449373",
+    "imdb": "tt4801604",
+    "tmdb": 390384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25"
+}

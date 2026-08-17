@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forger_2015",
+  "title": "The Forger",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17037225",
+    "imdb": "tt2376218",
+    "tmdb": 255157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-19",
+  "runtime_minutes": 92
+}

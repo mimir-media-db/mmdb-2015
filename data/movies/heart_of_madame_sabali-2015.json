@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_madame_sabali_2015",
+  "title": "The Heart of Madame Sabali",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55138473",
+    "imdb": "tt4899342",
+    "tmdb": 362626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

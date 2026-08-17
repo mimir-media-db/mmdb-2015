@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_thank_you_2015",
+  "title": "I Love You. Thank You.",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124745101",
+    "imdb": "tt4370236",
+    "tmdb": 346896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_a_rainy_day_2015",
+  "title": "For a Rainy Day",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56365555",
+    "imdb": "tt6208000",
+    "tmdb": 1282456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

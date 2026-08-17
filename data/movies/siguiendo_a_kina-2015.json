@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siguiendo_a_kina_2015",
+  "title": "Siguiendo a Kina",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123434891",
+    "imdb": "tt4861358"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 63
+}

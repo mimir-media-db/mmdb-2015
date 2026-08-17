@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shades_of_truth_2015",
+  "title": "Shades of Truth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96405420",
+    "imdb": "tt3565406",
+    "tmdb": 1359820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

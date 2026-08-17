@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spandana_2015",
+  "title": "Spandana",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28419648",
+    "imdb": "tt7666050",
+    "tmdb": 1265649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-18"
+}

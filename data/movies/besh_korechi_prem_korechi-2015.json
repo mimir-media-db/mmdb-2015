@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_besh_korechi_prem_korechi_2015",
+  "title": "Besh Korechi Prem Korechi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538698",
+    "imdb": "tt4882700",
+    "tmdb": 539731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-17",
+  "runtime_minutes": 175
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_escribire_arte_con_mayuscula_2015",
+  "title": "No escribiré arte con mayúscula",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29963645",
+    "imdb": "tt4460642",
+    "tmdb": 361775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

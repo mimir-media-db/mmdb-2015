@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_in_the_car_with_glasses_and_a_gun_2015",
+  "title": "The Lady in the Car with Glasses and a Gun",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611114",
+    "imdb": "tt4159182",
+    "tmdb": 330298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-05",
+  "runtime_minutes": 93
+}

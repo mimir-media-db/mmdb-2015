@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_and_country_2015",
+  "title": "Queen and Country",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16028839",
+    "imdb": "tt2392810",
+    "tmdb": 266084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07",
+  "runtime_minutes": 115
+}

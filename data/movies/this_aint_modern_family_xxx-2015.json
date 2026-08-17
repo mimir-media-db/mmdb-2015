@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_modern_family_xxx_2015",
+  "title": "This Ain’t Modern Family XXX",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412711",
+    "imdb": "tt5008652",
+    "tmdb": 535648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-23",
+  "runtime_minutes": 88
+}

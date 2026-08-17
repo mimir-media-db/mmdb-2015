@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_now_playing_2015",
+  "title": "Now Playing",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21059575",
+    "imdb": "tt14357742",
+    "tmdb": 492442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-20"
+}

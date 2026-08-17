@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antique_2015",
+  "title": "The Antique",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19720517",
+    "imdb": "tt6794388",
+    "tmdb": 527593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 105
+}

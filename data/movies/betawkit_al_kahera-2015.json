@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_betawkit_al_kahera_2015",
+  "title": "Betawkit Al Kahera",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20383218",
+    "imdb": "tt4370382",
+    "tmdb": 370471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-15",
+  "runtime_minutes": 110
+}

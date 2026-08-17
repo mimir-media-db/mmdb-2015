@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_six_2015",
+  "title": "Mr. Six",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18650984",
+    "imdb": "tt4701702",
+    "tmdb": 357940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-24",
+  "runtime_minutes": 134
+}

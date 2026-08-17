@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_the_royal_albert_hall_2015",
+  "title": "Live at the Royal Albert Hall",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20831158",
+    "imdb": "tt5368296",
+    "tmdb": 368692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jwalantham_2015",
+  "title": "Jwalantham",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775781",
+    "imdb": "tt5107560"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_better_and_worse_2015",
+  "title": "For Better and Worse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18451068",
+    "imdb": "tt3886006",
+    "tmdb": 327231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-06",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shades_of_decadencia_2015",
+  "title": "Shades of Decadencia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137592387",
+    "imdb": "tt3494676",
+    "tmdb": 360028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

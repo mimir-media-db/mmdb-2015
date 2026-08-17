@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bakuman_2015",
+  "title": "Bakuman",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39078701",
+    "imdb": "tt3715854",
+    "tmdb": 327536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 119
+}

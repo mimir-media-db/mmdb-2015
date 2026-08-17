@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samba_jazz_2015",
+  "title": "Samba & Jazz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118653276",
+    "imdb": "tt3881668",
+    "tmdb": 372124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

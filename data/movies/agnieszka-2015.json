@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agnieszka_2015",
+  "title": "Agnieszka",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20742867",
+    "imdb": "tt4080046",
+    "tmdb": 340594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-28",
+  "runtime_minutes": 90
+}

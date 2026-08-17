@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_as_hell_2015",
+  "title": "Mad as Hell",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23680645",
+    "imdb": "tt1826550",
+    "tmdb": 267178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-07",
+  "runtime_minutes": 80
+}

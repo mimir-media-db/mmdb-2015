@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_bong_420_2015",
+  "title": "Evil Bong 420",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89350759",
+    "imdb": "tt4817640",
+    "tmdb": 337300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 53
+}

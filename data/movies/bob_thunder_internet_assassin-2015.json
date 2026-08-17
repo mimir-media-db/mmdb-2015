@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bob_thunder_internet_assassin_2015",
+  "title": "Bob Thunder: Internet Assassin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20715346",
+    "imdb": "tt3874556",
+    "tmdb": 365990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-27"
+}

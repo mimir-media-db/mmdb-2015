@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revenge_of_the_traveling_whore_2015",
+  "title": "The Revenge of the Traveling Whore",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21334186",
+    "imdb": "tt3152166",
+    "tmdb": 362552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_sun_mu_2015",
+  "title": "I Am Sun Mu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50322115",
+    "imdb": "tt4722674",
+    "tmdb": 383353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

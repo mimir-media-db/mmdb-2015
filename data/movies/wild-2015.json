@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_2015",
+  "title": "Wild",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17065888",
+    "imdb": "tt2305051",
+    "tmdb": 228970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 115
+}

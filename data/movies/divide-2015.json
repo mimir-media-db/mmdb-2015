@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divide_2015",
+  "title": "The Divide",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23797171",
+    "imdb": "tt2254110",
+    "tmdb": 392269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

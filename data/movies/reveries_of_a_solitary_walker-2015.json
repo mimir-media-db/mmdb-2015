@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reveries_of_a_solitary_walker_2015",
+  "title": "Reveries of a Solitary Walker",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27997194",
+    "imdb": "tt3854192",
+    "tmdb": 367405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

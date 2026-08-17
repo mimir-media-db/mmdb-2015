@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_a_trumpet_2015",
+  "title": "Life Is a Trumpet",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23698359",
+    "imdb": "tt2936938",
+    "tmdb": 385654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

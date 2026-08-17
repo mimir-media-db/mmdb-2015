@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gemma_bovery_2015",
+  "title": "Gemma Bovery",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16864725",
+    "imdb": "tt2788556",
+    "tmdb": 272435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-05",
+  "runtime_minutes": 99
+}

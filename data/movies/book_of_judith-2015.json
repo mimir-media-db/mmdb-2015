@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_judith_2015",
+  "title": "The Book of Judith",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42016894",
+    "imdb": "tt5236614"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

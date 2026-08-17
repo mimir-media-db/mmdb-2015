@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prophecy_2015",
+  "title": "Prophecy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106808026",
+    "imdb": "tt3952226",
+    "tmdb": 347483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-06"
+}

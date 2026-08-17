@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_lear_2015",
+  "title": "King Lear",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112161974",
+    "imdb": "tt3804350",
+    "tmdb": 319979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19"
+}

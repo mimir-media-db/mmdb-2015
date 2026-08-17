@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_appropriate_behavior_2015",
+  "title": "Appropriate Behavior",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16154258",
+    "imdb": "tt3077108",
+    "tmdb": 249916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-14",
+  "runtime_minutes": 86
+}

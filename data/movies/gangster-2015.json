@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gangster_2015",
+  "title": "Gangster",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25471378",
+    "imdb": "tt6444398",
+    "tmdb": 357464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_name_of_2015",
+  "title": "In the Name Of",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012592",
+    "imdb": "tt2650642",
+    "tmdb": 160165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-14",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_and_a_hard_place_2015",
+  "title": "A Rock and a Hard Place",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120733675",
+    "imdb": "tt3164970"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-01",
+  "runtime_minutes": 78
+}

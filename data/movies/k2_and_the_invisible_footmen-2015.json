@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_k2_and_the_invisible_footmen_2015",
+  "title": "K2 and the Invisible Footmen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29048988",
+    "imdb": "tt4838614",
+    "tmdb": 314292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-20",
+  "runtime_minutes": 54
+}

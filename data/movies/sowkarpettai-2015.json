@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sowkarpettai_2015",
+  "title": "Sowkarpettai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25553369",
+    "imdb": "tt5543488",
+    "tmdb": 369819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

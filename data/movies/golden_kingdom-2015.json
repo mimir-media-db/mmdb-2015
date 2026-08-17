@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_kingdom_2015",
+  "title": "Golden Kingdom",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33842430",
+    "imdb": "tt3440132",
+    "tmdb": 339258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

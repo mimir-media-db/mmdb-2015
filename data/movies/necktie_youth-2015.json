@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_necktie_youth_2015",
+  "title": "Necktie Youth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116196366",
+    "imdb": "tt4515662",
+    "tmdb": 328153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}

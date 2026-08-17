@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_heart_2015",
+  "title": "In the Heart",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18169503",
+    "imdb": "tt2610240",
+    "tmdb": 301162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-12",
+  "runtime_minutes": 99
+}

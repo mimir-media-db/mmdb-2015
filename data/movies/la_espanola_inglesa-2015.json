@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_espanola_inglesa_2015",
+  "title": "La española inglesa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689099",
+    "imdb": "tt4769064",
+    "tmdb": 367769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paambhu_sattai_2015",
+  "title": "Paambhu Sattai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18740750",
+    "imdb": "tt5698088",
+    "tmdb": 363313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-14"
+}

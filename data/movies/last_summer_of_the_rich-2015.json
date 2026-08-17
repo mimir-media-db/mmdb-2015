@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_summer_of_the_rich_2015",
+  "title": "The Last Summer of the Rich",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703168",
+    "imdb": "tt4288750",
+    "tmdb": 324343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-07",
+  "runtime_minutes": 91
+}

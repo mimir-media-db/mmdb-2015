@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malli_malli_idi_rani_roju_2015",
+  "title": "Malli Malli Idi Rani Roju",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263801",
+    "imdb": "tt4431392",
+    "tmdb": 326153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-06",
+  "runtime_minutes": 161
+}

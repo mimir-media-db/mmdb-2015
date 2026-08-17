@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beach_of_the_drowned_2015",
+  "title": "The Beach of the Drowned",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19609890",
+    "imdb": "tt3721072",
+    "tmdb": 347660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-10",
+  "runtime_minutes": 96
+}

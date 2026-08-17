@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sam_klemkes_time_machine_2015",
+  "title": "Sam Klemke's Time Machine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726952",
+    "imdb": "tt4228876",
+    "tmdb": 311690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mia_madre_fa_lattrice_2015",
+  "title": "Mia madre fa l'attrice",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051326",
+    "imdb": "tt5234766",
+    "tmdb": 368374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_as_a_film_how_my_father_tried_to_capture_happiness_2015",
+  "title": "My Life as A Film: How my Father tried to capture Happiness",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42414983",
+    "imdb": "tt5800086",
+    "tmdb": 397522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-27",
+  "runtime_minutes": 77
+}

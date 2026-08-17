@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_among_the_believers_2015",
+  "title": "Among the Believers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775654",
+    "imdb": "tt4504626",
+    "tmdb": 334681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

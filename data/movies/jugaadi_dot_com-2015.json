@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jugaadi_dot_com_2015",
+  "title": "Jugaadi Dot Com",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20026851",
+    "imdb": "tt12496076",
+    "tmdb": 376115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25"
+}

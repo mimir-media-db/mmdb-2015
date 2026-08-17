@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_days_in_september_2015",
+  "title": "Three days in September",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24063316",
+    "imdb": "tt3990720",
+    "tmdb": 290310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

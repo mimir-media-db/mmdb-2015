@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_victoria_2015",
+  "title": "Victoria",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786433",
+    "imdb": "tt4226388",
+    "tmdb": 320007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-07",
+  "runtime_minutes": 140
+}

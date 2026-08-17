@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_allees_sombres_2015",
+  "title": "Les Allées sombres",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100387606",
+    "imdb": "tt5046128",
+    "tmdb": 458885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

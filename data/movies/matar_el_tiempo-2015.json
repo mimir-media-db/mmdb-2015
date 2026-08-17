@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matar_el_tiempo_2015",
+  "title": "Matar el tiempo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98549272",
+    "imdb": "tt3822170",
+    "tmdb": 331638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29",
+  "runtime_minutes": 112
+}

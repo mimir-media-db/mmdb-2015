@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_citizens_of_nowhere_2015",
+  "title": "Citizens of Nowhere",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055394",
+    "imdb": "tt4437884"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 52
+}

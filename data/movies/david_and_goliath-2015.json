@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_david_and_goliath_2015",
+  "title": "David and Goliath",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47091783",
+    "imdb": "tt3962210",
+    "tmdb": 328739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dabbe_dab6e_2015",
+  "title": "Dabbe (Dab6e)",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21524936",
+    "imdb": "tt4967920",
+    "tmdb": 393821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 160
+}

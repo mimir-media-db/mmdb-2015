@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_hugs_in_bratislava_2015",
+  "title": "Free Hugs in Bratislava",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136357011",
+    "imdb": "tt38482095",
+    "tmdb": 1577631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-12",
+  "runtime_minutes": 10
+}

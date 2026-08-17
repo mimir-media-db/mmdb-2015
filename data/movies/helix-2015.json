@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helix_2015",
+  "title": "Helix",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116189337",
+    "imdb": "tt1764355",
+    "tmdb": 382651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

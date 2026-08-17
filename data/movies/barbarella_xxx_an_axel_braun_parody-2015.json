@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbarella_xxx_an_axel_braun_parody_2015",
+  "title": "Barbarella XXX: An Axel Braun Parody",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20181139",
+    "imdb": "tt4177064",
+    "tmdb": 332316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-21",
+  "runtime_minutes": 117
+}

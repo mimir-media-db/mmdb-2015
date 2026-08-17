@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kanchana_2_2015",
+  "title": "Kanchana 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6936064",
+    "imdb": "tt3725026",
+    "tmdb": 330425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17"
+}

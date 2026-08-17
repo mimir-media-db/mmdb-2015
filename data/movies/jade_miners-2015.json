@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jade_miners_2015",
+  "title": "Jade Miners",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099927",
+    "imdb": "tt4653900",
+    "tmdb": 322872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

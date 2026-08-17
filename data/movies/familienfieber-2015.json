@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_familienfieber_2015",
+  "title": "Familienfieber",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18020115",
+    "imdb": "tt3424758",
+    "tmdb": 300886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 78
+}

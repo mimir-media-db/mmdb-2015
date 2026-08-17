@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hadwins_judgement_2015",
+  "title": "Hadwin's Judgement",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22678065",
+    "imdb": "tt2872640",
+    "tmdb": 366254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

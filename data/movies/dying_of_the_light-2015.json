@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dying_of_the_light_2015",
+  "title": "The Dying of the Light",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61718142",
+    "imdb": "tt5217256",
+    "tmdb": 378417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-18",
+  "runtime_minutes": 95
+}

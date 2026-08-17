@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cronies_2015",
+  "title": "Cronies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244931",
+    "imdb": "tt3389296",
+    "tmdb": 309035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sulanga_gini_aran_2015",
+  "title": "Sulanga Gini Aran",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29831174",
+    "imdb": "tt4881126",
+    "tmdb": 353739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

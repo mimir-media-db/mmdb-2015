@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_shadow_2015",
+  "title": "White Shadow",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16623201",
+    "imdb": "tt3077150",
+    "tmdb": 241220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12",
+  "runtime_minutes": 115
+}

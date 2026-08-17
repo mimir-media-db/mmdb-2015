@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manifesto_2015",
+  "title": "Manifesto",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21539923",
+    "imdb": "tt4511200",
+    "tmdb": 1038362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-09",
+  "runtime_minutes": 95
+}

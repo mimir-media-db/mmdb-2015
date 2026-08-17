@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_the_wind_2015",
+  "title": "Memories of the Wind",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25434607",
+    "imdb": "tt4938790",
+    "tmdb": 372232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-11",
+  "runtime_minutes": 124
+}

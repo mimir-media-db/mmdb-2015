@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_submarine_kid_2015",
+  "title": "The Submarine Kid",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775903",
+    "imdb": "tt3217994",
+    "tmdb": 375345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 109
+}

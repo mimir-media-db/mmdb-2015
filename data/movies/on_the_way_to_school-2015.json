@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_way_to_school_2015",
+  "title": "On the Way to School",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16678283",
+    "imdb": "tt3013258",
+    "tmdb": 222297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 77
+}

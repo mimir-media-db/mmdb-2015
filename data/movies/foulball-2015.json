@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_foulball_2015",
+  "title": "Foulball",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060601",
+    "tmdb": 373991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-02"
+}

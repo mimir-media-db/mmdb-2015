@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_sugars_cold_world_2015",
+  "title": "Hot Sugar's Cold World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59304918",
+    "imdb": "tt4423066",
+    "tmdb": 324275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

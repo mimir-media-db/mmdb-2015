@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finest_ever_2015",
+  "title": "The Finest Ever",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21525073",
+    "imdb": "tt4959276",
+    "tmdb": 439401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

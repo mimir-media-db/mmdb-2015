@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hombre_nuevo_2015",
+  "title": "El hombre nuevo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23671760",
+    "imdb": "tt4291900",
+    "tmdb": 326376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 79
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_action_hero_biju_2015",
+  "title": "Action Hero Biju",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20026840",
+    "imdb": "tt5320514",
+    "tmdb": 381374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-18",
+  "runtime_minutes": 144
+}

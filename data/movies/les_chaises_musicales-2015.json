@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_chaises_musicales_2015",
+  "title": "Les chaises musicales",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20724384",
+    "imdb": "tt3855834",
+    "tmdb": 345259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-13",
+  "runtime_minutes": 83
+}

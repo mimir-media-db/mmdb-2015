@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_french_kills_2015",
+  "title": "French Kills",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135985026",
+    "tmdb": 1518962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-15",
+  "runtime_minutes": 76
+}

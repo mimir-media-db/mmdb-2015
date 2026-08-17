@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salut_damour_2015",
+  "title": "Salut d'Amour",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19644489",
+    "imdb": "tt4695462",
+    "tmdb": 329253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 112
+}

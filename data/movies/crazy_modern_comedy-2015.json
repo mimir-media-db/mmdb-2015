@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_modern_comedy_2015",
+  "title": "Crazy Modern Comedy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28725366",
+    "imdb": "tt11646346",
+    "tmdb": 395696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

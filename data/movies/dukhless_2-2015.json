@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dukhless_2_2015",
+  "title": "Dukhless 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21405637",
+    "imdb": "tt3136646",
+    "tmdb": 327982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-05",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_territory_2015",
+  "title": "Territory",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4456213",
+    "imdb": "tt2251828",
+    "tmdb": 335724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-11",
+  "runtime_minutes": 151
+}

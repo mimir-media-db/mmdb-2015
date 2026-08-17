@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ukrainskyi_arhument_2015",
+  "title": "Ukrainskyi arhument",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574093",
+    "imdb": "tt21476184",
+    "tmdb": 1008460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-25",
+  "runtime_minutes": 60
+}

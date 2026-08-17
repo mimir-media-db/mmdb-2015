@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_salt_ani_prem_2015",
+  "title": "Sugar Salt Ani Prem",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116158388",
+    "imdb": "tt3693976",
+    "tmdb": 653297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-12"
+}

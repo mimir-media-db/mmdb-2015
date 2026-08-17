@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiyamachi_daruma_2015",
+  "title": "Kiyamachi Daruma",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65270944",
+    "imdb": "tt3853332",
+    "tmdb": 405410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

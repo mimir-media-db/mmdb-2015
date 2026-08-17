@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_salt_2015",
+  "title": "My Name Is Salt",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21217598",
+    "imdb": "tt3276852",
+    "tmdb": 267301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-12",
+  "runtime_minutes": 92
+}

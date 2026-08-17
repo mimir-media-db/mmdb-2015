@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_athar_al_farasha_2015",
+  "title": "Athar Al Farasha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71421636",
+    "imdb": "tt3498730",
+    "tmdb": 309186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

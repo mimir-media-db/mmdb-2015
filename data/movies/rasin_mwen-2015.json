@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rasin_mwen_2015",
+  "title": "Rasin Mwen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131151854",
+    "imdb": "tt3413104",
+    "tmdb": 322238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-30"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fazza_2015",
+  "title": "Fazza",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20408360",
+    "imdb": "tt7189362",
+    "tmdb": 584087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-08"
+}

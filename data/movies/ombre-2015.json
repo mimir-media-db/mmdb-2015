@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ombre_2015",
+  "title": "Ombre",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25857890",
+    "imdb": "tt3054606",
+    "tmdb": 385568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-20"
+}

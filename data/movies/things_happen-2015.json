@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_things_happen_2015",
+  "title": "Things Happen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65931485",
+    "imdb": "tt4526030"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-01"
+}

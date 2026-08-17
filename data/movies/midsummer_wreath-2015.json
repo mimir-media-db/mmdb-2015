@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midsummer_wreath_2015",
+  "title": "The Midsummer Wreath",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21992985",
+    "imdb": "tt5062646",
+    "tmdb": 374168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25",
+  "runtime_minutes": 96
+}

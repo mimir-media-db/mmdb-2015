@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anjelah_johnson_not_fancy_2015",
+  "title": "Anjelah Johnson: Not Fancy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100348",
+    "imdb": "tt4199110",
+    "tmdb": 362988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

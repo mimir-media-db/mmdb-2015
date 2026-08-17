@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bronze_2015",
+  "title": "The Bronze",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512444",
+    "imdb": "tt3859304",
+    "tmdb": 308453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 100
+}

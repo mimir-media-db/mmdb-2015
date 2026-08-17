@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friendship_love_and_loyalty_2015",
+  "title": "Friendship Love And Loyalty",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600393",
+    "imdb": "tt3256804",
+    "tmdb": 1502036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

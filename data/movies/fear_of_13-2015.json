@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fear_of_13_2015",
+  "title": "The Fear of 13",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22252143",
+    "imdb": "tt5083702",
+    "tmdb": 367215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-10",
+  "runtime_minutes": 96
+}

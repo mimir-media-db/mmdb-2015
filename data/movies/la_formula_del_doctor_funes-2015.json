@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_formula_del_doctor_funes_2015",
+  "title": "La fórmula del doctor Funes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768148",
+    "imdb": "tt3179510",
+    "tmdb": 265323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06",
+  "runtime_minutes": 90
+}

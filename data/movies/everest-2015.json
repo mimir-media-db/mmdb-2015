@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everest_2015",
+  "title": "Everest",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15631013",
+    "imdb": "tt2719848",
+    "tmdb": 253412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-17",
+  "runtime_minutes": 121
+}

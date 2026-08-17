@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_me_gustan_los_poemas_y_me_gusta_la_vida_2015",
+  "title": "Me gustan los poemas y me gusta la vida",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73716967",
+    "imdb": "tt10892576"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_macho_peruano_que_se_respeta_2015",
+  "title": "Macho peruano que se respeta",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85185630",
+    "imdb": "tt6448414",
+    "tmdb": 350780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

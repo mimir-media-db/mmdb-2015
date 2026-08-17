@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blitzschlag_gefangen_im_gewittersturm_2015",
+  "title": "Blitzschlag – Gefangen im Gewittersturm",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132993600",
+    "imdb": "tt4477106",
+    "tmdb": 365194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

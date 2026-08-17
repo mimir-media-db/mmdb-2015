@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_of_the_north_2015",
+  "title": "Paris of the North",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992049",
+    "imdb": "tt3267784",
+    "tmdb": 282855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 95
+}

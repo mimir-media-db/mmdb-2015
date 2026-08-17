@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theeb_2015",
+  "title": "Theeb",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20422190",
+    "imdb": "tt3170902",
+    "tmdb": 287628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-19",
+  "runtime_minutes": 100
+}

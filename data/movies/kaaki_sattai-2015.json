@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaaki_sattai_2015",
+  "title": "Kaaki Sattai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19359373",
+    "imdb": "tt4415326",
+    "tmdb": 280168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-27",
+  "runtime_minutes": 156
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taboo_forbidden_love_2015",
+  "title": "Taboo: forbidden love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060555",
+    "imdb": "tt25810174",
+    "tmdb": 399902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03"
+}

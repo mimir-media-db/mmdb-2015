@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lateef_2015",
+  "title": "Lateef",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19893112",
+    "imdb": "tt2777548",
+    "tmdb": 374970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-15"
+}

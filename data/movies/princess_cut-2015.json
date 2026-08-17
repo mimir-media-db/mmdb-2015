@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_cut_2015",
+  "title": "Princess Cut",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136862",
+    "imdb": "tt3175798",
+    "tmdb": 392135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-04"
+}

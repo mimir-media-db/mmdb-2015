@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matter_of_interpretation_2015",
+  "title": "A Matter of Interpretation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349292",
+    "imdb": "tt4203016",
+    "tmdb": 296769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12",
+  "runtime_minutes": 99
+}

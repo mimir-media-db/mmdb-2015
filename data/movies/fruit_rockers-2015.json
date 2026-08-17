@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fruit_rockers_2015",
+  "title": "Fruit Rockers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24836996",
+    "imdb": "tt5296686",
+    "tmdb": 407396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

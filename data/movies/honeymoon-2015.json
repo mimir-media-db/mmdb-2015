@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honeymoon_2015",
+  "title": "Honeymoon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74755981",
+    "imdb": "tt4459912",
+    "tmdb": 295466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

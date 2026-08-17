@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_here_now_2015",
+  "title": "Be Here Now",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50314135",
+    "imdb": "tt2473476",
+    "tmdb": 339158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_little_pigs_and_the_magic_lamp_2015",
+  "title": "3 Little Pigs and the Magic Lamp",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106225768",
+    "imdb": "tt4618818",
+    "tmdb": 397262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-27",
+  "runtime_minutes": 80
+}

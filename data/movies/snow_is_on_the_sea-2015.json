@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_is_on_the_sea_2015",
+  "title": "Snow Is on the Sea",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18648303",
+    "imdb": "tt9426438",
+    "tmdb": 348230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 108
+}

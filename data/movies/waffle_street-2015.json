@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waffle_street_2015",
+  "title": "Waffle Street",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999777",
+    "imdb": "tt3881680",
+    "tmdb": 386501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24",
+  "runtime_minutes": 86
+}

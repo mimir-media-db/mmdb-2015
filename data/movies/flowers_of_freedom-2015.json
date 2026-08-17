@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flowers_of_freedom_2015",
+  "title": "Flowers of Freedom",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19772457",
+    "imdb": "tt3456064",
+    "tmdb": 256111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26"
+}

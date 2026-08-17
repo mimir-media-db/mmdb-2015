@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dogs_without_names_2015",
+  "title": "Dogs Without Names",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24864072",
+    "imdb": "tt5167942",
+    "tmdb": 403085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 107
+}

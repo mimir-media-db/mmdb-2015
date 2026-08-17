@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fever_at_dawn_2015",
+  "title": "Fever at Dawn",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64513058",
+    "imdb": "tt3122014",
+    "tmdb": 365172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-17",
+  "runtime_minutes": 105
+}

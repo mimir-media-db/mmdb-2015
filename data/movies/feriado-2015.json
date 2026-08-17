@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feriado_2015",
+  "title": "Feriado",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18342550",
+    "imdb": "tt3509662",
+    "tmdb": 297641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 82
+}

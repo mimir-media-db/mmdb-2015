@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bapjaner_bioscope_2015",
+  "title": "Bapjaner Bioscope",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25587545",
+    "imdb": "tt5541790",
+    "tmdb": 468947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

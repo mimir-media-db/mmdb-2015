@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piranha_sharks_2015",
+  "title": "Piranha Sharks",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18412285",
+    "imdb": "tt3400060",
+    "tmdb": 257450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-06",
+  "runtime_minutes": 79
+}

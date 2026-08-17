@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tundra_tale_2015",
+  "title": "The Tundra Tale",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20972671",
+    "imdb": "tt3162596",
+    "tmdb": 314334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22"
+}

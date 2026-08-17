@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sculpting_memory_2015",
+  "title": "Sculpting Memory",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63248844",
+    "imdb": "tt4625734",
+    "tmdb": 605882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

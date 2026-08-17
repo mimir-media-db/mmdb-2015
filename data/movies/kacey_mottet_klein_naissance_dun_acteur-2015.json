@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kacey_mottet_klein_naissance_dun_acteur_2015",
+  "title": "Kacey Mottet Klein, Naissance d'un acteur",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54956954",
+    "imdb": "tt4286004",
+    "tmdb": 366911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 14
+}

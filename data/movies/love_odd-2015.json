@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_odd_2015",
+  "title": "Love Odd",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21703026",
+    "imdb": "tt5313858",
+    "tmdb": 404700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22"
+}

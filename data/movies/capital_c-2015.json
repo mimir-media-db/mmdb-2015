@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capital_c_2015",
+  "title": "Capital C",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19160578",
+    "imdb": "tt3984320",
+    "tmdb": 348069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-24",
+  "runtime_minutes": 87
+}

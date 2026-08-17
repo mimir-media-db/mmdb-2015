@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_nick_2015",
+  "title": "Uncle Nick",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590473",
+    "imdb": "tt3163336",
+    "tmdb": 367732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04",
+  "runtime_minutes": 93
+}

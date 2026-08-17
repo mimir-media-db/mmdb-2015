@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalkijug_2015",
+  "title": "Kalkijug",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649922",
+    "imdb": "tt4829728",
+    "tmdb": 579200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-31"
+}

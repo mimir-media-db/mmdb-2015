@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poetry_of_witness_2015",
+  "title": "Poetry of Witness",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590082",
+    "imdb": "tt3208416",
+    "tmdb": 611079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16"
+}

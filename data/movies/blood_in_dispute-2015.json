@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_in_dispute_2015",
+  "title": "Blood in Dispute",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24034446",
+    "imdb": "tt5724318"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-09"
+}

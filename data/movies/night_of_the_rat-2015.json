@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_rat_2015",
+  "title": "The Night of the Rat",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21855708",
+    "imdb": "tt3037364",
+    "tmdb": 285943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

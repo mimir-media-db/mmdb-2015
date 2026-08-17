@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bon_bini_holland_2015",
+  "title": "Bon Bini Holland",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23368800",
+    "imdb": "tt4247144",
+    "tmdb": 366887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

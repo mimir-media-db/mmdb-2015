@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quase_memoria_2015",
+  "title": "Quase Memória",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23817424",
+    "imdb": "tt5155340",
+    "tmdb": 362313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

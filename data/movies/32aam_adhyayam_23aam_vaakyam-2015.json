@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_32aam_adhyayam_23aam_vaakyam_2015",
+  "title": "32aam adhyayam 23aam vaakyam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22678018",
+    "imdb": "tt4887400",
+    "tmdb": 357969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-19"
+}

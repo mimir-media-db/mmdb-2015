@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulls_2015",
+  "title": "The Gulls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427489",
+    "imdb": "tt4436330",
+    "tmdb": 325978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-07",
+  "runtime_minutes": 87
+}

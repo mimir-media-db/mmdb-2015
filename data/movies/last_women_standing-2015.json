@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_women_standing_2015",
+  "title": "The Last Women Standing",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21000358",
+    "imdb": "tt5257730",
+    "tmdb": 367877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06",
+  "runtime_minutes": 96
+}

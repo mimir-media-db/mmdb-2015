@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ultima_funcion_2015",
+  "title": "La última función",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83424438",
+    "imdb": "tt5519518",
+    "tmdb": 994697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

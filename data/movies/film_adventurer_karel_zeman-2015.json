@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_film_adventurer_karel_zeman_2015",
+  "title": "Film Adventurer Karel Zeman",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671746",
+    "imdb": "tt3982912",
+    "tmdb": 376132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-30",
+  "runtime_minutes": 102
+}

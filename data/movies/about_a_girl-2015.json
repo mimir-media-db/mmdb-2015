@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_a_girl_2015",
+  "title": "About a Girl",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18851368",
+    "imdb": "tt3334794",
+    "tmdb": 299353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-06",
+  "runtime_minutes": 105
+}

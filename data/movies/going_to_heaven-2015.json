@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_to_heaven_2015",
+  "title": "Going to Heaven",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29831208",
+    "imdb": "tt4623222",
+    "tmdb": 996544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-12",
+  "runtime_minutes": 90
+}

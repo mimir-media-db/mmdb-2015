@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_me_in_venice_2015",
+  "title": "Meet me in Venice",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124414358"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

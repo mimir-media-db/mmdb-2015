@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oddball_2015",
+  "title": "Oddball",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095400",
+    "imdb": "tt3401748",
+    "tmdb": 356905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-17",
+  "runtime_minutes": 95
+}

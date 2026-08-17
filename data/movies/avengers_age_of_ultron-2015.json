@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avengers_age_of_ultron_2015",
+  "title": "Avengers: Age of Ultron",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14171368",
+    "imdb": "tt2395427",
+    "tmdb": 99861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-22",
+  "runtime_minutes": 141
+}

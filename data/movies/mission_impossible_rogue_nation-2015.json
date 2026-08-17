@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_impossible_rogue_nation_2015",
+  "title": "Mission: Impossible – Rogue Nation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17548046",
+    "imdb": "tt2381249",
+    "tmdb": 177677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-23",
+  "runtime_minutes": 131
+}

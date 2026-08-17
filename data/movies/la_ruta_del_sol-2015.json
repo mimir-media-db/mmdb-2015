@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ruta_del_sol_2015",
+  "title": "La ruta del sol",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25403832",
+    "imdb": "tt3177166"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 77
+}

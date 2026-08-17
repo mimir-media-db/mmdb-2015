@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dixie_land_2015",
+  "title": "Dixie Land",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52076767",
+    "imdb": "tt5328664",
+    "tmdb": 499867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-15",
+  "runtime_minutes": 61
+}

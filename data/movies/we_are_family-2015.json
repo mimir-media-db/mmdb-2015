@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_family_2015",
+  "title": "We Are Family",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099910",
+    "imdb": "tt4956994",
+    "tmdb": 375169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_owls_2015",
+  "title": "Night Owls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24727693",
+    "imdb": "tt3591436",
+    "tmdb": 324291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-13",
+  "runtime_minutes": 90
+}

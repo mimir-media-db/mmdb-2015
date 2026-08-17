@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chto_tvoryat_muzhchiny_2_2015",
+  "title": "Chto tvoryat muzhchiny! 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24931663",
+    "imdb": "tt4393278",
+    "tmdb": 314952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

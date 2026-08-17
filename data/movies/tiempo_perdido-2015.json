@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiempo_perdido_2015",
+  "title": "Tiempo perdido",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66712676",
+    "imdb": "tt3421818"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

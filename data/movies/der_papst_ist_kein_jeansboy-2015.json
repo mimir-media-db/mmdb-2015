@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_papst_ist_kein_jeansboy_2015",
+  "title": "Der Papst ist kein Jeansboy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20113357",
+    "imdb": "tt6931292",
+    "tmdb": 454669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-02",
+  "runtime_minutes": 77
+}

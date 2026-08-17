@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hayati_mbahdala_2015",
+  "title": "Hayati Mbahdala",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22687632",
+    "imdb": "tt4862984",
+    "tmdb": 372114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-16"
+}

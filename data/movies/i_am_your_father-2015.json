@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_your_father_2015",
+  "title": "I Am Your Father",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27888476",
+    "imdb": "tt2949296",
+    "tmdb": 362610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-20",
+  "runtime_minutes": 82
+}

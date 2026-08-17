@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_resureksyon_2015",
+  "title": "Resureksyon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22075221",
+    "imdb": "tt5049416",
+    "tmdb": 361930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-23"
+}

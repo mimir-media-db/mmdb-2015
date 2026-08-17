@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mosagaallaku_mosagaadu_2015",
+  "title": "Mosagaallaku Mosagaadu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964612",
+    "imdb": "tt4701630",
+    "tmdb": 78639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-22"
+}

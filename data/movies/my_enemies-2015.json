@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_enemies_2015",
+  "title": "My Enemies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61029768",
+    "imdb": "tt3583402",
+    "tmdb": 446955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

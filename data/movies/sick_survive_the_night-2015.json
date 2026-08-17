@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sick_survive_the_night_2015",
+  "title": "Sick: Survive the Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18788532",
+    "imdb": "tt2172055",
+    "tmdb": 308867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-30",
+  "runtime_minutes": 95
+}

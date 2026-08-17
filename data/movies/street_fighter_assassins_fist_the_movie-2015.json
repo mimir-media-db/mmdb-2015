@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_fighter_assassins_fist_the_movie_2015",
+  "title": "Street Fighter: Assassin's Fist The Movie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105391148",
+    "imdb": "tt3069212",
+    "tmdb": 1016414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-07",
+  "runtime_minutes": 21
+}

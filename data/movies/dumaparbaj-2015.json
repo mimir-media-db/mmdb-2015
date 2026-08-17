@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dumaparbaj_2015",
+  "title": "Dumapárbaj",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20438993",
+    "imdb": "tt4059516",
+    "tmdb": 318985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 88
+}

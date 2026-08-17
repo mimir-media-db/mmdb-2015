@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tibetan_warrior_2015",
+  "title": "Tibetan Warrior",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90159433",
+    "imdb": "tt4285612",
+    "tmdb": 372031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

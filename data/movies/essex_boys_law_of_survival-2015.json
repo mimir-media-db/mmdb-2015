@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_essex_boys_law_of_survival_2015",
+  "title": "Essex Boys: Law of Survival",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28712585",
+    "imdb": "tt4608574",
+    "tmdb": 353500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-21",
+  "runtime_minutes": 88
+}

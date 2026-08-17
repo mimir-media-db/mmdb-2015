@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_isnt_funny_2015",
+  "title": "This Isn't Funny",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23763054",
+    "imdb": "tt3334212",
+    "tmdb": 335869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

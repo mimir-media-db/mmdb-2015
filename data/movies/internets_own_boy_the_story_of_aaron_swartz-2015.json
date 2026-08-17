@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_internets_own_boy_the_story_of_aaron_swartz_2015",
+  "title": "The Internet's Own Boy: The Story of Aaron Swartz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16997214",
+    "imdb": "tt3268458",
+    "tmdb": 250658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-12",
+  "runtime_minutes": 105
+}

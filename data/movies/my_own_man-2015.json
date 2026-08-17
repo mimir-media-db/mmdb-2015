@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_own_man_2015",
+  "title": "My Own Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50450028",
+    "imdb": "tt3356434",
+    "tmdb": 285595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-06",
+  "runtime_minutes": 82
+}

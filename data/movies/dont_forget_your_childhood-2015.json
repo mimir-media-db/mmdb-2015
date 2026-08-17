@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_forget_your_childhood_2015",
+  "title": "Don't Forget Your Childhood",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755392",
+    "imdb": "tt5766064"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-03",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_case_scenario_2015",
+  "title": "Worst Case Scenario",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20855717",
+    "imdb": "tt3660684",
+    "tmdb": 283776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-02",
+  "runtime_minutes": 82
+}

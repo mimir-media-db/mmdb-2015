@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_bestia_mas_feroz_2015",
+  "title": "La Bestia Más Feroz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124606942",
+    "imdb": "tt29685923"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

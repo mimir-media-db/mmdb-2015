@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lou_journal_infime_2015",
+  "title": "Lou ! Journal infime",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16661269",
+    "imdb": "tt3202098",
+    "tmdb": 294463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-13",
+  "runtime_minutes": 104
+}

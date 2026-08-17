@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_tilfeldige_rockestjernen_2015",
+  "title": "Den tilfeldige rockestjernen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28870478",
+    "imdb": "tt4092580",
+    "tmdb": 329689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 87
+}

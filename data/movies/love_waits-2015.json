@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_waits_2015",
+  "title": "Love Waits",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59592126",
+    "imdb": "tt3782810",
+    "tmdb": 483097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

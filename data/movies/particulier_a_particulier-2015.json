@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_particulier_a_particulier_2015",
+  "title": "Particulier à particulier",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899144",
+    "imdb": "tt3309990",
+    "tmdb": 339476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

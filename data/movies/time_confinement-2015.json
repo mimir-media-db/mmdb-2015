@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_time_confinement_2015",
+  "title": "Time Confinement",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105662",
+    "tmdb": 377101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

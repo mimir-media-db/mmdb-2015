@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_macho_man_2015",
+  "title": "Macho Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21112567",
+    "imdb": "tt2210787",
+    "tmdb": 358760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29",
+  "runtime_minutes": 98
+}

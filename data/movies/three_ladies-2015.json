@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_ladies_2015",
+  "title": "Three Ladies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25466602",
+    "imdb": "tt11644582",
+    "tmdb": 444053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_they_call_love_2015",
+  "title": "What they call love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114841148",
+    "imdb": "tt4649330",
+    "tmdb": 420299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

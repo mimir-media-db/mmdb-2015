@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divine_access_2015",
+  "title": "Divine Access",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47500759",
+    "imdb": "tt3651804",
+    "tmdb": 356900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-11",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_landraub_2015",
+  "title": "Landraub",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21007689",
+    "imdb": "tt6075666",
+    "tmdb": 362560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-08",
+  "runtime_minutes": 91
+}

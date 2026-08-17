@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_spring_not_to_come_this_year_2015",
+  "title": "Tell Spring Not to Come This Year",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414121",
+    "imdb": "tt4176750",
+    "tmdb": 326379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

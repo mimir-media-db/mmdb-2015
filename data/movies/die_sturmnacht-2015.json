@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_sturmnacht_2015",
+  "title": "Die Sturmnacht",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28937468",
+    "imdb": "tt5162968"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-22",
+  "runtime_minutes": 90
+}

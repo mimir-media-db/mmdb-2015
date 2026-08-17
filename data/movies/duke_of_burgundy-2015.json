@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duke_of_burgundy_2015",
+  "title": "The Duke of Burgundy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18420573",
+    "imdb": "tt2570858",
+    "tmdb": 250225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-30",
+  "runtime_minutes": 104
+}

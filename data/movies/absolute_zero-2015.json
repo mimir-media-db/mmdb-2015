@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_absolute_zero_2015",
+  "title": "Absolute Zero",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60677455",
+    "imdb": "tt3691974",
+    "tmdb": 370131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

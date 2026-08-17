@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_style_king_2015",
+  "title": "Style King",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647057",
+    "imdb": "tt5722268",
+    "tmdb": 397488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25"
+}

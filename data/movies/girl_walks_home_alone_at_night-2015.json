@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_walks_home_alone_at_night_2015",
+  "title": "A Girl Walks Home Alone at Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061299",
+    "imdb": "tt2326554",
+    "tmdb": 252171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-23",
+  "runtime_minutes": 101
+}

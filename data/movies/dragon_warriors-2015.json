@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_warriors_2015",
+  "title": "Dragon Warriors",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86728177",
+    "imdb": "tt2170369",
+    "tmdb": 385232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

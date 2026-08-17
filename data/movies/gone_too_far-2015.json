@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_too_far_2015",
+  "title": "Gone Too Far!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961489",
+    "imdb": "tt2451550",
+    "tmdb": 225283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-16",
+  "runtime_minutes": 88
+}

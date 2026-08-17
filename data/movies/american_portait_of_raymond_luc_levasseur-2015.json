@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_portait_of_raymond_luc_levasseur_2015",
+  "title": "An American, Portait of Raymond Luc Levasseur",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113977206",
+    "imdb": "tt5560682",
+    "tmdb": 482351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

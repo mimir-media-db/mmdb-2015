@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belli_di_papa_2015",
+  "title": "Belli di papà",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900001",
+    "imdb": "tt4835298",
+    "tmdb": 363869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

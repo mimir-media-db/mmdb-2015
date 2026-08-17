@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_act_of_war_2015",
+  "title": "An Act of War",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19801719",
+    "imdb": "tt1861445",
+    "tmdb": 289723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-31",
+  "runtime_minutes": 99
+}

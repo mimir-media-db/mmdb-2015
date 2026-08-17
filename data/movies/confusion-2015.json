@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_confusion_2015",
+  "title": "Confusion",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109018994",
+    "imdb": "tt3841462",
+    "tmdb": 322472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-24"
+}

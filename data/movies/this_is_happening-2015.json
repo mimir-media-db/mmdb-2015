@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_happening_2015",
+  "title": "This Is Happening",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869923",
+    "imdb": "tt3838634",
+    "tmdb": 360119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

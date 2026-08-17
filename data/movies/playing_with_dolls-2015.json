@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_with_dolls_2015",
+  "title": "Playing with Dolls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59238951",
+    "imdb": "tt4145836",
+    "tmdb": 332689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-06"
+}

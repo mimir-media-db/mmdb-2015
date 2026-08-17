@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_questce_quon_a_fait_au_bon_dieu_2015",
+  "title": "Qu'est-ce qu'on a fait au Bon Dieu?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16671761",
+    "imdb": "tt2800240",
+    "tmdb": 262391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21",
+  "runtime_minutes": 97
+}

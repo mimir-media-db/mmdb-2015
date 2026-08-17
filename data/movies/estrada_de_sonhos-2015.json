@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_estrada_de_sonhos_2015",
+  "title": "Estrada de Sonhos",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114496705",
+    "imdb": "tt4592408",
+    "tmdb": 533857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-11"
+}

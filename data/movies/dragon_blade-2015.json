@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_blade_2015",
+  "title": "Dragon Blade",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17002139",
+    "imdb": "tt3672840",
+    "tmdb": 300168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-18",
+  "runtime_minutes": 105
+}

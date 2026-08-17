@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_young_lady_2015",
+  "title": "Young Lady",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060168",
+    "tmdb": 460104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10"
+}

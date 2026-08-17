@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battery_number_one_2015",
+  "title": "Battery Number One",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60853050",
+    "imdb": "tt4196010",
+    "tmdb": 347382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

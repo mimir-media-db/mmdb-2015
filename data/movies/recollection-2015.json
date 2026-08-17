@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_recollection_2015",
+  "title": "Recollection",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59659646",
+    "imdb": "tt5462618",
+    "tmdb": 353651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 70
+}

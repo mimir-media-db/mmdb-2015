@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_landmine_goes_click_2015",
+  "title": "Landmine Goes Click",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27910001",
+    "imdb": "tt2186848",
+    "tmdb": 329556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

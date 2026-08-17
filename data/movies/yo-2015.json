@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yo_2015",
+  "title": "Yo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25218110",
+    "imdb": "tt5248910",
+    "tmdb": 276133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-23"
+}

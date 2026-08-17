@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_kind_of_love_2015",
+  "title": "Some Kind of Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64816489",
+    "imdb": "tt3921906",
+    "tmdb": 342005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-08"
+}

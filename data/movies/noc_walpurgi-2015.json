@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noc_walpurgi_2015",
+  "title": "Noc Walpurgi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64015148",
+    "imdb": "tt4990652",
+    "tmdb": 375746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_hotelzimmer_2015",
+  "title": "Das Hotelzimmer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21334180",
+    "imdb": "tt4346050",
+    "tmdb": 367421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-05",
+  "runtime_minutes": 88
+}

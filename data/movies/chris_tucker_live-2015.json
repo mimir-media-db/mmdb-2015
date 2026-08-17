@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chris_tucker_live_2015",
+  "title": "Chris Tucker Live",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100370",
+    "imdb": "tt4835636",
+    "tmdb": 348035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

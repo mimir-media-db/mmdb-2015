@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_engelbecken_2015",
+  "title": "Engelbecken",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20850498",
+    "imdb": "tt4110686",
+    "tmdb": 417332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_art_dealer_2015",
+  "title": "The Art Dealer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18709300",
+    "imdb": "tt4000768",
+    "tmdb": 329790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-27"
+}

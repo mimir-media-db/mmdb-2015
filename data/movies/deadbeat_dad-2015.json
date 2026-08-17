@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadbeat_dad_2015",
+  "title": "Deadbeat Dad",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999869",
+    "imdb": "tt3653518",
+    "tmdb": 308674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-26",
+  "runtime_minutes": 123
+}

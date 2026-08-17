@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invention_2015",
+  "title": "Invention",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22811374",
+    "imdb": "tt3838154",
+    "tmdb": 353986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-12"
+}

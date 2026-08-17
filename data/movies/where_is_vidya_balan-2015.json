@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_where_is_vidya_balan_2015",
+  "title": "Where Is Vidya Balan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55642674",
+    "imdb": "tt36842424"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forecaster_2015",
+  "title": "The Forecaster",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19828510",
+    "imdb": "tt4103404",
+    "tmdb": 332749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07",
+  "runtime_minutes": 97
+}

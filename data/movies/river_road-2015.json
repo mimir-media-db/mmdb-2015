@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_river_road_2015",
+  "title": "River Road",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27062076",
+    "imdb": "tt4131150",
+    "tmdb": 314614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-09",
+  "runtime_minutes": 103
+}

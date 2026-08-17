@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_columns_2015",
+  "title": "Broken columns",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24703859",
+    "imdb": "tt12452596",
+    "tmdb": 429527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

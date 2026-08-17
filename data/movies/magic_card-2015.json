@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_card_2015",
+  "title": "Magic Card",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203128",
+    "imdb": "tt10907990",
+    "tmdb": 374258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16"
+}

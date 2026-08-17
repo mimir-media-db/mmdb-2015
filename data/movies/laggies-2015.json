@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laggies_2015",
+  "title": "Laggies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252315",
+    "imdb": "tt2034031",
+    "tmdb": 244264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-29",
+  "runtime_minutes": 99
+}

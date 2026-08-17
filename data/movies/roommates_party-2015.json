@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roommates_party_2015",
+  "title": "The Roommates Party",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009141",
+    "imdb": "tt1659611",
+    "tmdb": 366566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jomer_raja_dilo_bor_2015",
+  "title": "Jomer Raja Dilo Bor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20856943",
+    "imdb": "tt4959358",
+    "tmdb": 536373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-04",
+  "runtime_minutes": 145
+}

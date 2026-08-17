@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mythica_the_darkspore_2015",
+  "title": "Mythica: The Darkspore",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807157",
+    "imdb": "tt3478232",
+    "tmdb": 347096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-19",
+  "runtime_minutes": 107
+}

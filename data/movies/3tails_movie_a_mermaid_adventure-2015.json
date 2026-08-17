@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3tails_movie_a_mermaid_adventure_2015",
+  "title": "The 3Tails Movie: A Mermaid Adventure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64738178",
+    "imdb": "tt3391348",
+    "tmdb": 404851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 61
+}

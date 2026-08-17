@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_some_kind_of_hate_2015",
+  "title": "Some Kind of Hate",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26693256",
+    "imdb": "tt3698558",
+    "tmdb": 334028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 82
+}

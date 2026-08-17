@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_to_be_a_god_2015",
+  "title": "Hard to Be a God",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4204793",
+    "imdb": "tt2328813",
+    "tmdb": 110402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03",
+  "runtime_minutes": 177
+}

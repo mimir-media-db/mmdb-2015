@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eliten_2015",
+  "title": "Eliten",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31210033",
+    "imdb": "tt4548332",
+    "tmdb": 335942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10",
+  "runtime_minutes": 80
+}

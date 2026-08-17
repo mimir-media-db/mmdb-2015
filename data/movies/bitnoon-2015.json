@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bitnoon_2015",
+  "title": "Bitnoon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302306",
+    "imdb": "tt4949202",
+    "tmdb": 410434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inherent_vice_2015",
+  "title": "Inherent Vice",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13806537",
+    "imdb": "tt1791528",
+    "tmdb": 171274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12",
+  "runtime_minutes": 149
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jamna_pyari_2015",
+  "title": "Jamna Pyari",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20856941",
+    "imdb": "tt4974192",
+    "tmdb": 361378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27"
+}

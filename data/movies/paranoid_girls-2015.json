@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paranoid_girls_2015",
+  "title": "Paranoid Girls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807436",
+    "imdb": "tt4195920",
+    "tmdb": 371081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-13"
+}

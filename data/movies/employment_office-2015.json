@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_employment_office_2015",
+  "title": "Employment Office",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52418274",
+    "imdb": "tt5874146"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01"
+}

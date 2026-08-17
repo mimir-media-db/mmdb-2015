@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_farthest_star_2015",
+  "title": "Beyond the Farthest Star",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900126",
+    "imdb": "tt1605791",
+    "tmdb": 228345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-10"
+}

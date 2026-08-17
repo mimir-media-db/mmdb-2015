@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_st_vincent_2015",
+  "title": "St. Vincent",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039869",
+    "imdb": "tt2170593",
+    "tmdb": 239563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 102
+}

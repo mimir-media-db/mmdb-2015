@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eksik_2015",
+  "title": "Eksik",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31193236",
+    "imdb": "tt4205954",
+    "tmdb": 338538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17"
+}

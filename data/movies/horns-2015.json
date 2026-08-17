@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horns_2015",
+  "title": "Horns",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2588951",
+    "imdb": "tt1528071",
+    "tmdb": 149509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-06",
+  "runtime_minutes": 120
+}

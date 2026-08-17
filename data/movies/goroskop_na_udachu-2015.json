@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goroskop_na_udachu_2015",
+  "title": "Goroskop na udachu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21638226",
+    "imdb": "tt4871022",
+    "tmdb": 347979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

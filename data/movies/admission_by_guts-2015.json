@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_admission_by_guts_2015",
+  "title": "Admission by Guts",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095383",
+    "imdb": "tt6448408",
+    "tmdb": 365593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-19"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bacon_and_gods_wrath_2015",
+  "title": "Bacon and God's Wrath",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755506",
+    "imdb": "tt4918278",
+    "tmdb": 355481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-13"
+}

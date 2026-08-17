@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_este_tipo_se_ha_muerto_y_no_se_ha_enterado_2015",
+  "title": "Este tipo se ha muerto y no se ha enterado",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137793857",
+    "imdb": "tt14205028"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 6
+}

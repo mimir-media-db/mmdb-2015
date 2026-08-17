@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chienne_de_vie_2015",
+  "title": "Chienne de vie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62124935",
+    "imdb": "tt5091562"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 67
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deathscort_service_2015",
+  "title": "Death-Scort Service",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646296",
+    "imdb": "tt4504188",
+    "tmdb": 353495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

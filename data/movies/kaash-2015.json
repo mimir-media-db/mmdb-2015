@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaash_2015",
+  "title": "Kaash",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28179967",
+    "imdb": "tt5111940",
+    "tmdb": 833030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

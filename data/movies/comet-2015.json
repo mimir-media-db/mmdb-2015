@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comet_2015",
+  "title": "Comet",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15070730",
+    "imdb": "tt2965412",
+    "tmdb": 276908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07"
+}

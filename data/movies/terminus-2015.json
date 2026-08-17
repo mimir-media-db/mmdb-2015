@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terminus_2015",
+  "title": "Terminus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23023578",
+    "imdb": "tt3399896",
+    "tmdb": 301729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

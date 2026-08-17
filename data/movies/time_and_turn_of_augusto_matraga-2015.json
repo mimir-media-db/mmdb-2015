@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_and_turn_of_augusto_matraga_2015",
+  "title": "The Time and Turn of Augusto Matraga",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703590",
+    "imdb": "tt3455238",
+    "tmdb": 339853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

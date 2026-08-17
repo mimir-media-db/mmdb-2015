@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_tolerance_2015",
+  "title": "Zero Tolerance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20886168",
+    "imdb": "tt3727690",
+    "tmdb": 273238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-10"
+}

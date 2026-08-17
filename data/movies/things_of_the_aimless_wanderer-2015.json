@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_things_of_the_aimless_wanderer_2015",
+  "title": "Things of the Aimless Wanderer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726956",
+    "imdb": "tt4209964",
+    "tmdb": 318110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-18",
+  "runtime_minutes": 78
+}

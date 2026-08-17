@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fasten_your_seatbelts_2015",
+  "title": "Fasten Your Seatbelts",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16487844",
+    "imdb": "tt3425034",
+    "tmdb": 258322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-29",
+  "runtime_minutes": 110
+}

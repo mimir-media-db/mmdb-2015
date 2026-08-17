@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_blodsdiamanter_2015",
+  "title": "Johan Falk: Blodsdiamanter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26709213",
+    "imdb": "tt4815672",
+    "tmdb": 341190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

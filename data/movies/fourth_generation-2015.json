@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fourth_generation_2015",
+  "title": "The Fourth Generation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22928422",
+    "imdb": "tt5079490",
+    "tmdb": 391606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-23",
+  "runtime_minutes": 110
+}

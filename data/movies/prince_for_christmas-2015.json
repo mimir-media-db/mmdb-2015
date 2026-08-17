@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_for_christmas_2015",
+  "title": "A Prince for Christmas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47063628",
+    "imdb": "tt4648986",
+    "tmdb": 369057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

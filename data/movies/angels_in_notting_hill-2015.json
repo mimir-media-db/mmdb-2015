@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_in_notting_hill_2015",
+  "title": "Angels in Notting Hill",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56747879",
+    "imdb": "tt3519178",
+    "tmdb": 344227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

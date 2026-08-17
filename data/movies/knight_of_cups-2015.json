@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knight_of_cups_2015",
+  "title": "Knight of Cups",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3198000",
+    "imdb": "tt2101383",
+    "tmdb": 86835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-08",
+  "runtime_minutes": 118
+}

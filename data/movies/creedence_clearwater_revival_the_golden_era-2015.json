@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creedence_clearwater_revival_the_golden_era_2015",
+  "title": "Creedence Clearwater Revival: The Golden Era",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130846687",
+    "imdb": "tt20765412",
+    "tmdb": 649634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-25",
+  "runtime_minutes": 62
+}

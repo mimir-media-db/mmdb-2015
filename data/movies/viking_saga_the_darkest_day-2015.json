@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viking_saga_the_darkest_day_2015",
+  "title": "A Viking Saga: The Darkest Day",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63437443",
+    "imdb": "tt2320073",
+    "tmdb": 141058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 88
+}

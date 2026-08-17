@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_living_dead_darkest_dawn_2015",
+  "title": "Night of the Living Dead: Darkest Dawn",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126570",
+    "imdb": "tt1512222",
+    "tmdb": 363890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brand_new_testament_2015",
+  "title": "The Brand New Testament",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19827977",
+    "imdb": "tt3792960",
+    "tmdb": 330764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-17",
+  "runtime_minutes": 113
+}

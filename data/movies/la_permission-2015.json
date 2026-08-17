@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_permission_2015",
+  "title": "La permission",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85983776",
+    "imdb": "tt3490322",
+    "tmdb": 485930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

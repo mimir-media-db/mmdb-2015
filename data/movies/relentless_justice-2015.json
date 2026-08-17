@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_relentless_justice_2015",
+  "title": "Relentless Justice",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63413456",
+    "imdb": "tt2385189",
+    "tmdb": 369777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-24"
+}

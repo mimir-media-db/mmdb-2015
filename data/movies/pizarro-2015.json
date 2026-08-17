@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pizarro_2015",
+  "title": "Pizarro",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131701271",
+    "imdb": "tt5792136",
+    "tmdb": 449008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tripura_2015",
+  "title": "Tripura",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22682177",
+    "imdb": "tt5441256",
+    "tmdb": 381380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06"
+}

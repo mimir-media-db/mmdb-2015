@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nintendo_quest_2015",
+  "title": "Nintendo Quest",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22075168",
+    "imdb": "tt3063470",
+    "tmdb": 267955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anthropologist_2015",
+  "title": "The Anthropologist",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23579040",
+    "imdb": "tt2462276",
+    "tmdb": 367686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

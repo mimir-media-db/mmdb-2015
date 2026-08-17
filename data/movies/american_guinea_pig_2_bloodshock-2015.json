@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_guinea_pig_2_bloodshock_2015",
+  "title": "American Guinea Pig 2: Bloodshock",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55929190",
+    "imdb": "tt5028388",
+    "tmdb": 348520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cities_in_love_2015",
+  "title": "Cities in Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21152229",
+    "imdb": "tt4819604",
+    "tmdb": 498050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-20"
+}

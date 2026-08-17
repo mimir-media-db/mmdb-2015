@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_n_the_madness_of_reason_2015",
+  "title": "N – The Madness of Reason",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776571",
+    "imdb": "tt3514982",
+    "tmdb": 289820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 102
+}

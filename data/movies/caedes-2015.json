@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caedes_2015",
+  "title": "Caedes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58915962",
+    "imdb": "tt3367250",
+    "tmdb": 322148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

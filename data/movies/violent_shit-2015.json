@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violent_shit_2015",
+  "title": "Violent Shit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25410668",
+    "imdb": "tt4198186",
+    "tmdb": 367941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 82
+}

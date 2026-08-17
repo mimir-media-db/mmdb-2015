@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_boyz_2015",
+  "title": "The Dream Boyz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24833596",
+    "imdb": "tt4968726",
+    "tmdb": 671258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

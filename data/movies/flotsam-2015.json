@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flotsam_2015",
+  "title": "Flotsam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65057684",
+    "imdb": "tt5175500",
+    "tmdb": 384104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-04"
+}

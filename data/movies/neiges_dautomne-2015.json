@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neiges_dautomne_2015",
+  "title": "Neiges d'automne",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004176",
+    "imdb": "tt4691098",
+    "tmdb": 578369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-27"
+}

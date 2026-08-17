@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uno_anzi_due_2015",
+  "title": "Uno anzi due",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56508173",
+    "imdb": "tt4401364",
+    "tmdb": 335081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

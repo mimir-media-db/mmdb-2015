@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_program_2015",
+  "title": "The Program",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15615185",
+    "imdb": "tt3083008",
+    "tmdb": 271736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-08",
+  "runtime_minutes": 103
+}

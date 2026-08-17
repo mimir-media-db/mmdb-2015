@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ajibi_les_femmes_de_lhorloge_2015",
+  "title": "Aji-Bi: Les Femmes de l'Horloge",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100938962",
+    "imdb": "tt4952692"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 66
+}

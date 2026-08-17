@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cam_girlz_2015",
+  "title": "Cam Girlz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854385",
+    "imdb": "tt4076326",
+    "tmdb": 320662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 68
+}

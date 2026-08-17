@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_bataille_de_leau_noire_2015",
+  "title": "La Bataille de l'Eau Noire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113350695"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 73
+}

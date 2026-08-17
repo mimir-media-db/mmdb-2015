@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_trap_2015",
+  "title": "Deep Trap",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060763",
+    "imdb": "tt4922028",
+    "tmdb": 361539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10",
+  "runtime_minutes": 96
+}

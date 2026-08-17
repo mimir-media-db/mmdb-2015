@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sevkat_yerimdar_2_bizde_sakat_cok_2015",
+  "title": "Sevkat Yerimdar 2: Bizde Sakat Çok",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755154",
+    "imdb": "tt5265308",
+    "tmdb": 383523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

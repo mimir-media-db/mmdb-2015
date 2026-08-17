@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spongebob_movie_sponge_out_of_water_2015",
+  "title": "The SpongeBob Movie: Sponge Out of Water",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7765993",
+    "imdb": "tt2279373",
+    "tmdb": 228165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-06",
+  "runtime_minutes": 93
+}

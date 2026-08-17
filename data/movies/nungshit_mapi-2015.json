@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_nungshit_mapi_2015",
+  "title": "Nungshit Mapi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21539934"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-13"
+}

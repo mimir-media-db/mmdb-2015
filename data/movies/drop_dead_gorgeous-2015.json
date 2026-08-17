@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_dead_gorgeous_2015",
+  "title": "Drop Dead Gorgeous",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000197",
+    "imdb": "tt4543578",
+    "tmdb": 342238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

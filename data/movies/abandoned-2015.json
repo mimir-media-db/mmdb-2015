@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abandoned_2015",
+  "title": "Abandoned",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39079195",
+    "imdb": "tt4519006",
+    "tmdb": 356987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

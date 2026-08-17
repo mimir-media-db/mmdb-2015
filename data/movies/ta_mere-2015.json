@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ta_mere_2015",
+  "title": "Ta mère",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21953196",
+    "imdb": "tt5236110",
+    "tmdb": 374908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

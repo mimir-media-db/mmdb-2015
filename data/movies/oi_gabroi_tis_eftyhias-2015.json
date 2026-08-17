@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oi_gabroi_tis_eftyhias_2015",
+  "title": "Oi gabroi tis Eftyhias",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104502804",
+    "imdb": "tt4474610",
+    "tmdb": 337904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-12"
+}

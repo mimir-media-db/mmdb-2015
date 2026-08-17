@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_frankie_2015",
+  "title": "Frankie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136455",
+    "imdb": "tt4457264"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

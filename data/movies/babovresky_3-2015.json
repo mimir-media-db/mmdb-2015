@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babovresky_3_2015",
+  "title": "Babovresky 3",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16335876",
+    "imdb": "tt3746708",
+    "tmdb": 324632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 99
+}

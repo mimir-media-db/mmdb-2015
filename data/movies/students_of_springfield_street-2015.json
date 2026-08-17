@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_students_of_springfield_street_2015",
+  "title": "The Students of Springfield Street",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000153",
+    "imdb": "tt3071036"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

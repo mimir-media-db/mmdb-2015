@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_many_like_us_2015",
+  "title": "There Is Many Like Us",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30609912",
+    "imdb": "tt3317696",
+    "tmdb": 658902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-05",
+  "runtime_minutes": 85
+}

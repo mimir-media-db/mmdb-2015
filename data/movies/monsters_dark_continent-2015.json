@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsters_dark_continent_2015",
+  "title": "Monsters: Dark Continent",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16579459",
+    "imdb": "tt1935302",
+    "tmdb": 145221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-30",
+  "runtime_minutes": 119
+}

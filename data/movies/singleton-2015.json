@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singleton_2015",
+  "title": "The Singleton",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60737991",
+    "imdb": "tt4254306",
+    "tmdb": 508267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kis_kisko_pyaar_karoon_2015",
+  "title": "Kis Kisko Pyaar Karoon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603033",
+    "imdb": "tt4302956",
+    "tmdb": 358985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25",
+  "runtime_minutes": 133
+}

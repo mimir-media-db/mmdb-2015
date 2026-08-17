@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8888_2015",
+  "title": "88:88",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60845229",
+    "imdb": "tt4940632",
+    "tmdb": 348618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 68
+}

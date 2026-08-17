@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_kundilli_2015",
+  "title": "Ali Kundilli",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23991078",
+    "imdb": "tt4712818",
+    "tmdb": 345416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 118
+}

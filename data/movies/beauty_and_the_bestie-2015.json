@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_and_the_bestie_2015",
+  "title": "Beauty and the Bestie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21480311",
+    "imdb": "tt4842270",
+    "tmdb": 373564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25",
+  "runtime_minutes": 119
+}

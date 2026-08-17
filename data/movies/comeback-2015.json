@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comeback_2015",
+  "title": "Comeback",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18199300",
+    "imdb": "tt3782790",
+    "tmdb": 353172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-06",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sabogal_2015",
+  "title": "Sabogal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21596910",
+    "imdb": "tt4719118",
+    "tmdb": 392545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

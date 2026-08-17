@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doomed_the_untold_story_of_roger_cormans_the_fantastic_four_2015",
+  "title": "Doomed!: The Untold Story of Roger Corman's The Fantastic Four",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68681243",
+    "imdb": "tt3113456",
+    "tmdb": 216529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

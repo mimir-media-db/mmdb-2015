@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_some_inexplicable_reason_2015",
+  "title": "For Some Inexplicable Reason",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21334163",
+    "imdb": "tt3496334",
+    "tmdb": 293456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29",
+  "runtime_minutes": 96
+}

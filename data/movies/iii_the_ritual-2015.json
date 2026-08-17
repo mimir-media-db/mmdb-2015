@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iii_the_ritual_2015",
+  "title": "III: The Ritual",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46384970",
+    "imdb": "tt3993732",
+    "tmdb": 329013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

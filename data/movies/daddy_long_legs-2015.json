@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daddy_long_legs_2015",
+  "title": "Daddy Long Legs",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123536675",
+    "imdb": "tt9020638",
+    "tmdb": 463671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

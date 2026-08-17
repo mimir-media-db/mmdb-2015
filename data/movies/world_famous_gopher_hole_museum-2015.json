@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_famous_gopher_hole_museum_2015",
+  "title": "World Famous Gopher Hole Museum",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55450657",
+    "imdb": "tt4902022",
+    "tmdb": 358776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_embers_2015",
+  "title": "Embers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173455",
+    "imdb": "tt3503460",
+    "tmdb": 358644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18",
+  "runtime_minutes": 85
+}

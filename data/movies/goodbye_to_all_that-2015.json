@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_to_all_that_2015",
+  "title": "Goodbye to All That",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703142",
+    "imdb": "tt2437548",
+    "tmdb": 261820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 87
+}

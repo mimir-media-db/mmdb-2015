@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knife_of_don_juan_2015",
+  "title": "The Knife of Don Juan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117039376",
+    "imdb": "tt1349485",
+    "tmdb": 355629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

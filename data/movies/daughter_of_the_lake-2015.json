@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daughter_of_the_lake_2015",
+  "title": "Daughter of the Lake",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48041027",
+    "imdb": "tt4537412",
+    "tmdb": 349048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

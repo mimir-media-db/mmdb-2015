@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_in_the_struggle_2015",
+  "title": "Sisters in the Struggle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59612900",
+    "imdb": "tt0245448",
+    "tmdb": 469409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 3
+}

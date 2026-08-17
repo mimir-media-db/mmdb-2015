@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_of_eden_2015",
+  "title": "Garden of Eden",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900025",
+    "imdb": "tt4901980",
+    "tmdb": 403224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

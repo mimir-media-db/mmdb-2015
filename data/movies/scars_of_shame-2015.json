@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scars_of_shame_2015",
+  "title": "Scars of Shame",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123523108",
+    "imdb": "tt3016578",
+    "tmdb": 358839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10"
+}

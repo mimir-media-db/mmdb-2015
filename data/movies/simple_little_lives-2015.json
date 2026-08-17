@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simple_little_lives_2015",
+  "title": "Simple Little Lives",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26199994",
+    "imdb": "tt4054436",
+    "tmdb": 518691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

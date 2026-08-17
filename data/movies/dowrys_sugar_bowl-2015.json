@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dowrys_sugar_bowl_2015",
+  "title": "Dowry's Sugar Bowl",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25423717",
+    "imdb": "tt4916176",
+    "tmdb": 398606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-12",
+  "runtime_minutes": 93
+}

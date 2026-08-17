@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bikini_avengers_2015",
+  "title": "Bikini Avengers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64786761",
+    "imdb": "tt4180582",
+    "tmdb": 347158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-24"
+}

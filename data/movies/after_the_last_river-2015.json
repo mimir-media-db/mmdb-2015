@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_last_river_2015",
+  "title": "After the Last River",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371530",
+    "imdb": "tt4166288",
+    "tmdb": 378316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

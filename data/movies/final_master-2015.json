@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_master_2015",
+  "title": "The Final Master",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078686",
+    "imdb": "tt4851640",
+    "tmdb": 377823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-11",
+  "runtime_minutes": 109
+}

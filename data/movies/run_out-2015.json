@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_out_2015",
+  "title": "Run Out",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17070257",
+    "imdb": "tt5128858",
+    "tmdb": 1038761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_aids_was_funny_2015",
+  "title": "When AIDS Was Funny",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755503",
+    "imdb": "tt5260372",
+    "tmdb": 923919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

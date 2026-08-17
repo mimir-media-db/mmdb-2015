@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chuckoo_and_the_donkey_2015",
+  "title": "The Chuckoo and the Donkey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008496",
+    "imdb": "tt3633886",
+    "tmdb": 322468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mifune_the_last_samurai_2015",
+  "title": "Mifune: The Last Samurai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54020205",
+    "imdb": "tt4000670",
+    "tmdb": 413782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

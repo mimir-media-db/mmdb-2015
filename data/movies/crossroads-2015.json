@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crossroads_2015",
+  "title": "Crossroads",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22128806",
+    "imdb": "tt5459744",
+    "tmdb": 470391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

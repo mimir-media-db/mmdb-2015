@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perrault_la_fontaine_mon_cul_2015",
+  "title": "Perrault, La Fontaine, Mon Cul !",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24937058",
+    "imdb": "tt4356178",
+    "tmdb": 348050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

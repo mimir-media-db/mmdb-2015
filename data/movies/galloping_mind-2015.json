@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_galloping_mind_2015",
+  "title": "Galloping Mind",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20948548",
+    "imdb": "tt2081251",
+    "tmdb": 360898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-01",
+  "runtime_minutes": 120
+}

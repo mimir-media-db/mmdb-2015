@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_a_garden_2015",
+  "title": "Portrait of a Garden",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100699635",
+    "imdb": "tt4499186",
+    "tmdb": 422126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

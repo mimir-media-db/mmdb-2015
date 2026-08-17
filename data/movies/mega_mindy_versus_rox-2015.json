@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mega_mindy_versus_rox_2015",
+  "title": "Mega Mindy Versus ROX",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21515983",
+    "imdb": "tt4706602",
+    "tmdb": 366881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-09",
+  "runtime_minutes": 85
+}

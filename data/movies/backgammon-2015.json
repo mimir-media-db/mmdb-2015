@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_backgammon_2015",
+  "title": "Backgammon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4839627",
+    "imdb": "tt2210451",
+    "tmdb": 337407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-01"
+}

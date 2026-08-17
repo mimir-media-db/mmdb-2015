@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gambler_2015",
+  "title": "The Gambler",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15706898",
+    "imdb": "tt2039393",
+    "tmdb": 284536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 111
+}
