@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_be_cops_2015",
+  "title": "Let's Be Cops",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948579",
+    "imdb": "tt1924435",
+    "tmdb": 193893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 104
+}

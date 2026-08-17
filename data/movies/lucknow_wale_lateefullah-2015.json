@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucknow_wale_lateefullah_2015",
+  "title": "Lucknow Wale Lateefullah",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55621425",
+    "imdb": "tt5110404",
+    "tmdb": 607666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

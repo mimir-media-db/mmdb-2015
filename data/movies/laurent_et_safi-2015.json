@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laurent_et_safi_2015",
+  "title": "Laurent et Safi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39072818",
+    "imdb": "tt2833390",
+    "tmdb": 596537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

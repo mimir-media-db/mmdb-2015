@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leopard_do_not_bite_2015",
+  "title": "Leopard Do Not Bite",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674175",
+    "imdb": "tt5432986",
+    "tmdb": 363765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

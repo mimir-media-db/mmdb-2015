@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_paracaidistas_2015",
+  "title": "Los paracaidistas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23981681",
+    "imdb": "tt4351874",
+    "tmdb": 335178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-11"
+}

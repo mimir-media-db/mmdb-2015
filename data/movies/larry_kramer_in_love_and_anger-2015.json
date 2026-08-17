@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larry_kramer_in_love_and_anger_2015",
+  "title": "Larry Kramer in Love and Anger",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98276818",
+    "imdb": "tt4329244",
+    "tmdb": 318277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23",
+  "runtime_minutes": 82
+}

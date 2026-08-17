@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liza_the_foxfairy_2015",
+  "title": "Liza, the Fox-Fairy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19347048",
+    "imdb": "tt2210769",
+    "tmdb": 326333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 98
+}

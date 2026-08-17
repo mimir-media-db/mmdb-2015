@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lies_of_the_victors_2015",
+  "title": "The Lies of the Victors",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20201581",
+    "imdb": "tt3341718",
+    "tmdb": 297023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 112
+}

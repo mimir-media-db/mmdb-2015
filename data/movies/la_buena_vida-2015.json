@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_buena_vida_2015",
+  "title": "La Buena Vida",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844727",
+    "imdb": "tt4249710",
+    "tmdb": 340588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-14",
+  "runtime_minutes": 97
+}

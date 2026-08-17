@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_arboles_mueren_de_pie_2015",
+  "title": "Los árboles mueren de pie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116783085",
+    "imdb": "tt2951134",
+    "tmdb": 270703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

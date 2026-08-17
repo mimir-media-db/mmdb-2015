@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_penny_2015",
+  "title": "Lost Penny",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999917",
+    "imdb": "tt4040984",
+    "tmdb": 345546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

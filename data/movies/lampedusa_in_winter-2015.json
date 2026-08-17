@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lampedusa_in_winter_2015",
+  "title": "Lampedusa in Winter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28821491",
+    "imdb": "tt4952502",
+    "tmdb": 361602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-12",
+  "runtime_minutes": 93
+}

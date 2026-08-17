@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_distance_2015",
+  "title": "The Long Distance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23749894",
+    "imdb": "tt4883766",
+    "tmdb": 361889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_island_2015",
+  "title": "Love Island",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17998997",
+    "imdb": "tt3034418",
+    "tmdb": 285027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 87
+}

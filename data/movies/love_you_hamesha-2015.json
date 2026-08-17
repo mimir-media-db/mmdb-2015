@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_you_hamesha_2015",
+  "title": "Love You Hamesha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27150253",
+    "imdb": "tt4773218",
+    "tmdb": 497326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_lust_2015",
+  "title": "A Little Lust",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078240",
+    "imdb": "tt4536304",
+    "tmdb": 368573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

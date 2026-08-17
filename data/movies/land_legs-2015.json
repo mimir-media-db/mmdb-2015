@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_legs_2015",
+  "title": "Land Legs",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23930627",
+    "imdb": "tt3757648",
+    "tmdb": 359770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-09",
+  "runtime_minutes": 89
+}

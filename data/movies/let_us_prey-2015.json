@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_us_prey_2015",
+  "title": "Let Us Prey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002108",
+    "imdb": "tt3148348",
+    "tmdb": 276488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-27",
+  "runtime_minutes": 92
+}

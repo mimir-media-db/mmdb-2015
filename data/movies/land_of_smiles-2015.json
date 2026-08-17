@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_smiles_2015",
+  "title": "The Land of Smiles",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107419991",
+    "imdb": "tt4342172",
+    "tmdb": 353148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17"
+}

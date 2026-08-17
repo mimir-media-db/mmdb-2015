@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_flower_eo_udong_2015",
+  "title": "Lost Flower Eo U-dong",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19161831",
+    "imdb": "tt4922946",
+    "tmdb": 324671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_of_the_elephant_men_2015",
+  "title": "Last of the Elephant Men",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008312",
+    "imdb": "tt4607098",
+    "tmdb": 381982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-26",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lust_in_space_2015",
+  "title": "Lust in Space",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999775",
+    "imdb": "tt4679528",
+    "tmdb": 347066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

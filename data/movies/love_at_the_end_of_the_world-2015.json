@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_the_end_of_the_world_2015",
+  "title": "Love at the End of the World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21058622",
+    "imdb": "tt6058878",
+    "tmdb": 370232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-12"
+}

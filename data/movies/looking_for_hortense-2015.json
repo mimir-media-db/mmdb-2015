@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_hortense_2015",
+  "title": "Looking for Hortense",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2962721",
+    "imdb": "tt1906347",
+    "tmdb": 130055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-01",
+  "runtime_minutes": 100
+}

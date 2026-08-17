@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_linie_41_2015",
+  "title": "Linie 41",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51690843",
+    "imdb": "tt5218234",
+    "tmdb": 621196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

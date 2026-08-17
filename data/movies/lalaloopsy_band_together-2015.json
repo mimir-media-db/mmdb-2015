@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lalaloopsy_band_together_2015",
+  "title": "Lalaloopsy: Band Together",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125584717",
+    "imdb": "tt4935452",
+    "tmdb": 412299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-11"
+}

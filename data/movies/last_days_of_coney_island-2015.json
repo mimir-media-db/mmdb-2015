@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_days_of_coney_island_2015",
+  "title": "Last Days of Coney Island",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6494300",
+    "imdb": "tt3113960",
+    "tmdb": 363013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29",
+  "runtime_minutes": 22
+}

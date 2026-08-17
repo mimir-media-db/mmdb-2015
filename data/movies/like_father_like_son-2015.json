@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_like_father_like_son_2015",
+  "title": "Like Father Like Son",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72882544"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 8
+}

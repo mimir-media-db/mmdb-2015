@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_day_of_freedom_2015",
+  "title": "Last Day of Freedom",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427644",
+    "imdb": "tt4172096",
+    "tmdb": 369366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-11",
+  "runtime_minutes": 32
+}

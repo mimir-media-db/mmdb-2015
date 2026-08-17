@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_nenes_no_haurien_de_jugar_al_futbol_2015",
+  "title": "Les nenes no haurien de jugar al futbol",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98562058",
+    "imdb": "tt3257602",
+    "tmdb": 370205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-29",
+  "runtime_minutes": 75
+}

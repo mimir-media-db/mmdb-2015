@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loafer_2015",
+  "title": "Loafer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427700",
+    "imdb": "tt5277266",
+    "tmdb": 371676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

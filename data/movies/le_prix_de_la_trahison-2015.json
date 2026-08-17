@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_prix_de_la_trahison_2015",
+  "title": "Le prix de la trahison",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55670923",
+    "imdb": "tt14041918",
+    "tmdb": 1185592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-07",
+  "runtime_minutes": 215
+}

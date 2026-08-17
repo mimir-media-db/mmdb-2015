@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_bird_2015",
+  "title": "A Lonely Bird",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20944054",
+    "imdb": "tt4703370",
+    "tmdb": 646284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-03"
+}

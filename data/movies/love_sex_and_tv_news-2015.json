@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_sex_and_tv_news_2015",
+  "title": "Love, Sex and TV News",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138045063",
+    "imdb": "tt5778004",
+    "tmdb": 534563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25",
+  "runtime_minutes": 120
+}

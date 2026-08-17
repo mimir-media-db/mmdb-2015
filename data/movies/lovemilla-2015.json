@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovemilla_2015",
+  "title": "Lovemilla",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693377",
+    "imdb": "tt3674410",
+    "tmdb": 339077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-06",
+  "runtime_minutes": 98
+}

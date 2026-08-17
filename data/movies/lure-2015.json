@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lure_2015",
+  "title": "The Lure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21993425",
+    "imdb": "tt5278832",
+    "tmdb": 375742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25",
+  "runtime_minutes": 92
+}

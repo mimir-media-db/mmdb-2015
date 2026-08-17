@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_oiseaux_de_passage_2015",
+  "title": "Les oiseaux de passage",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25397622",
+    "imdb": "tt4545832",
+    "tmdb": 332880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-03",
+  "runtime_minutes": 84
+}

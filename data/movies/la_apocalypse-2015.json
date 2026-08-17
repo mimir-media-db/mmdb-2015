@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_apocalypse_2015",
+  "title": "LA Apocalypse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20000970",
+    "imdb": "tt3312936",
+    "tmdb": 321662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-24",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_petit_nicolas_2015",
+  "title": "Le Petit Nicolas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2270093",
+    "imdb": "tt1264904",
+    "tmdb": 31203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_scambio_2015",
+  "title": "Lo scambio",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28671614",
+    "imdb": "tt4871736",
+    "tmdb": 368389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}
