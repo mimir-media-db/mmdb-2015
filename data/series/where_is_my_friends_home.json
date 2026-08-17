@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_where_is_my_friends_home",
+  "title": "Where Is My Friend's Home",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19264065",
+    "tmdb": 64618
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 62
+}

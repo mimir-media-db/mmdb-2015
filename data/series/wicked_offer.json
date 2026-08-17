@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wicked_offer",
+  "title": "A Wicked Offer",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20899674",
+    "imdb": "tt4976500"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

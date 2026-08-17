@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wheelchair_president",
+  "title": "The Wheelchair President",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114739579",
+    "imdb": "tt6953644"
+  },
+  "last_updated": "2026-08-17"
+}

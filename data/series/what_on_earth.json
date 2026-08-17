@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_what_on_earth",
+  "title": "What on Earth",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28457985",
+    "imdb": "tt4543056",
+    "tmdb": 70189
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 59
+}

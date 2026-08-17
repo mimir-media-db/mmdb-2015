@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wits_academy",
+  "title": "WITS Academy",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20899656",
+    "imdb": "tt5103536",
+    "tmdb": 64180
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

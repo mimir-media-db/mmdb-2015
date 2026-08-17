@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whirlwind_girl",
+  "title": "The Whirlwind Girl",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19854214",
+    "imdb": "tt6969994",
+    "tmdb": 68657
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}
