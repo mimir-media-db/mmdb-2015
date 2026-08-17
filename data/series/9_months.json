@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_9_months",
+  "title": "9 months",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q109062197",
+    "imdb": "tt5529868",
+    "tmdb": 115624
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 360
+}
