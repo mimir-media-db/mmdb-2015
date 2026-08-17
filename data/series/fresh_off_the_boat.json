@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fresh_off_the_boat",
+  "title": "Fresh Off the Boat",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16919664",
+    "imdb": "tt3551096",
+    "tmdb": 61692
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_false_flag",
+  "title": "False Flag",
+  "start_year": 2015,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q21264956",
+    "imdb": "tt3602528",
+    "tmdb": 65312
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

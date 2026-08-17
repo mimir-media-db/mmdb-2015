@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fameless",
+  "title": "Fameless",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q48835048",
+    "imdb": "tt4903524",
+    "tmdb": 67288
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

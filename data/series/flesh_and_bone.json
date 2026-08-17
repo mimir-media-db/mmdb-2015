@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flesh_and_bone",
+  "title": "Flesh and Bone",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16993471",
+    "imdb": "tt3507484",
+    "tmdb": 62516
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

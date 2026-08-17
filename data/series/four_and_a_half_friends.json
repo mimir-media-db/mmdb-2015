@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_four_and_a_half_friends",
+  "title": "Four and a Half Friends",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q25455988",
+    "imdb": "tt4282970",
+    "tmdb": 81896
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

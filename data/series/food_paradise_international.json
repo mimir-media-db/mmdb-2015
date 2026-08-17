@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_food_paradise_international",
+  "title": "Food Paradise International",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20715670",
+    "imdb": "tt4767370"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

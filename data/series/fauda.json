@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fauda",
+  "title": "Fauda",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19319517",
+    "imdb": "tt4565380",
+    "tmdb": 69557
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}

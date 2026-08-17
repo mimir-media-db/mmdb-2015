@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_father_dearest",
+  "title": "Father Dearest",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q21524172",
+    "imdb": "tt5301950",
+    "tmdb": 66499
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 66
+}
