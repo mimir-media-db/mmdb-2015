@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iravum_pagalum_varum_2015",
+  "title": "Iravum Pagalum Varum",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065501",
+    "imdb": "tt7170258",
+    "tmdb": 330407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

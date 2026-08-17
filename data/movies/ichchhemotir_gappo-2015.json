@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ichchhemotir_gappo_2015",
+  "title": "Ichchhemotir Gappo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19605536",
+    "imdb": "tt4489078",
+    "tmdb": 448070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incident_light_2015",
+  "title": "Incident Light",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899470",
+    "imdb": "tt4955012",
+    "tmdb": 356000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}
