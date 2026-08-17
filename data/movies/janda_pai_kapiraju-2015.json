@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_janda_pai_kapiraju_2015",
+  "title": "Janda Pai Kapiraju",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6150908",
+    "imdb": "tt3916754",
+    "tmdb": 263995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

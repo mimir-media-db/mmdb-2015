@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_got_a_gun_2015",
+  "title": "Jane Got a Gun",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13222089",
+    "imdb": "tt2140037",
+    "tmdb": 174751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

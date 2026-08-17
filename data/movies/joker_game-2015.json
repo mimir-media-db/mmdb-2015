@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joker_game_2015",
+  "title": "Joker Game",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824731",
+    "imdb": "tt3446906",
+    "tmdb": 319669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

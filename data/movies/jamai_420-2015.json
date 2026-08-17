@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jamai_420_2015",
+  "title": "Jamai 420",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892094",
+    "imdb": "tt4701578",
+    "tmdb": 579197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

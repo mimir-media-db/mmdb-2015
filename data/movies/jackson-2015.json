@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jackson_2015",
+  "title": "Jackson",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18702257",
+    "imdb": "tt4421572",
+    "tmdb": 1557462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
