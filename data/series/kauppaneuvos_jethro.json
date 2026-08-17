@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kauppaneuvos_jethro",
+  "title": "Kauppaneuvos Jethro",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23039766",
+    "imdb": "tt5001886"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

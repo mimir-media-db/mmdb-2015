@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kailan_ba_tama_ang_mali",
+  "title": "Kailan Ba Tama ang Mali?",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18758157",
+    "imdb": "tt5348082",
+    "tmdb": 221857
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 63
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_ghost",
+  "title": "Kamen Rider Ghost",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20687831",
+    "imdb": "tt4727580",
+    "tmdb": 154179
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

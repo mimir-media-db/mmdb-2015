@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_killjoys",
+  "title": "Killjoys",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q19798724",
+    "imdb": "tt3952222",
+    "tmdb": 62413
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}
