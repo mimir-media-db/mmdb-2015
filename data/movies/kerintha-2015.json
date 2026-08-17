@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kerintha_2015",
+  "title": "Kerintha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095392",
+    "imdb": "tt7785882",
+    "tmdb": 348659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

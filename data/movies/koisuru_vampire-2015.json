@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_koisuru_vampire_2015",
+  "title": "Koisuru Vampire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18758159",
+    "imdb": "tt4328196",
+    "tmdb": 341443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 102
+}

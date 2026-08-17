@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_km_72_2015",
+  "title": "Km 72",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20080890",
+    "imdb": "tt2910362",
+    "tmdb": 325524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

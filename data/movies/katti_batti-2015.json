@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katti_batti_2015",
+  "title": "Katti Batti",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18215026",
+    "imdb": "tt4467262",
+    "tmdb": 330636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 135
+}

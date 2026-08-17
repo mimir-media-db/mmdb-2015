@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_drive_surprise_future_2015",
+  "title": "Kamen Rider Drive: Surprise Future",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20075657",
+    "imdb": "tt4731580",
+    "tmdb": 378676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

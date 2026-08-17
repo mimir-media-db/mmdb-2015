@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krigerne_fra_nord_2015",
+  "title": "Krigerne fra nord",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495933",
+    "imdb": "tt4336190",
+    "tmdb": 339054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 58
+}

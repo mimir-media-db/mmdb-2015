@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadavul_paathi_mirugam_paathi_2015",
+  "title": "Kadavul Paathi Mirugam Paathi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6345245",
+    "imdb": "tt3885704",
+    "tmdb": 307412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

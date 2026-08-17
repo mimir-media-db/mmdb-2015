@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kanasu_kannu_theredaga_2015",
+  "title": "Kanasu kannu theredaga",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263740",
+    "imdb": "tt4882660"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kohinoor_2015",
+  "title": "Kohinoor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20967652",
+    "imdb": "tt5022424",
+    "tmdb": 361519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 139
+}

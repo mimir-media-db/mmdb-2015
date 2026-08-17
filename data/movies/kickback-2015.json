@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kickback_2015",
+  "title": "Kickback",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001782",
+    "imdb": "tt3344158",
+    "tmdb": 578193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

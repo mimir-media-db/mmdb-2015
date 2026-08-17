@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_mahjong_2015",
+  "title": "King of Mahjong",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363422",
+    "imdb": "tt4415076",
+    "tmdb": 341777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

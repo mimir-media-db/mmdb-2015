@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kind_words_2015",
+  "title": "The Kind Words",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20502077",
+    "imdb": "tt3809478",
+    "tmdb": 349441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 118
+}
