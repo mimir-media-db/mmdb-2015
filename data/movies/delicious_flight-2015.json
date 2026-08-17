@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delicious_flight_2015",
+  "title": "A Delicious Flight",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21576530",
+    "imdb": "tt6077598",
+    "tmdb": 390845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22"
+}

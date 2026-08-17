@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daemonium_soldier_of_the_underworld_2015",
+  "title": "Daemonium: Soldier of the Underworld",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46379176",
+    "imdb": "tt5165936",
+    "tmdb": 389578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

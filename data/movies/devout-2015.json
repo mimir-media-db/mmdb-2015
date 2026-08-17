@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devout_2015",
+  "title": "The Devout",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48313997",
+    "imdb": "tt4297126",
+    "tmdb": 361250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-03"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_dont_be_afraid_2015",
+  "title": "Dear, Don’t Be Afraid",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427333",
+    "imdb": "tt4814444",
+    "tmdb": 1111238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-10"
+}

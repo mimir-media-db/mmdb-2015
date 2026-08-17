@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domian_interview_mit_dem_tod_2015",
+  "title": "Domian - Interview mit dem Tod",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21368958",
+    "imdb": "tt4799114",
+    "tmdb": 368380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dove_2015",
+  "title": "Dove",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123280846",
+    "imdb": "tt13282610"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-09"
+}

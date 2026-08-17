@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_proctors_fart_powder_2015",
+  "title": "Doctor Proctor's Fart Powder",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17413067",
+    "imdb": "tt2835494",
+    "tmdb": 253012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 88
+}

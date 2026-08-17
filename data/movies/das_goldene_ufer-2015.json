@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_goldene_ufer_2015",
+  "title": "Das goldene Ufer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897353",
+    "imdb": "tt4486272",
+    "tmdb": 334905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-05",
+  "runtime_minutes": 104
+}

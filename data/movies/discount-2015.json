@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_discount_2015",
+  "title": "Discount",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18920944",
+    "imdb": "tt3407208",
+    "tmdb": 313055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-21",
+  "runtime_minutes": 102
+}

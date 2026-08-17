@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disco_polo_2015",
+  "title": "Disco polo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001097",
+    "imdb": "tt2973854",
+    "tmdb": 346443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-27",
+  "runtime_minutes": 107
+}

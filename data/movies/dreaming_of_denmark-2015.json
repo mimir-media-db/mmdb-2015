@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreaming_of_denmark_2015",
+  "title": "Dreaming of Denmark",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28379926",
+    "imdb": "tt5254908",
+    "tmdb": 372177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-05",
+  "runtime_minutes": 58
+}

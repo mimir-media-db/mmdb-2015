@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drejt_fundit_2015",
+  "title": "Drejt Fundit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23823806",
+    "imdb": "tt5453036",
+    "tmdb": 433169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 120
+}

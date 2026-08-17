@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_geschichte_vom_astronauten_2015",
+  "title": "Die Geschichte vom Astronauten",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21596872",
+    "imdb": "tt3464744",
+    "tmdb": 473360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-03",
+  "runtime_minutes": 77
+}

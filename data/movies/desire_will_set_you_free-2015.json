@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desire_will_set_you_free_2015",
+  "title": "Desire Will Set You Free",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50327588",
+    "imdb": "tt3859320",
+    "tmdb": 389976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-28",
+  "runtime_minutes": 92
+}

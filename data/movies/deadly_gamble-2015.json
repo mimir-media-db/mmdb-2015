@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_gamble_2015",
+  "title": "Deadly Gamble",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28128956",
+    "imdb": "tt3422272",
+    "tmdb": 1291697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-15"
+}

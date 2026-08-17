@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_device_0068_2015",
+  "title": "Device 0068",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44863524",
+    "imdb": "tt4429152",
+    "tmdb": 435813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 20
+}

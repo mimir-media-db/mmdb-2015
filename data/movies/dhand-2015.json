@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dhand_2015",
+  "title": "Dhand",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824628",
+    "imdb": "tt4973826"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29"
+}

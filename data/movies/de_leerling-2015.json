@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_leerling_2015",
+  "title": "De leerling",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125998568",
+    "imdb": "tt4880510",
+    "tmdb": 355651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

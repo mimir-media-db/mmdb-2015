@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dude_bro_party_massacre_iii_2015",
+  "title": "Dude Bro Party Massacre III",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900066",
+    "imdb": "tt3699692",
+    "tmdb": 296503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-13",
+  "runtime_minutes": 91
+}

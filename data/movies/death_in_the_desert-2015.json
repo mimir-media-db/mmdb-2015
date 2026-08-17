@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_in_the_desert_2015",
+  "title": "Death in the Desert",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136660",
+    "imdb": "tt3562852",
+    "tmdb": 382996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-09",
+  "runtime_minutes": 83
+}

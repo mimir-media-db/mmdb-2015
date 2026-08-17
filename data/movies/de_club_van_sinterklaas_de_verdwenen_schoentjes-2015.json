@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_club_van_sinterklaas_de_verdwenen_schoentjes_2015",
+  "title": "De club van Sinterklaas & de verdwenen schoentjes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22041672",
+    "imdb": "tt4374044",
+    "tmdb": 348322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daddy_or_mommy_2015",
+  "title": "Daddy or Mommy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18920916",
+    "imdb": "tt4080672",
+    "tmdb": 319341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 85
+}

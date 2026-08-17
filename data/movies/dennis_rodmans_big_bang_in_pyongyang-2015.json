@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dennis_rodmans_big_bang_in_pyongyang_2015",
+  "title": "Dennis Rodman's Big Bang in Pyongyang",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590704",
+    "imdb": "tt4598848",
+    "tmdb": 338353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}

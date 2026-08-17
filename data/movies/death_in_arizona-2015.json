@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_in_arizona_2015",
+  "title": "Death in Arizona",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39057875",
+    "imdb": "tt3212766",
+    "tmdb": 253638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_sex_2015",
+  "title": "Dangerous Sex",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739204",
+    "imdb": "tt19045420",
+    "tmdb": 394292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

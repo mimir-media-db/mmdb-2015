@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_damaged_2015",
+  "title": "Damaged",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30903830",
+    "imdb": "tt5078374",
+    "tmdb": 375745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-02",
+  "runtime_minutes": 91
+}

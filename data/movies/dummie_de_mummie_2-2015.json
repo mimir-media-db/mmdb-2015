@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dummie_de_mummie_2_2015",
+  "title": "Dummie de Mummie 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21726615",
+    "imdb": "tt4437298",
+    "tmdb": 348325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-09"
+}

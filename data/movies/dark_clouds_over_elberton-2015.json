@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_clouds_over_elberton_2015",
+  "title": "Dark Clouds Over Elberton",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109300716",
+    "imdb": "tt21351188"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

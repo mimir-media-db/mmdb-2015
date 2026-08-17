@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_dive_2015",
+  "title": "Death Dive",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055359",
+    "imdb": "tt4328146",
+    "tmdb": 326431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

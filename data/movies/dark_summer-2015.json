@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_summer_2015",
+  "title": "Dark Summer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735554",
+    "imdb": "tt2910508",
+    "tmdb": 306969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-09",
+  "runtime_minutes": 81
+}

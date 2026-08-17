@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_deer_2015",
+  "title": "Dear Deer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22124555",
+    "imdb": "tt4370540",
+    "tmdb": 354393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

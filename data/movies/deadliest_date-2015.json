@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_deadliest_date_2015",
+  "title": "The Deadliest Date",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47528082",
+    "imdb": "tt5306950"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

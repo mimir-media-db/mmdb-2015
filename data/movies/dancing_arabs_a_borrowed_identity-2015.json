@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_arabs_a_borrowed_identity_2015",
+  "title": "Dancing Arabs - A Borrowed Identity",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19362856",
+    "imdb": "tt2841572",
+    "tmdb": 282502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21",
+  "runtime_minutes": 104
+}

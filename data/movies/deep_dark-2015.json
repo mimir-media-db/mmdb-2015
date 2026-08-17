@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_dark_2015",
+  "title": "Deep Dark",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102920905",
+    "imdb": "tt2914740",
+    "tmdb": 341051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 79
+}

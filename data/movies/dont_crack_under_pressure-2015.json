@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_crack_under_pressure_2015",
+  "title": "Don't Crack Under Pressure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96486948",
+    "imdb": "tt5284552",
+    "tmdb": 426351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

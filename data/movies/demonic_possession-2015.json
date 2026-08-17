@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demonic_possession_2015",
+  "title": "Demonic possession",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q71132224",
+    "imdb": "tt5361794",
+    "tmdb": 876796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 74
+}

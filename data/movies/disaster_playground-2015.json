@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disaster_playground_2015",
+  "title": "Disaster Playground",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121306617",
+    "imdb": "tt3900822",
+    "tmdb": 324266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 67
+}

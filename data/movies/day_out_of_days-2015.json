@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_out_of_days_2015",
+  "title": "Day Out of Days",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646288",
+    "imdb": "tt3752902",
+    "tmdb": 344641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-14",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_do_you_believe_2015",
+  "title": "Do You Believe?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786423",
+    "imdb": "tt4056738",
+    "tmdb": 309425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-01"
+}

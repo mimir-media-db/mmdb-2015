@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duel_a_story_where_truth_is_mere_detail_2015",
+  "title": "The Duel: A Story Where Truth Is Mere Detail",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72206331",
+    "imdb": "tt2116973",
+    "tmdb": 264736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

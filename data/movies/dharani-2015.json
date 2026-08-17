@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dharani_2015",
+  "title": "Dharani",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263586",
+    "imdb": "tt4401880",
+    "tmdb": 324810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-30"
+}

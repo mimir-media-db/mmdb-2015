@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_fehlende_grau_2015",
+  "title": "Das fehlende Grau",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19971647",
+    "imdb": "tt4714418",
+    "tmdb": 388310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-25",
+  "runtime_minutes": 79
+}

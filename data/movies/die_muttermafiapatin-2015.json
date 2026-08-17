@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_muttermafiapatin_2015",
+  "title": "Die Müttermafia-Patin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58916871",
+    "imdb": "tt4497100",
+    "tmdb": 336449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}
