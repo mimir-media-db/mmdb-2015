@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_safety_first_the_movie_2015",
+  "title": "Safety First: The Movie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21998619",
+    "imdb": "tt4453306",
+    "tmdb": 373180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-16"
+}

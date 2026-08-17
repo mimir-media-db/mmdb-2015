@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_stormy_night_2015",
+  "title": "The Stormy Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21401818",
+    "tmdb": 1322701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06"
+}

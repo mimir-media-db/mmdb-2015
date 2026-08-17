@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swept_under_2015",
+  "title": "Swept Under",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28101354",
+    "imdb": "tt4622018",
+    "tmdb": 372490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-06",
+  "runtime_minutes": 90
+}

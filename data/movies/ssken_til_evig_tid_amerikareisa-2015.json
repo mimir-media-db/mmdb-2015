@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ssken_til_evig_tid_amerikareisa_2015",
+  "title": "Søsken til evig tid: Amerikareisa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97694974",
+    "imdb": "tt5127406",
+    "tmdb": 463622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-13",
+  "runtime_minutes": 75
+}

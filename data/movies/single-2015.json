@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_single_2015",
+  "title": "Single",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21452213",
+    "imdb": "tt5169582",
+    "tmdb": 373758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-17",
+  "runtime_minutes": 127
+}

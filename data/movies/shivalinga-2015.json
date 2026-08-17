@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shivalinga_2015",
+  "title": "Shivalinga",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21428036",
+    "imdb": "tt5465374",
+    "tmdb": 414206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-01",
+  "runtime_minutes": 151
+}

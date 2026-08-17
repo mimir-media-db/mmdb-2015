@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_wars_evolution_of_the_lightsaber_duel_2015",
+  "title": "Star Wars: Evolution of the Lightsaber Duel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905130",
+    "imdb": "tt6289242",
+    "tmdb": 376798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-15",
+  "runtime_minutes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sand_dollars_2015",
+  "title": "Sand Dollars",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170368",
+    "imdb": "tt3958098",
+    "tmdb": 287507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-10",
+  "runtime_minutes": 80
+}
