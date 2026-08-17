@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_catastrophe",
+  "title": "Catastrophe",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18786440",
+    "imdb": "tt4374208",
+    "tmdb": 61920
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

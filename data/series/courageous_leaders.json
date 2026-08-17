@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_courageous_leaders",
+  "title": "Courageous Leaders",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q52442456",
+    "imdb": "tt4684738",
+    "tmdb": 79844
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cheetah_in_august",
+  "title": "Cheetah in August",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22021998",
+    "imdb": "tt3920378",
+    "tmdb": 126306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

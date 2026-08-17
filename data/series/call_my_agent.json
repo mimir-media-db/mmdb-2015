@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_call_my_agent",
+  "title": "Call My Agent!",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q21008333",
+    "imdb": "tt4277922",
+    "tmdb": 64165
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

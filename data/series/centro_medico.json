@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_centro_medico",
+  "title": "Centro médico",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q25415212",
+    "imdb": "tt5159898",
+    "tmdb": 66904
+  },
+  "last_updated": "2026-08-17"
+}

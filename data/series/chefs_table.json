@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chefs_table",
+  "title": "Chef's Table",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20164367",
+    "imdb": "tt4295140",
+    "tmdb": 62391
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 56
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_club_der_roten_bander",
+  "title": "Club der roten Bänder",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q23653991",
+    "imdb": "tt4942462",
+    "tmdb": 64145
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_rocket",
+  "title": "Comedy Rocket",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q81079623",
+    "imdb": "tt9390564",
+    "tmdb": 119765
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 113
+}

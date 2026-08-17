@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_coroner",
+  "title": "The Coroner",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21480367",
+    "imdb": "tt5194866",
+    "tmdb": 64436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

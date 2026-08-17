@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_caminos_de_guanajuato",
+  "title": "Caminos de Guanajuato",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19801770",
+    "imdb": "tt4662944",
+    "tmdb": 62686
+  },
+  "last_updated": "2026-08-17"
+}

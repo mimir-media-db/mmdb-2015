@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cbc_docs_pov",
+  "title": "CBC Docs POV",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q109636924",
+    "imdb": "tt8545328",
+    "tmdb": 101161
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

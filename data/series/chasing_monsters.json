@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_monsters",
+  "title": "Chasing Monsters",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q95664007",
+    "imdb": "tt3463274",
+    "tmdb": 63590
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cake_wars",
+  "title": "Cake Wars",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24521081",
+    "imdb": "tt4718570",
+    "tmdb": 67823
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 27
+}

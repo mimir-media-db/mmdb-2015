@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chopped_junior",
+  "title": "Chopped Junior",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q25066565",
+    "imdb": "tt5226884",
+    "tmdb": 70535
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 91
+}
