@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yo_quisiera",
+  "title": "Yo quisiera",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21152390",
+    "imdb": "tt4550086",
+    "tmdb": 64251
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 48
+}

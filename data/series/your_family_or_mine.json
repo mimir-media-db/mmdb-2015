@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_your_family_or_mine",
+  "title": "Your Family or Mine",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19600521",
+    "imdb": "tt3597660",
+    "tmdb": 62214
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
