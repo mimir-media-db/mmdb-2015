@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_przypadki_cezarego_p_2015",
+  "title": "Przypadki Cezarego P.",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19366380",
+    "imdb": "tt4975480"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-08",
+  "runtime_minutes": 30
+}

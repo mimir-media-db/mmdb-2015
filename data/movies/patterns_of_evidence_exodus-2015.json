@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patterns_of_evidence_exodus_2015",
+  "title": "Patterns of Evidence: Exodus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263886",
+    "imdb": "tt3464018",
+    "tmdb": 309882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-19",
+  "runtime_minutes": 115
+}

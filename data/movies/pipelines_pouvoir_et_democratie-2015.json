@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pipelines_pouvoir_et_democratie_2015",
+  "title": "Pipelines, pouvoir et démocratie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61079291",
+    "imdb": "tt5250946"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

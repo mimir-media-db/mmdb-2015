@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pitza_e_datteri_2015",
+  "title": "Pitza e datteri",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900055",
+    "imdb": "tt4000442",
+    "tmdb": 342136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

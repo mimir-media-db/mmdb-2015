@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pieta_in_the_toilet_2015",
+  "title": "Pieta in the Toilet",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603046",
+    "imdb": "tt4197480",
+    "tmdb": 338401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-01",
+  "runtime_minutes": 120
+}

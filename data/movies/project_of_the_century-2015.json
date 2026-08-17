@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_project_of_the_century_2015",
+  "title": "The Project of the Century",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110785324",
+    "imdb": "tt4333136",
+    "tmdb": 316892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-27"
+}

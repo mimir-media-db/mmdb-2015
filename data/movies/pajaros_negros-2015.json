@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pajaros_negros_2015",
+  "title": "Pájaros Negros",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53845032",
+    "imdb": "tt4308326",
+    "tmdb": 452848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

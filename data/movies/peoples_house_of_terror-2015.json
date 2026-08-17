@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peoples_house_of_terror_2015",
+  "title": "People's House of Terror",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25483783",
+    "imdb": "tt5353002",
+    "tmdb": 380877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-20",
+  "runtime_minutes": 60
+}

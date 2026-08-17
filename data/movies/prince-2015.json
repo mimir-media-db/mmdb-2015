@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_2015",
+  "title": "Prince",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20732586",
+    "imdb": "tt4161932",
+    "tmdb": 324259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-25",
+  "runtime_minutes": 78
+}

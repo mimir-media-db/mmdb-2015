@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prach_2015",
+  "title": "Prach",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26225487",
+    "imdb": "tt4957438",
+    "tmdb": 532399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-09",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_2015",
+  "title": "Paradise",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23655504",
+    "imdb": "tt4856674",
+    "tmdb": 358243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

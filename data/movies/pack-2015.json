@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pack_2015",
+  "title": "The Pack",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958101",
+    "imdb": "tt4167720",
+    "tmdb": 344854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-05",
+  "runtime_minutes": 88
+}

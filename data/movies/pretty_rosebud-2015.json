@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_rosebud_2015",
+  "title": "Pretty Rosebud",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29044025",
+    "imdb": "tt1977892",
+    "tmdb": 309883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-16"
+}

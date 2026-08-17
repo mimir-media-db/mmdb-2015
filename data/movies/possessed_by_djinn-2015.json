@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_possessed_by_djinn_2015",
+  "title": "Possessed by Djinn",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24562497",
+    "imdb": "tt7085284",
+    "tmdb": 338329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

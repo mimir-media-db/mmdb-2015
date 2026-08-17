@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_9_2015",
+  "title": "Plan 9",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674441",
+    "imdb": "tt2014319",
+    "tmdb": 321377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-18"
+}

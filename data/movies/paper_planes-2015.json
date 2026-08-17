@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_planes_2015",
+  "title": "Paper Planes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17020430",
+    "imdb": "tt3328716",
+    "tmdb": 286875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 96
+}

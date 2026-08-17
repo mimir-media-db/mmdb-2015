@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pelota_ii_2015",
+  "title": "Pelota II",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37762878",
+    "imdb": "tt5181448",
+    "tmdb": 810620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 71
+}

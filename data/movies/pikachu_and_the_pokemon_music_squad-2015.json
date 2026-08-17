@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pikachu_and_the_pokemon_music_squad_2015",
+  "title": "Pikachu and the Pokémon Music Squad",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18880858",
+    "imdb": "tt6018104",
+    "tmdb": 389621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-18"
+}

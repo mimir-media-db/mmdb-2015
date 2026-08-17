@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pressure_2015",
+  "title": "Pressure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28123463",
+    "imdb": "tt3029476",
+    "tmdb": 252164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-23",
+  "runtime_minutes": 91
+}

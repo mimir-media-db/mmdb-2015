@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puthiya_niyamam_2015",
+  "title": "Puthiya Niyamam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427954",
+    "imdb": "tt5323568",
+    "tmdb": 371813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

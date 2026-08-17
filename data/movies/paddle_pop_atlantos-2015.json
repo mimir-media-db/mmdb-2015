@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paddle_pop_atlantos_2015",
+  "title": "Paddle Pop Atlantos",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23758354",
+    "tmdb": 377119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

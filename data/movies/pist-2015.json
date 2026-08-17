@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pist_2015",
+  "title": "Pişt",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31193098",
+    "imdb": "tt5604282",
+    "tmdb": 380392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

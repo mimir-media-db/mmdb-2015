@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prem_ratan_dhan_payo_2015",
+  "title": "Prem Ratan Dhan Payo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253210",
+    "imdb": "tt3595298",
+    "tmdb": 362136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-11"
+}

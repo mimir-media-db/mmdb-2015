@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pizza_man_2015",
+  "title": "Pizza Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21452275",
+    "imdb": "tt3903990",
+    "tmdb": 458142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-11",
+  "runtime_minutes": 83
+}

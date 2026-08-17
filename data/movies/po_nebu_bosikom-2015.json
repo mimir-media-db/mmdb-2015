@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_po_nebu_bosikom_2015",
+  "title": "Po nebu bosikom",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23807352",
+    "imdb": "tt6857310",
+    "tmdb": 408635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

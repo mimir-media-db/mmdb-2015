@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_fame_2015",
+  "title": "The Price of Fame",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16652614",
+    "imdb": "tt3194410",
+    "tmdb": 263118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 110
+}

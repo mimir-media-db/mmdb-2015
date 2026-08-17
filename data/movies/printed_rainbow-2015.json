@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_printed_rainbow_2015",
+  "title": "Printed Rainbow",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51835538",
+    "imdb": "tt0938780",
+    "tmdb": 267523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-22",
+  "runtime_minutes": 15
+}

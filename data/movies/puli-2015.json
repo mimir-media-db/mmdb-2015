@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puli_2015",
+  "title": "Puli",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703181",
+    "imdb": "tt3803860",
+    "tmdb": 330420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01",
+  "runtime_minutes": 154
+}

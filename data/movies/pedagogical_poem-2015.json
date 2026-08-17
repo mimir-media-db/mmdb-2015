@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pedagogical_poem_2015",
+  "title": "The Pedagogical Poem",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92191980",
+    "imdb": "tt27438232"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-14",
+  "runtime_minutes": 52
+}

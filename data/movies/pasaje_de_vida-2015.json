@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pasaje_de_vida_2015",
+  "title": "Pasaje de vida",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23753211",
+    "imdb": "tt3879176",
+    "tmdb": 362038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 112
+}
