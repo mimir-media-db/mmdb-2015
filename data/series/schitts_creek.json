@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_schitts_creek",
+  "title": "Schitt's Creek",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q17111973",
+    "imdb": "tt3526078",
+    "tmdb": 61662
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 80
+}

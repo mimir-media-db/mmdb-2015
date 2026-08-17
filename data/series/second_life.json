@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_second_life",
+  "title": "Second Life",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15920313",
+    "tmdb": 107913
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

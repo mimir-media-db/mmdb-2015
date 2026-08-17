@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seis_hermanas",
+  "title": "Seis hermanas",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19818209",
+    "imdb": "tt4485006",
+    "tmdb": 62522
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 489
+}

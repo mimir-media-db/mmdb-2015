@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sports_on_fire",
+  "title": "Sports on Fire",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q24521093",
+    "imdb": "tt3415136"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

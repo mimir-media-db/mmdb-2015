@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_supergirl",
+  "title": "Supergirl",
+  "start_year": 2015,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q18844732",
+    "imdb": "tt4016454",
+    "tmdb": 62688
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 126
+}

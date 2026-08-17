@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stone_cage",
+  "title": "Stone Cage",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q21778064",
+    "imdb": "tt5706918"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 96
+}

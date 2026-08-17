@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_superstore",
+  "title": "Superstore",
+  "start_year": 2015,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q19863018",
+    "imdb": "tt4477976",
+    "tmdb": 62649
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 113
+}

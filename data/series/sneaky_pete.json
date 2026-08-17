@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sneaky_pete",
+  "title": "Sneaky Pete",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21189769",
+    "imdb": "tt5011816",
+    "tmdb": 64199
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

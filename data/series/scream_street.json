@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scream_street",
+  "title": "Scream Street",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25213070",
+    "imdb": "tt5883124",
+    "tmdb": 74243
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

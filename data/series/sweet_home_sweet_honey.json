@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_home_sweet_honey",
+  "title": "Sweet Home, Sweet Honey",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21059677",
+    "imdb": "tt8421804",
+    "tmdb": 64357
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 129
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_spotlight",
+  "title": "Spotlight",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q43405998",
+    "imdb": "tt4725774"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 62
+}

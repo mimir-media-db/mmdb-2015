@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sohvaperunat",
+  "title": "Sohvaperunat",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20252985",
+    "imdb": "tt5461832",
+    "tmdb": 241728
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

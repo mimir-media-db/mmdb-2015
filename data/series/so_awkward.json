@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_so_awkward",
+  "title": "So Awkward",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20720771",
+    "imdb": "tt4735850",
+    "tmdb": 67660
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

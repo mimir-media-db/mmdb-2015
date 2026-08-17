@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stitchers",
+  "title": "Stitchers",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19798766",
+    "imdb": "tt3868848",
+    "tmdb": 62196
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

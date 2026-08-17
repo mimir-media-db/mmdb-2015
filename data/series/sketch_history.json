@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sketch_history",
+  "title": "Sketch History",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q23775112",
+    "imdb": "tt5369974",
+    "tmdb": 64129
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

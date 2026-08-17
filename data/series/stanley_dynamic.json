@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stanley_dynamic",
+  "title": "The Stanley Dynamic",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25456592",
+    "imdb": "tt3945802",
+    "tmdb": 77531
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

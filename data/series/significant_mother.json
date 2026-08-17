@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_significant_mother",
+  "title": "Significant Mother",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19995676",
+    "imdb": "tt3924978",
+    "tmdb": 63072
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

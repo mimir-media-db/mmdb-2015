@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scream",
+  "title": "Scream",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18645277",
+    "imdb": "tt3921180",
+    "tmdb": 62823
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}
