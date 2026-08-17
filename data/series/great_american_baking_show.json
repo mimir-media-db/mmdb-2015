@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_american_baking_show",
+  "title": "The Great American Baking Show",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28127021",
+    "imdb": "tt5233284",
+    "tmdb": 69024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 22
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_pottery_throw_down",
+  "title": "The Great Pottery Throw Down",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21539895",
+    "imdb": "tt6417190",
+    "tmdb": 77631
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 34
+}

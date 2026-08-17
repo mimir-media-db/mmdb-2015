@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_guzaarish",
+  "title": "Guzaarish",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25204856",
+    "imdb": "tt34675567"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

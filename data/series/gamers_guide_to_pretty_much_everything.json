@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gamers_guide_to_pretty_much_everything",
+  "title": "Gamer's Guide to Pretty Much Everything",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19798700",
+    "imdb": "tt4380272",
+    "tmdb": 63007
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 37
+}

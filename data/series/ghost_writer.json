@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_writer",
+  "title": "Ghost Writer",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18642281",
+    "imdb": "tt4241016",
+    "tmdb": 62013
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

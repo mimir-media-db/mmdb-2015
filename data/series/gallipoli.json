@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gallipoli",
+  "title": "Gallipoli",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16570580",
+    "imdb": "tt3577058",
+    "tmdb": 62039
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

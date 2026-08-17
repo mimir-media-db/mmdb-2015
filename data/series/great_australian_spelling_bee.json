@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_australian_spelling_bee",
+  "title": "The Great Australian Spelling Bee",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20020699"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

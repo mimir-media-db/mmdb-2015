@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_go_jetters",
+  "title": "Go Jetters",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q25338372",
+    "imdb": "tt5172468",
+    "tmdb": 73574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 154
+}

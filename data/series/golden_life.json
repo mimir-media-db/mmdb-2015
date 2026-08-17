@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_life",
+  "title": "Golden Life",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21409357",
+    "imdb": "tt5099020",
+    "tmdb": 64379
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}
