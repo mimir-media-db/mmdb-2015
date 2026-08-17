@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_searching_for_rushdi_2015",
+  "title": "Searching for Rushdi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55978657",
+    "imdb": "tt5149156",
+    "tmdb": 1227503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-30",
+  "runtime_minutes": 50
+}

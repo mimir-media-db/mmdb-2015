@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_subte_polska_2015",
+  "title": "Subte: Polska",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23898987",
+    "imdb": "tt5160202",
+    "tmdb": 532521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

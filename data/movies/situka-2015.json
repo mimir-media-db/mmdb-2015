@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_situka_2015",
+  "title": "Situka",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271049",
+    "imdb": "tt11107896"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

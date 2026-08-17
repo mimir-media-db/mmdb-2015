@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snervous_tyler_oakley_2015",
+  "title": "Snervous Tyler Oakley",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50413662",
+    "imdb": "tt5073746",
+    "tmdb": 370416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

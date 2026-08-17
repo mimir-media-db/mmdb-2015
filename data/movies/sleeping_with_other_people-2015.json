@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_with_other_people_2015",
+  "title": "Sleeping with Other People",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18154102",
+    "imdb": "tt3165612",
+    "tmdb": 288036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-24",
+  "runtime_minutes": 92
+}

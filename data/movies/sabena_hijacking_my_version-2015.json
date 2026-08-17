@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sabena_hijacking_my_version_2015",
+  "title": "Sabena Hijacking: My Version",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25492418",
+    "imdb": "tt4998338",
+    "tmdb": 379423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-08",
+  "runtime_minutes": 100
+}

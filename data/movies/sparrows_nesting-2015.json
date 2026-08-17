@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sparrows_nesting_2015",
+  "title": "The Sparrows: Nesting",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121300666",
+    "imdb": "tt4181400",
+    "tmdb": 369789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scouts_guide_to_the_zombie_apocalypse_2015",
+  "title": "Scouts Guide to the Zombie Apocalypse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17112933",
+    "imdb": "tt1727776",
+    "tmdb": 273477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-30",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_save_my_seoul_2015",
+  "title": "Save My Seoul",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45735686",
+    "imdb": "tt4314152",
+    "tmdb": 456177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

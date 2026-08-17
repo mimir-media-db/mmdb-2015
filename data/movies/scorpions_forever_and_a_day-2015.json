@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scorpions_forever_and_a_day_2015",
+  "title": "Scorpions - Forever And A Day",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776613",
+    "imdb": "tt4396010",
+    "tmdb": 323583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-07",
+  "runtime_minutes": 100
+}

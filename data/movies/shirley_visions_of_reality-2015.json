@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shirley_visions_of_reality_2015",
+  "title": "Shirley - Visions of Reality",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18639023",
+    "imdb": "tt2636806",
+    "tmdb": 206277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 93
+}

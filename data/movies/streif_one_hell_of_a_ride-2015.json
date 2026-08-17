@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_streif_one_hell_of_a_ride_2015",
+  "title": "Streif: One Hell of a Ride",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19971481",
+    "imdb": "tt4208660",
+    "tmdb": 322124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 120
+}

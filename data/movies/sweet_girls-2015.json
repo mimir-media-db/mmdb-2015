@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_girls_2015",
+  "title": "Sweet Girls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28841604",
+    "imdb": "tt3695956",
+    "tmdb": 413292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

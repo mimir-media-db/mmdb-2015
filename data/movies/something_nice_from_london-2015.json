@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_something_nice_from_london_2015",
+  "title": "Something Nice from London",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73536337",
+    "imdb": "tt4568218"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

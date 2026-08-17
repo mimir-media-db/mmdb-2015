@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supermodel_2015",
+  "title": "Supermodel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071288",
+    "imdb": "tt4192916",
+    "tmdb": 465120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-14"
+}

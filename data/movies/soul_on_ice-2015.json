@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_on_ice_2015",
+  "title": "Soul on Ice",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27962506",
+    "imdb": "tt5255882",
+    "tmdb": 482892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-04"
+}

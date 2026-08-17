@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_rain_2015",
+  "title": "Silver Rain",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58815104",
+    "imdb": "tt4558830",
+    "tmdb": 386559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-13",
+  "runtime_minutes": 95
+}

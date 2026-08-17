@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_of_frozen_fountains_2015",
+  "title": "The Summer of Frozen Fountains",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23701386",
+    "imdb": "tt4949272",
+    "tmdb": 369569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}

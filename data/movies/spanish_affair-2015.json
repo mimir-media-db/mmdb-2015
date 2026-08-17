@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spanish_affair_2015",
+  "title": "Spanish Affair",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16007945",
+    "imdb": "tt2955316",
+    "tmdb": 236737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 98
+}

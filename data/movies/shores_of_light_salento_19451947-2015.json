@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shores_of_light_salento_19451947_2015",
+  "title": "Shores of Light: Salento 1945-1947",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30527493",
+    "imdb": "tt4520000",
+    "tmdb": 512906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-15",
+  "runtime_minutes": 56
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solomons_perjury_part_1_suspicion_2015",
+  "title": "Solomon's Perjury Part 1: Suspicion",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56778761",
+    "imdb": "tt3421614",
+    "tmdb": 335715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-07",
+  "runtime_minutes": 121
+}

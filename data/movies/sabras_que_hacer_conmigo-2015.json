@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sabras_que_hacer_conmigo_2015",
+  "title": "Sabrás qué hacer conmigo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52161984",
+    "imdb": "tt3810572",
+    "tmdb": 317938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_hand_husband_2015",
+  "title": "Second Hand Husband",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811629",
+    "imdb": "tt3948240",
+    "tmdb": 347602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-03"
+}

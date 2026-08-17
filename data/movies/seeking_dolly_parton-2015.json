@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeking_dolly_parton_2015",
+  "title": "Seeking Dolly Parton",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22077202",
+    "imdb": "tt2187071",
+    "tmdb": 426606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

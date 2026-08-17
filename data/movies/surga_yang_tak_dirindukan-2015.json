@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surga_yang_tak_dirindukan_2015",
+  "title": "Surga Yang Tak Dirindukan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20427596",
+    "imdb": "tt5104080",
+    "tmdb": 353338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-15",
+  "runtime_minutes": 124
+}

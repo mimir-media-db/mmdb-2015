@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_daddies_2015",
+  "title": "Sugar Daddies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303289",
+    "imdb": "tt4329098",
+    "tmdb": 318553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

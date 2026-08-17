@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaandaar_2015",
+  "title": "Shaandaar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18009534",
+    "imdb": "tt4007558",
+    "tmdb": 362140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 144
+}

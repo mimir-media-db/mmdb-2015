@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seto_bagh_2015",
+  "title": "Seto Bagh",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807399",
+    "imdb": "tt6044656",
+    "tmdb": 495423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10"
+}

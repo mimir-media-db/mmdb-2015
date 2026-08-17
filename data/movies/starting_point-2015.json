@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_starting_point_2015",
+  "title": "Starting Point",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21428091",
+    "imdb": "tt4215340",
+    "tmdb": 323406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

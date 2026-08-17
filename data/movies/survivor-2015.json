@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survivor_2015",
+  "title": "Survivor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15715647",
+    "imdb": "tt3247714",
+    "tmdb": 334074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21",
+  "runtime_minutes": 93
+}

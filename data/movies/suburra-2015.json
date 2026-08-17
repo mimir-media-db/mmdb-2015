@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suburra_2015",
+  "title": "Suburra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21187930",
+    "imdb": "tt4025514",
+    "tmdb": 356296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-14",
+  "runtime_minutes": 135
+}

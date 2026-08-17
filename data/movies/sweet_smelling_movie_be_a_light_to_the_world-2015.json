@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_smelling_movie_be_a_light_to_the_world_2015",
+  "title": "Sweet Smelling Movie Be A Light To The World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30938137",
+    "imdb": "tt5330264",
+    "tmdb": 449487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sea_without_shore_2015",
+  "title": "Sea Without Shore",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21648833",
+    "imdb": "tt2966752",
+    "tmdb": 326059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

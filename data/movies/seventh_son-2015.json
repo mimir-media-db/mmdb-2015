@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seventh_son_2015",
+  "title": "The Seventh Son",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74579",
+    "imdb": "tt1121096",
+    "tmdb": 68737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-05",
+  "runtime_minutes": 102
+}

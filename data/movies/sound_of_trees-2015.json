@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_trees_2015",
+  "title": "The Sound of Trees",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20652463",
+    "imdb": "tt4027334",
+    "tmdb": 346754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-06",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samba_2015",
+  "title": "Samba",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16675434",
+    "imdb": "tt3399024",
+    "tmdb": 269148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-18",
+  "runtime_minutes": 118
+}

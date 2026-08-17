@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sandamarutham_2015",
+  "title": "Sandamarutham",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17074004",
+    "imdb": "tt3822410",
+    "tmdb": 280090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-20"
+}

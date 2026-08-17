@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soaked_in_bleach_2015",
+  "title": "Soaked in Bleach",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17143056",
+    "imdb": "tt3253624",
+    "tmdb": 295595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-11",
+  "runtime_minutes": 89
+}

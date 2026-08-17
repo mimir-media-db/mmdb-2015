@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stonehearst_asylum_2015",
+  "title": "Stonehearst Asylum",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14522896",
+    "imdb": "tt1772264",
+    "tmdb": 207933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27",
+  "runtime_minutes": 113
+}

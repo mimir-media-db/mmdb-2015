@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_belleville_2015",
+  "title": "Shanghai Belleville",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26257898",
+    "imdb": "tt2679710",
+    "tmdb": 374901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

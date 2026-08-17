@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swaarangi_the_melting_embers_2015",
+  "title": "Swaarangi – The Melting Embers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7652844",
+    "imdb": "tt2650538",
+    "tmdb": 622372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-11"
+}

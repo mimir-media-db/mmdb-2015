@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_social_suicide_2015",
+  "title": "Social Suicide",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28032770",
+    "imdb": "tt4045732",
+    "tmdb": 417268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

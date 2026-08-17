@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survivors_2015",
+  "title": "Survivors",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136533",
+    "imdb": "tt2340888",
+    "tmdb": 335696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-20",
+  "runtime_minutes": 92
+}

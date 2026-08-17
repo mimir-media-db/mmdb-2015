@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_save_yourself_2015",
+  "title": "Save Yourself",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964624",
+    "imdb": "tt3549636",
+    "tmdb": 343803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

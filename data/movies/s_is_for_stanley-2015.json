@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s_is_for_stanley_2015",
+  "title": "S Is for Stanley",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900116",
+    "imdb": "tt3512160",
+    "tmdb": 399504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

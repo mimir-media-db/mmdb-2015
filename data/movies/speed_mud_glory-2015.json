@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_mud_glory_2015",
+  "title": "Speed, Mud & Glory",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776661",
+    "imdb": "tt4278418",
+    "tmdb": 324097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-25"
+}

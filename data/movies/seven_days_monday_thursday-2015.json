@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_days_monday_thursday_2015",
+  "title": "Seven Days: Monday – Thursday",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42940558",
+    "imdb": "tt4556352",
+    "tmdb": 346355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-06",
+  "runtime_minutes": 66
+}

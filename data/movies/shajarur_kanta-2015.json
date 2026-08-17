@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shajarur_kanta_2015",
+  "title": "Shajarur Kanta",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811631",
+    "imdb": "tt4538164",
+    "tmdb": 379648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-20"
+}

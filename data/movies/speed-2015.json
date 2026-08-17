@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_2015",
+  "title": "Speed",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20651854",
+    "imdb": "tt4036590",
+    "tmdb": 339534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22"
+}

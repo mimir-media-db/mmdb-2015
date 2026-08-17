@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summers_tail_2015",
+  "title": "Summer´s Tail",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000866",
+    "imdb": "tt4703764",
+    "tmdb": 407305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

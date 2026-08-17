@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_syrian_love_story_2015",
+  "title": "A Syrian Love Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000141",
+    "imdb": "tt4684410",
+    "tmdb": 359204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sword_of_vengeance_2015",
+  "title": "Sword of Vengeance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720805",
+    "imdb": "tt3622332",
+    "tmdb": 313074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-05",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_teresa_y_otras_historias_2015",
+  "title": "Santa Teresa Y Otras Historias",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854298",
+    "imdb": "tt5227588",
+    "tmdb": 351789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 65
+}

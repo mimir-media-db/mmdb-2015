@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suenos_de_sal_2015",
+  "title": "Sueños de sal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96738759",
+    "imdb": "tt4876594",
+    "tmdb": 365546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-19",
+  "runtime_minutes": 71
+}

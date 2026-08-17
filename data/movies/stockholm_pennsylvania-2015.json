@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stockholm_pennsylvania_2015",
+  "title": "Stockholm, Pennsylvania",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19057460",
+    "imdb": "tt2481512",
+    "tmdb": 308361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23",
+  "runtime_minutes": 99
+}

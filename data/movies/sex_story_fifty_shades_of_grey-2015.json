@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_story_fifty_shades_of_grey_2015",
+  "title": "Sex Story: Fifty Shades of Grey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111383247",
+    "imdb": "tt2309262",
+    "tmdb": 205838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

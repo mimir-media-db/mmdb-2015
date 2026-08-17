@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_street_stall_2015",
+  "title": "Street Stall",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739179",
+    "imdb": "tt10090588",
+    "tmdb": 369460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01"
+}

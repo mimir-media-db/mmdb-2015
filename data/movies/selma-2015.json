@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selma_2015",
+  "title": "Selma",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17183770",
+    "imdb": "tt1020072",
+    "tmdb": 273895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-09",
+  "runtime_minutes": 127
+}

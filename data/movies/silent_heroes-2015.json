@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_heroes_2015",
+  "title": "Silent Hero(es)",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25471249",
+    "imdb": "tt5953186",
+    "tmdb": 929764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-05"
+}

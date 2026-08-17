@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shooting_the_warwicks_2015",
+  "title": "Shooting the Warwicks",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814751",
+    "imdb": "tt2690560",
+    "tmdb": 176074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-04"
+}

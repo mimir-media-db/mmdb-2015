@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smac_2015",
+  "title": "Smac",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24265169",
+    "imdb": "tt5178998",
+    "tmdb": 365324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

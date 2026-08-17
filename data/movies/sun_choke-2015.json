@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_choke_2015",
+  "title": "Sun Choke",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58200466",
+    "imdb": "tt3395582",
+    "tmdb": 334026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-02",
+  "runtime_minutes": 84
+}

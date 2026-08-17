@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sicario_2015",
+  "title": "Sicario",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17337292",
+    "imdb": "tt3397884",
+    "tmdb": 273481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18",
+  "runtime_minutes": 121
+}
