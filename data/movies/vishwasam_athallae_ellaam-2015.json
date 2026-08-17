@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vishwasam_athallae_ellaam_2015",
+  "title": "Vishwasam Athallae Ellaam...",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18758183",
+    "imdb": "tt4575174",
+    "tmdb": 368371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-31"
+}

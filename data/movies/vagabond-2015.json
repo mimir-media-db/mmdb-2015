@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vagabond_2015",
+  "title": "Vagabond",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483885",
+    "imdb": "tt5159538",
+    "tmdb": 327033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 7
+}

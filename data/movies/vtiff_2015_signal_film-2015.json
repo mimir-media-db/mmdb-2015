@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_vtiff_2015_signal_film_2015",
+  "title": "VTIFF 2015 Signal Film",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77855927"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

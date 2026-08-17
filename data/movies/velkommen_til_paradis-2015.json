@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_velkommen_til_paradis_2015",
+  "title": "Velkommen til Paradis",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33579755",
+    "imdb": "tt4365576",
+    "tmdb": 611493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 13
+}

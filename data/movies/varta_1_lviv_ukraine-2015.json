@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_varta_1_lviv_ukraine_2015",
+  "title": "Varta 1, Lviv, Ukraine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28704018",
+    "imdb": "tt9247852",
+    "tmdb": 844551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 64
+}

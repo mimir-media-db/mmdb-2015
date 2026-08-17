@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_the_sasquatch_2015",
+  "title": "Valley of the Sasquatch",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755405",
+    "imdb": "tt3231390",
+    "tmdb": 321478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-20"
+}

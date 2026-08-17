@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vidas_violentas_2015",
+  "title": "Vidas Violentas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93390546",
+    "imdb": "tt12562336",
+    "tmdb": 795583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-14",
+  "runtime_minutes": 70
+}

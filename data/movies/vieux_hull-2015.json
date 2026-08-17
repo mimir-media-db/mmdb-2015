@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_vieux_hull_2015",
+  "title": "Vieux Hull",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107614107"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

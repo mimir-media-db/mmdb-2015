@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violette_2015",
+  "title": "Violette",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14949812",
+    "imdb": "tt2976920",
+    "tmdb": 209282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21",
+  "runtime_minutes": 139
+}

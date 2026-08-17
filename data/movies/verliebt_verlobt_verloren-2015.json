@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verliebt_verlobt_verloren_2015",
+  "title": "Verliebt, verlobt, verloren",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20080444",
+    "imdb": "tt4717148",
+    "tmdb": 424874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-25",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_very_private_life_of_mister_sim_2015",
+  "title": "The Very Private Life of Mister Sim",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21027315",
+    "imdb": "tt4313614",
+    "tmdb": 372640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-16",
+  "runtime_minutes": 102
+}

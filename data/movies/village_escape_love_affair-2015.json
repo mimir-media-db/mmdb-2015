@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_village_escape_love_affair_2015",
+  "title": "Village Escape. Love Affair",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109076927",
+    "imdb": "tt6020322",
+    "tmdb": 454679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-26",
+  "runtime_minutes": 96
+}

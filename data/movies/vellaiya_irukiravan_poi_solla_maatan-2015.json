@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vellaiya_irukiravan_poi_solla_maatan_2015",
+  "title": "Vellaiya Irukiravan Poi Solla Maatan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647276",
+    "imdb": "tt5079858",
+    "tmdb": 369684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 127
+}

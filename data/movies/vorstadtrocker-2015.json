@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vorstadtrocker_2015",
+  "title": "Vorstadtrocker",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93350096",
+    "imdb": "tt4637498",
+    "tmdb": 370219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}
