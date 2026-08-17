@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_meravigliosa_stagione_fallimentare_2015",
+  "title": "Una meravigliosa stagione fallimentare",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078276",
+    "imdb": "tt7664640",
+    "tmdb": 322110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

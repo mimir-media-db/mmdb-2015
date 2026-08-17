@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_und_am_ende_sind_alle_allein_2015",
+  "title": "Und am Ende sind alle allein",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23787553",
+    "imdb": "tt4892518"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

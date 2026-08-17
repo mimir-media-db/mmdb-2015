@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_utopiayile_rajavu_2015",
+  "title": "Utopiayile Rajavu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538762",
+    "imdb": "tt4928724",
+    "tmdb": 358645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uzaklarda_arama_2015",
+  "title": "Uzaklarda Arama",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527256",
+    "imdb": "tt5158168",
+    "tmdb": 383640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

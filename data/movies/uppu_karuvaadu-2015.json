@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uppu_karuvaadu_2015",
+  "title": "Uppu Karuvaadu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814882",
+    "imdb": "tt5290788",
+    "tmdb": 349197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-27"
+}

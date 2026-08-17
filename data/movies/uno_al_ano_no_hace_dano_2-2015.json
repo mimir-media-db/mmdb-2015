@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uno_al_ano_no_hace_dano_2_2015",
+  "title": "Uno al año no hace daño 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64584588",
+    "imdb": "tt6423526",
+    "tmdb": 437222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}
