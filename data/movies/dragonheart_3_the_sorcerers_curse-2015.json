@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragonheart_3_the_sorcerers_curse_2015",
+  "title": "Dragonheart 3: The Sorcerer's Curse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18146264",
+    "imdb": "tt3829170",
+    "tmdb": 300803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 97
+}

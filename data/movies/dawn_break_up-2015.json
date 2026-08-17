@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dawn_break_up_2015",
+  "title": "Dawn Break Up",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058586",
+    "tmdb": 1155258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

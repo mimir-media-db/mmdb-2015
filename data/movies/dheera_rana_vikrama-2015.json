@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dheera_rana_vikrama_2015",
+  "title": "Dheera Rana Vikrama",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17047831",
+    "imdb": "tt4597454",
+    "tmdb": 691633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 148
+}

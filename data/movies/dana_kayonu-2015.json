@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dana_kayonu_2015",
+  "title": "Dana Kayonu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814490",
+    "imdb": "tt6123210",
+    "tmdb": 420489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

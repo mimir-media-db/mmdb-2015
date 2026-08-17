@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duel_2015",
+  "title": "The Duel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18205721",
+    "imdb": "tt2436682",
+    "tmdb": 333386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

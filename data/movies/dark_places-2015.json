@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_places_2015",
+  "title": "Dark Places",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15109729",
+    "imdb": "tt2402101",
+    "tmdb": 182560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_damsel_2015",
+  "title": "Damsel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20870867",
+    "imdb": "tt4018516",
+    "tmdb": 328941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

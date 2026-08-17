@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deyyam_2015",
+  "title": "Deyyam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252878",
+    "imdb": "tt3683440",
+    "tmdb": 498456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

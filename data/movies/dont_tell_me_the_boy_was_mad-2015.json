@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_tell_me_the_boy_was_mad_2015",
+  "title": "Don't Tell Me the Boy Was Mad",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19849776",
+    "imdb": "tt4062208",
+    "tmdb": 337110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 134
+}

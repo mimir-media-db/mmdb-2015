@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dybbuk_a_tale_of_wandering_souls_2015",
+  "title": "The Dybbuk. A Tale of Wandering Souls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20107428",
+    "imdb": "tt4126602",
+    "tmdb": 717722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

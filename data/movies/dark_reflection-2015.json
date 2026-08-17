@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_reflection_2015",
+  "title": "A Dark Reflection",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18349567",
+    "imdb": "tt2662218",
+    "tmdb": 327266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 102
+}

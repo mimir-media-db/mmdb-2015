@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_barrel_2015",
+  "title": "Double Barrel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18112015",
+    "imdb": "tt4930814",
+    "tmdb": 338927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 158
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dealer_2015",
+  "title": "Dealer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18736650",
+    "imdb": "tt3670826",
+    "tmdb": 335154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

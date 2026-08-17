@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dekh_magar_pyar_se_2015",
+  "title": "Dekh Magar Pyar Se",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19891286",
+    "imdb": "tt4816152",
+    "tmdb": 395962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 107
+}

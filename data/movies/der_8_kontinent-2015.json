@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_8_kontinent_2015",
+  "title": "Der 8. Kontinent",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20971294",
+    "imdb": "tt3350098",
+    "tmdb": 338478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}
