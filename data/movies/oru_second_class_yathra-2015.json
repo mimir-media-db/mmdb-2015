@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_second_class_yathra_2015",
+  "title": "Oru Second Class Yathra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19954669",
+    "imdb": "tt4664092",
+    "tmdb": 339304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

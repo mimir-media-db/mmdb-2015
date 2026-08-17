@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_brazen_age_2015",
+  "title": "O, Brazen Age",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203202",
+    "imdb": "tt3949056",
+    "tmdb": 357308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

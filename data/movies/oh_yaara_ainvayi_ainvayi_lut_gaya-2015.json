@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_yaara_ainvayi_ainvayi_lut_gaya_2015",
+  "title": "Oh Yaara Ainvayi Ainvayi Lut Gaya",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20648563",
+    "imdb": "tt6400696",
+    "tmdb": 345833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

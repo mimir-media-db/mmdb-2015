@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_other_barrio_2015",
+  "title": "The Other Barrio",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18758171",
+    "imdb": "tt2336618",
+    "tmdb": 1616624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
