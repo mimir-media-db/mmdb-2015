@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dziewczyny_ze_lwowa",
+  "title": "Dziewczyny ze Lwowa",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21202014",
+    "imdb": "tt5341272",
+    "tmdb": 85249
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

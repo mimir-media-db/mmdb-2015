@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doble_kara",
+  "title": "Doble Kara",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q20899429",
+    "imdb": "tt6743464",
+    "tmdb": 107970
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 381
+}

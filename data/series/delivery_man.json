@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_delivery_man",
+  "title": "The Delivery Man",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19824625",
+    "imdb": "tt4610700",
+    "tmdb": 62414
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

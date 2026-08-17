@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_desi_rascals",
+  "title": "Desi Rascals",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20735556",
+    "imdb": "tt4403898",
+    "tmdb": 61998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

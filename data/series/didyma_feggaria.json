@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_didyma_feggaria",
+  "title": "Didyma Feggaria",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q23889014",
+    "imdb": "tt5659436",
+    "tmdb": 101436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 322
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_downshiftaajat",
+  "title": "Downshiftaajat",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23039655",
+    "imdb": "tt6055020",
+    "tmdb": 65182
+  },
+  "last_updated": "2026-08-17"
+}
