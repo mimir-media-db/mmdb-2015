@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_6_ways_to_die_2015",
+  "title": "6 Ways to Die",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104817518",
+    "imdb": "tt3550902",
+    "tmdb": 346079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}
