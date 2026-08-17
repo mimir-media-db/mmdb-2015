@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_other_space",
+  "title": "Other Space",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19757626",
+    "imdb": "tt4561950",
+    "tmdb": 62383
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

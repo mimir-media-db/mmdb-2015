@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_open_slather",
+  "title": "Open Slather",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19798747",
+    "imdb": "tt4582410",
+    "tmdb": 62777
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

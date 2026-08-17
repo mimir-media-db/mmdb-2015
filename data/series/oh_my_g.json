@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_g",
+  "title": "Oh My G!",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18758170",
+    "imdb": "tt4533268",
+    "tmdb": 202330
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 132
+}

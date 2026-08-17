@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_os_dez_mandamentos",
+  "title": "Os Dez Mandamentos",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19683606",
+    "imdb": "tt4855286",
+    "tmdb": 63109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 242
+}

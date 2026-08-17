@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_onna_michi",
+  "title": "Onna Michi",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140580039",
+    "tmdb": 108839
+  },
+  "last_updated": "2026-08-17"
+}
