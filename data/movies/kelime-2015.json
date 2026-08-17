@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kelime_2015",
+  "title": "Kelime",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30891081",
+    "imdb": "tt5038488"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 10
+}

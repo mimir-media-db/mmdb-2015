@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_them_safely_2015",
+  "title": "Killing Them Safely",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57962517",
+    "imdb": "tt4498460",
+    "tmdb": 365183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17",
+  "runtime_minutes": 95
+}

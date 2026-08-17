@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kod_ad_koz_2015",
+  "title": "Kod Adı: K.O.Z.",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19360417",
+    "imdb": "tt4458206",
+    "tmdb": 328345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 114
+}

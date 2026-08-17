@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katyar_kaljat_ghusali_2015",
+  "title": "Katyar Kaljat Ghusali",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13118182",
+    "imdb": "tt5190958",
+    "tmdb": 368330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-12"
+}

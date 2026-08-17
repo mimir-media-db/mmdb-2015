@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_or_be_killed_2015",
+  "title": "Kill or Be Killed",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959647",
+    "imdb": "tt2364774",
+    "tmdb": 385309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10",
+  "runtime_minutes": 103
+}

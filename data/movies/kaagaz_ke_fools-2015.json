@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaagaz_ke_fools_2015",
+  "title": "Kaagaz Ke Fools",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892301",
+    "imdb": "tt2962230",
+    "tmdb": 340742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-24"
+}

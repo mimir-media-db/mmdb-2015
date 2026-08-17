@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kwai_boo_2015",
+  "title": "Kwai Boo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198275",
+    "imdb": "tt4885958",
+    "tmdb": 546299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-06",
+  "runtime_minutes": 95
+}

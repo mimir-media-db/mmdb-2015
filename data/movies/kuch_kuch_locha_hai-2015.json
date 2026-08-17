@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuch_kuch_locha_hai_2015",
+  "title": "Kuch Kuch Locha Hai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18129261",
+    "imdb": "tt4272420",
+    "tmdb": 339169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-08"
+}

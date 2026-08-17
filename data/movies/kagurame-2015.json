@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kagurame_2015",
+  "title": "Kagurame",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131021",
+    "imdb": "tt4473356",
+    "tmdb": 354397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

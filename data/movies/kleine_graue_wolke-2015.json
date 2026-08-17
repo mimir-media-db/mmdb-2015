@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kleine_graue_wolke_2015",
+  "title": "Kleine graue Wolke",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962826",
+    "imdb": "tt4217230",
+    "tmdb": 361986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24"
+}

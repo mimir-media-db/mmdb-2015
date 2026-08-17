@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krampus_the_reckoning_2015",
+  "title": "Krampus: The Reckoning",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60374560",
+    "imdb": "tt4820312",
+    "tmdb": 366551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

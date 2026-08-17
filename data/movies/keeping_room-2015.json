@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keeping_room_2015",
+  "title": "The Keeping Room",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15612553",
+    "imdb": "tt2488778",
+    "tmdb": 284284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25",
+  "runtime_minutes": 95
+}

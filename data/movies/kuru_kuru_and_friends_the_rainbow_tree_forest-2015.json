@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuru_kuru_and_friends_the_rainbow_tree_forest_2015",
+  "title": "Kuru Kuru and Friends: The Rainbow Tree Forest",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601223",
+    "imdb": "tt6448112",
+    "tmdb": 680471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

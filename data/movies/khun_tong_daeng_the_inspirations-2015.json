@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khun_tong_daeng_the_inspirations_2015",
+  "title": "Khun Tong Daeng: The Inspirations",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131613058",
+    "imdb": "tt6447370",
+    "tmdb": 529625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

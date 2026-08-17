@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_korean_in_paris_2015",
+  "title": "A Korean in Paris",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775642",
+    "imdb": "tt4087942",
+    "tmdb": 382118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kampai_for_the_love_of_sake_2015",
+  "title": "Kampai: For the Love of Sake",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113577007",
+    "imdb": "tt4255622",
+    "tmdb": 339313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-21"
+}
