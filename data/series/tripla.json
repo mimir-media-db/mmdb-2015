@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tripla",
+  "title": "Tripla",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q23039965",
+    "imdb": "tt5009576"
+  },
+  "last_updated": "2026-08-17"
+}

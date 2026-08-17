@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_team",
+  "title": "The Team",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q19407439",
+    "imdb": "tt3681610",
+    "tmdb": 62183
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

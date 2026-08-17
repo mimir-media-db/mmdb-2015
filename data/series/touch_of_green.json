@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_touch_of_green",
+  "title": "A Touch of Green",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19851573",
+    "imdb": "tt5231950",
+    "tmdb": 70432
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 31
+}

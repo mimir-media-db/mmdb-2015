@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tanglin",
+  "title": "Tanglin",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q24049382",
+    "imdb": "tt4721442",
+    "tmdb": 83162
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 823
+}

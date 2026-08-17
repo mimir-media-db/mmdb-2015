@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_three_witches",
+  "title": "The Three Witches",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21521563",
+    "imdb": "tt6256946",
+    "tmdb": 65260
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 122
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_teddy_go",
+  "title": "Teddy Go!",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21087989",
+    "imdb": "tt5034884",
+    "tmdb": 66079
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

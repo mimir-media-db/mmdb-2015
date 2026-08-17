@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_twirlywoos",
+  "title": "Twirlywoos",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25451543",
+    "imdb": "tt4481920",
+    "tmdb": 81240
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 100
+}

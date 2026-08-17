@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_true_mystery",
+  "title": "True Mystery",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q98103192",
+    "imdb": "tt13011102"
+  },
+  "last_updated": "2026-08-17"
+}

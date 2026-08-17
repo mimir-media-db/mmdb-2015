@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_taste_of_time",
+  "title": "Taste of Time",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q105501986",
+    "imdb": "tt13774626"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_telenovela",
+  "title": "Telenovela",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19599857",
+    "imdb": "tt4363588",
+    "tmdb": 64541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

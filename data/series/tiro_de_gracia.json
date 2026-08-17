@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tiro_de_gracia",
+  "title": "Tiro de gracia",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18857787",
+    "imdb": "tt4431320",
+    "tmdb": 67896
+  },
+  "last_updated": "2026-08-17"
+}

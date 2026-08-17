@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tiny_house_world",
+  "title": "Tiny House World",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22682170",
+    "imdb": "tt5176246",
+    "tmdb": 201599
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
