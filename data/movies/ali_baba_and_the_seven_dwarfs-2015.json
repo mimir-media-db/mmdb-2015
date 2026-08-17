@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_baba_and_the_seven_dwarfs_2015",
+  "title": "Ali Baba and the Seven Dwarfs",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20476212",
+    "imdb": "tt4728338",
+    "tmdb": 366759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

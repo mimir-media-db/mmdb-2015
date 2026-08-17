@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_archivo_253_2015",
+  "title": "Archivo 253",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21011030",
+    "imdb": "tt4296556",
+    "tmdb": 317903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 79
+}

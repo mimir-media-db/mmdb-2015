@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_addicted_to_fresno_2015",
+  "title": "Addicted to Fresno",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824669",
+    "imdb": "tt4000870",
+    "tmdb": 301629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_als_die_sonne_vom_himmel_fiel_2015",
+  "title": "Als die Sonne vom Himmel fiel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814427",
+    "imdb": "tt4929364",
+    "tmdb": 468346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 79
+}

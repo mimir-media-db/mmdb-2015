@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ataxian_2015",
+  "title": "The Ataxian",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649623",
+    "imdb": "tt4126322",
+    "tmdb": 340245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

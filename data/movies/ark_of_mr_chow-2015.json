@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ark_of_mr_chow_2015",
+  "title": "The Ark of Mr. Chow",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19851404",
+    "imdb": "tt4727756",
+    "tmdb": 344938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

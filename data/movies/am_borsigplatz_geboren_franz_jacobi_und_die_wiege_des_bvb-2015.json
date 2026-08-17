@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_am_borsigplatz_geboren_franz_jacobi_und_die_wiege_des_bvb_2015",
+  "title": "Am Borsigplatz geboren - Franz Jacobi und die Wiege des BVB",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19673660",
+    "imdb": "tt5306088",
+    "tmdb": 367715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aga_bai_arechyaa_2_2015",
+  "title": "Aga Bai Arechyaa 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824578",
+    "imdb": "tt4652096",
+    "tmdb": 495804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 131
+}

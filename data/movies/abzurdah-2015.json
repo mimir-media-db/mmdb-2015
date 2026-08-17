@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abzurdah_2015",
+  "title": "Abzurdah",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20007265",
+    "imdb": "tt4413338",
+    "tmdb": 353989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arianna_2015",
+  "title": "Arianna",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21187858",
+    "imdb": "tt4908430",
+    "tmdb": 356757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

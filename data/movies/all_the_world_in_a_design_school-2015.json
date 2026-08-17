@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_world_in_a_design_school_2015",
+  "title": "All The World in a Design School",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19329486",
+    "imdb": "tt2865822",
+    "tmdb": 404051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adi_kapyare_kootamani_2015",
+  "title": "Adi Kapyare Kootamani",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992319",
+    "imdb": "tt5271432",
+    "tmdb": 374755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

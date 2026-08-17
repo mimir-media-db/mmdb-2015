@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ab_tak_chhappan_2_2015",
+  "title": "Ab Tak Chhappan 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16271322",
+    "imdb": "tt2202086",
+    "tmdb": 328402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

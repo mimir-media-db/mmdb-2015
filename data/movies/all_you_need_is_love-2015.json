@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_you_need_is_love_2015",
+  "title": "All You Need Is Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21041673",
+    "imdb": "tt4971480",
+    "tmdb": 374385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}
