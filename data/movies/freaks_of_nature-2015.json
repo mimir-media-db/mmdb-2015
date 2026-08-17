@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freaks_of_nature_2015",
+  "title": "Freaks of Nature",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15208268",
+    "imdb": "tt1817771",
+    "tmdb": 218784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}

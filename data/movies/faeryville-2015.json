@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faeryville_2015",
+  "title": "Faeryville",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20983844",
+    "imdb": "tt2709656",
+    "tmdb": 382639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

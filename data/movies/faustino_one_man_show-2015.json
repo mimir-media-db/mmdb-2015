@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faustino_one_man_show_2015",
+  "title": "Faustino: One Man Show",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20558302",
+    "imdb": "tt4702190",
+    "tmdb": 440884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

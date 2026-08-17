@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_vegas_to_macau_ii_2015",
+  "title": "From Vegas to Macau II",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603030",
+    "imdb": "tt4310772",
+    "tmdb": 329984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

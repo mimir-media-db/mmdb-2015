@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flogsta_heaven_2015",
+  "title": "Flogsta Heaven",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19721305",
+    "imdb": "tt5100542",
+    "tmdb": 321283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

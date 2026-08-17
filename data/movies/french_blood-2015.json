@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_blood_2015",
+  "title": "French Blood",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004257",
+    "imdb": "tt4168502",
+    "tmdb": 337730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

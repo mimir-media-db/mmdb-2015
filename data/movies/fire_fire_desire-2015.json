@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_fire_desire_2015",
+  "title": "Fire Fire Desire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18397185",
+    "imdb": "tt4302556"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 125
+}

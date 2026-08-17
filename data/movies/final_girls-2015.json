@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_girls_2015",
+  "title": "The Final Girls",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16980741",
+    "imdb": "tt2118624",
+    "tmdb": 293970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

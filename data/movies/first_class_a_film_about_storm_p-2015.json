@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_class_a_film_about_storm_p_2015",
+  "title": "First Class - A Film About Storm P.",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20639994",
+    "imdb": "tt4453388",
+    "tmdb": 394834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 55
+}

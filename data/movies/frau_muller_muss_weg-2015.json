@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frau_muller_muss_weg_2015",
+  "title": "Frau Müller muss weg!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18779559",
+    "imdb": "tt4216934",
+    "tmdb": 315335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

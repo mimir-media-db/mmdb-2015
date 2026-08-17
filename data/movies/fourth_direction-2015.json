@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fourth_direction_2015",
+  "title": "The Fourth Direction",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735063",
+    "imdb": "tt4636068",
+    "tmdb": 336204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

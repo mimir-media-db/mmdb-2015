@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friday_download_the_movie_2015",
+  "title": "Friday Download: The Movie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19954910",
+    "imdb": "tt4011466",
+    "tmdb": 382105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

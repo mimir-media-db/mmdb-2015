@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frankenstein_2015",
+  "title": "Frankenstein",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19878298",
+    "imdb": "tt4086032",
+    "tmdb": 337029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}
