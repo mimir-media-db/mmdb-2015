@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_west_coast_2015",
+  "title": "West Coast",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20971956",
+    "imdb": "tt4131240",
+    "tmdb": 393712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

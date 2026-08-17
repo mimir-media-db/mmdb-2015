@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_room_2015",
+  "title": "War Room",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19427445",
+    "imdb": "tt3832914",
+    "tmdb": 323272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

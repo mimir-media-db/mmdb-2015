@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_on_a_string_2015",
+  "title": "War on a String",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19886773",
+    "imdb": "tt4838502",
+    "tmdb": 854787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
