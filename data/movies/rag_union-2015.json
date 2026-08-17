@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rag_union_2015",
+  "title": "Rag Union",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29032887",
+    "imdb": "tt4767340",
+    "tmdb": 390376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-10",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rudra_tandava_2015",
+  "title": "Rudra Tandava",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18391401",
+    "imdb": "tt4515226",
+    "tmdb": 540012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-27"
+}

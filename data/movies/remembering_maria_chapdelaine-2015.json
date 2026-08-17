@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remembering_maria_chapdelaine_2015",
+  "title": "Remembering Maria Chapdelaine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61985143",
+    "imdb": "tt6869410",
+    "tmdb": 873213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 53
+}

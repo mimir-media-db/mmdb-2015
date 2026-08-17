@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ruined_heart_2015",
+  "title": "Ruined Heart",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18780720",
+    "imdb": "tt2668150",
+    "tmdb": 298078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reuber_2015",
+  "title": "Reuber",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20965644",
+    "imdb": "tt3009622",
+    "tmdb": 241062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07"
+}

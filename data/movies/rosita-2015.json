@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosita_2015",
+  "title": "Rosita",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19832347",
+    "imdb": "tt4160122",
+    "tmdb": 333446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-16",
+  "runtime_minutes": 92
+}

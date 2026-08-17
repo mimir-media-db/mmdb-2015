@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rowwe_diamante_2015",
+  "title": "Rowwe Diamante",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117857323",
+    "imdb": "tt7921198",
+    "tmdb": 351808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

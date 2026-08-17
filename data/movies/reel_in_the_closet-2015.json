@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reel_in_the_closet_2015",
+  "title": "Reel in the Closet",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538749",
+    "imdb": "tt4485952",
+    "tmdb": 345893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-21"
+}

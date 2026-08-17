@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roosters_blood_2015",
+  "title": "Rooster's Blood",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52528514",
+    "imdb": "tt5149030",
+    "tmdb": 450152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-31"
+}

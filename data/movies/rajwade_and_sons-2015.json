@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rajwade_and_sons_2015",
+  "title": "Rajwade and Sons",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28128961",
+    "imdb": "tt5125576",
+    "tmdb": 573071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

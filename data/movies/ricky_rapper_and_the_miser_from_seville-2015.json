@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_rapper_and_the_miser_from_seville_2015",
+  "title": "Ricky Rapper and the Miser from Seville",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18679473",
+    "imdb": "tt3644202",
+    "tmdb": 353641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 73
+}

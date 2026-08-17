@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riot_club_2015",
+  "title": "The Riot Club",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16670788",
+    "imdb": "tt2717860",
+    "tmdb": 270302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-27",
+  "runtime_minutes": 107
+}

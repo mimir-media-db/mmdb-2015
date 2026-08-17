@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rage_midsummers_eve_2015",
+  "title": "Rage: Midsummer's Eve",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138757832",
+    "imdb": "tt1905005",
+    "tmdb": 321275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-06",
+  "runtime_minutes": 90
+}

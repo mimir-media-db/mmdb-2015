@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rathavara_2015",
+  "title": "Rathavara",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646923",
+    "imdb": "tt3956366",
+    "tmdb": 565093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ruben_guthrie_2015",
+  "title": "Ruben Guthrie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646947",
+    "imdb": "tt4018492",
+    "tmdb": 336016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-16",
+  "runtime_minutes": 93
+}

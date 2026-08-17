@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_redirected_2015",
+  "title": "Redirected",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12671094",
+    "imdb": "tt2275946",
+    "tmdb": 190469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-07",
+  "runtime_minutes": 99
+}

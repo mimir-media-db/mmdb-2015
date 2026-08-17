@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revenge_of_the_gweilo_2015",
+  "title": "Revenge Of The Gweilo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600144",
+    "imdb": "tt4110978",
+    "tmdb": 528767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}
