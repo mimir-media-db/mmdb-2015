@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_cesko",
+  "title": "MasterChef Cesko",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26725022",
+    "imdb": "tt10117704",
+    "tmdb": 101547
+  },
+  "last_updated": "2026-08-17"
+}

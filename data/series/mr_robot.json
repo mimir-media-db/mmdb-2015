@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_robot",
+  "title": "Mr. Robot",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18844729",
+    "imdb": "tt4158110",
+    "tmdb": 62560
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 45
+}

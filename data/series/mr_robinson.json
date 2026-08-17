@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_robinson",
+  "title": "Mr. Robinson",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17070074",
+    "imdb": "tt2800234",
+    "tmdb": 63354
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

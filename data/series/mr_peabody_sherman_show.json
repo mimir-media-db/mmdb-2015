@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_peabody_sherman_show",
+  "title": "The Mr. Peabody & Sherman Show",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q21043356",
+    "imdb": "tt5021206",
+    "tmdb": 71377
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_made_me_famous",
+  "title": "Murder Made Me Famous",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q41904275",
+    "imdb": "tt4833364",
+    "tmdb": 71549
+  },
+  "last_updated": "2026-08-17"
+}

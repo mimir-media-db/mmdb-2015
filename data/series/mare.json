@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mare",
+  "title": "Mare",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17221167",
+    "imdb": "tt3716466",
+    "tmdb": 84895
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 156
+}

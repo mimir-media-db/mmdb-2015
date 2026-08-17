@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maximum_choppage",
+  "title": "Maximum Choppage",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18702359",
+    "imdb": "tt3365776",
+    "tmdb": 73432
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

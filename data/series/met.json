@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_met",
+  "title": "The Met",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15109319",
+    "imdb": "tt4760618",
+    "tmdb": 63290
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 5
+}

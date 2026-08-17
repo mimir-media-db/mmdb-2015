@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_in_the_high_castle",
+  "title": "The Man in the High Castle",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18844750",
+    "imdb": "tt1740299",
+    "tmdb": 62017
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

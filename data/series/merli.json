@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_merli",
+  "title": "Merlí",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21036200",
+    "imdb": "tt4580372",
+    "tmdb": 62914
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}

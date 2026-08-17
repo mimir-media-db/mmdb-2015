@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_modus",
+  "title": "Modus",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21685965",
+    "imdb": "tt4600404",
+    "tmdb": 64023
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

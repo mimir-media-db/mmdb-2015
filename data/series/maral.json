@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maral",
+  "title": "Maral",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q46998452",
+    "imdb": "tt4556772",
+    "tmdb": 78028
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

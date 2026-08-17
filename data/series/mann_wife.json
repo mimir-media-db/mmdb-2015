@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mann_wife",
+  "title": "Mann & Wife",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q20642678",
+    "imdb": "tt4485970",
+    "tmdb": 62544
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

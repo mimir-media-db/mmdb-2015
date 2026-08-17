@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_matriarcas",
+  "title": "Matriarcas",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19521807",
+    "imdb": "tt4572258"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

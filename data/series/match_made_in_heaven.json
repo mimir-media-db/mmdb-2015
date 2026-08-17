@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_match_made_in_heaven",
+  "title": "Match Made In Heaven",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25215438",
+    "imdb": "tt4438484",
+    "tmdb": 325703
+  },
+  "last_updated": "2026-08-17"
+}

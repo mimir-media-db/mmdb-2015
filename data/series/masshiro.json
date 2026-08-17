@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_masshiro",
+  "title": "Masshiro",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18809513",
+    "imdb": "tt4163934",
+    "tmdb": 91311
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

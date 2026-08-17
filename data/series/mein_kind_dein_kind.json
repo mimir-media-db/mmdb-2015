@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mein_kind_dein_kind",
+  "title": "Mein Kind, dein Kind",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q38161244",
+    "imdb": "tt6579268",
+    "tmdb": 77187
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 182
+}

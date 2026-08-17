@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_maps",
+  "title": "Murder Maps",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q47470548",
+    "imdb": "tt5075360",
+    "tmdb": 73368
+  },
+  "last_updated": "2026-08-17"
+}
