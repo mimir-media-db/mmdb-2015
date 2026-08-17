@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24_hours_in_the_past",
+  "title": "24 Hours in the Past",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20020291",
+    "imdb": "tt4649322",
+    "tmdb": 78653
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}
