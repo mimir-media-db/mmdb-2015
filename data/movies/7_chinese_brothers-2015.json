@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_chinese_brothers_2015",
+  "title": "7 Chinese Brothers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20000957",
+    "imdb": "tt3488184",
+    "tmdb": 324245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 76
+}
