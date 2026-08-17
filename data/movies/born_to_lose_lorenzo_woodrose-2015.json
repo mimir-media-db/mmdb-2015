@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_lose_lorenzo_woodrose_2015",
+  "title": "Born to Lose - Lorenzo Woodrose",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33527857",
+    "imdb": "tt5108928",
+    "tmdb": 417508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bilal_a_new_breed_of_hero_2015",
+  "title": "Bilal: A New Breed of Hero",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363380",
+    "imdb": "tt3576728",
+    "tmdb": 332718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-09",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_summer_crowds_2015",
+  "title": "Before the Summer Crowds",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22689151",
+    "imdb": "tt5233554",
+    "tmdb": 407937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-01",
+  "runtime_minutes": 89
+}

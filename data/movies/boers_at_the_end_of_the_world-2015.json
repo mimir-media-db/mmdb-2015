@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boers_at_the_end_of_the_world_2015",
+  "title": "The Boers at the End of the World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116202673",
+    "imdb": "tt4387516",
+    "tmdb": 433108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

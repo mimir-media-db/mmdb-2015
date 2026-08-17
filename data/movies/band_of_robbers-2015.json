@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_band_of_robbers_2015",
+  "title": "Band of Robbers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23763028",
+    "imdb": "tt4048668",
+    "tmdb": 333675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

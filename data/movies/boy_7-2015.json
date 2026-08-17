@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_7_2015",
+  "title": "Boy 7",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19520824",
+    "imdb": "tt3620418",
+    "tmdb": 297239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_you_know_it_2015",
+  "title": "Before You Know It",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052284",
+    "imdb": "tt2473762",
+    "tmdb": 173188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-30"
+}

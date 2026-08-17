@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_banking_nature_2015",
+  "title": "Banking Nature",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20852769",
+    "imdb": "tt4440520",
+    "tmdb": 412032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-03"
+}

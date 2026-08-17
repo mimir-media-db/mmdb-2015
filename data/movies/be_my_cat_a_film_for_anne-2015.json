@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_my_cat_a_film_for_anne_2015",
+  "title": "Be My Cat: A Film for Anne",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23838589",
+    "imdb": "tt3176980",
+    "tmdb": 328216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

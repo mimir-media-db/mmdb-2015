@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buddy_hutchins_2015",
+  "title": "Buddy Hutchins",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16848618",
+    "imdb": "tt3380104",
+    "tmdb": 322266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-14",
+  "runtime_minutes": 98
+}

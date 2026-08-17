@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brainstorm_between_shores_2015",
+  "title": "Brainstorm: Between Shores",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21663869",
+    "imdb": "tt6610020",
+    "tmdb": 398802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29",
+  "runtime_minutes": 96
+}

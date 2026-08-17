@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barmen_2015",
+  "title": "Barmen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29857638",
+    "imdb": "tt4457820",
+    "tmdb": 345306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 100
+}

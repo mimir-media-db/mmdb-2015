@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breakfast_in_beirut_2015",
+  "title": "Breakfast in Beirut",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964592",
+    "imdb": "tt5091838",
+    "tmdb": 964568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

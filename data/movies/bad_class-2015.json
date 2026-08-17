@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_class_2015",
+  "title": "Bad Class",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738474",
+    "imdb": "tt10098112",
+    "tmdb": 386874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

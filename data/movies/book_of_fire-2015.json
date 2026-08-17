@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_fire_2015",
+  "title": "Book of Fire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116749045",
+    "imdb": "tt2825240",
+    "tmdb": 457402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

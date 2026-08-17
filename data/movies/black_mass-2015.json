@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_mass_2015",
+  "title": "Black Mass",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16971610",
+    "imdb": "tt1355683",
+    "tmdb": 261023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18",
+  "runtime_minutes": 122
+}

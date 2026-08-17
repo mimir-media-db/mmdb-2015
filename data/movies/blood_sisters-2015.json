@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_sisters_2015",
+  "title": "Blood Sisters",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755233",
+    "imdb": "tt5039914",
+    "tmdb": 350059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

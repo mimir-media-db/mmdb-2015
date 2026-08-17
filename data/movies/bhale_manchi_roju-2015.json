@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhale_manchi_roju_2015",
+  "title": "Bhale manchi roju",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646170",
+    "imdb": "tt5290794",
+    "tmdb": 413342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25"
+}

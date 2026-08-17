@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belluscone_a_sicilian_story_2015",
+  "title": "Belluscone: A Sicilian Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18753427",
+    "imdb": "tt3922200",
+    "tmdb": 290643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-23",
+  "runtime_minutes": 95
+}

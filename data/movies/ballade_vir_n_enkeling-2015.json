@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballade_vir_n_enkeling_2015",
+  "title": "Ballade vir 'n Enkeling",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20612522",
+    "imdb": "tt4003648",
+    "tmdb": 338522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-20",
+  "runtime_minutes": 139
+}

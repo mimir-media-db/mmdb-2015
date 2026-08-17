@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_fall_2015",
+  "title": "Before the Fall",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27948072",
+    "imdb": "tt4239814",
+    "tmdb": 421030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

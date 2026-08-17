@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_dream_2015",
+  "title": "Bitter Dream",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755758",
+    "imdb": "tt0423868",
+    "tmdb": 315893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-23",
+  "runtime_minutes": 87
+}

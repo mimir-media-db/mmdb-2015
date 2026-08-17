@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_hurt_2015",
+  "title": "Bad Hurt",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775664",
+    "imdb": "tt3369350",
+    "tmdb": 333089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

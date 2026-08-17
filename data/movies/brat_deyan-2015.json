@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brat_deyan_2015",
+  "title": "Brat Deyan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25434932",
+    "imdb": "tt4880936",
+    "tmdb": 357665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-07",
+  "runtime_minutes": 113
+}

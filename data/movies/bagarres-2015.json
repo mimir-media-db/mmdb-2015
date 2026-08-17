@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bagarres_2015",
+  "title": "Bagarres",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2878975",
+    "imdb": "tt0040146",
+    "tmdb": 442256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-28",
+  "runtime_minutes": 95
+}

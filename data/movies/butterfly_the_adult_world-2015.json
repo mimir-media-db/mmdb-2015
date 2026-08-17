@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_the_adult_world_2015",
+  "title": "Butterfly: The Adult World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65300188",
+    "imdb": "tt5358748",
+    "tmdb": 510589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

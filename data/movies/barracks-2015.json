@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barracks_2015",
+  "title": "Barracks",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483862",
+    "imdb": "tt6903078",
+    "tmdb": 329321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-05"
+}

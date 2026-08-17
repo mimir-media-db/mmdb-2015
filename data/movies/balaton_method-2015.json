@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balaton_method_2015",
+  "title": "Balaton Method",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50475568",
+    "imdb": "tt3481338",
+    "tmdb": 334053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bajrangi_bhaijaan_2015",
+  "title": "Bajrangi Bhaijaan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603021",
+    "imdb": "tt3863552",
+    "tmdb": 348892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-17",
+  "runtime_minutes": 159
+}

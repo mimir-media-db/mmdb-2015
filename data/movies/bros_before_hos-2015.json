@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bros_before_hos_2015",
+  "title": "Bro's Before Ho's",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15392345",
+    "imdb": "tt2947832",
+    "tmdb": 230211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 87
+}

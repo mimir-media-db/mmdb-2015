@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boat_builder_2015",
+  "title": "The Boat Builder",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47064157",
+    "imdb": "tt3704854",
+    "tmdb": 364651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06"
+}

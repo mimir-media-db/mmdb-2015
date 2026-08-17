@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bolivian_woman_2015",
+  "title": "Bolivian Woman",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55069501",
+    "imdb": "tt5818264",
+    "tmdb": 770417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-07"
+}

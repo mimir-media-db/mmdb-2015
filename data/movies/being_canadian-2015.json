@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_being_canadian_2015",
+  "title": "Being Canadian",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111670879",
+    "imdb": "tt1723659",
+    "tmdb": 335310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-25",
+  "runtime_minutes": 89
+}

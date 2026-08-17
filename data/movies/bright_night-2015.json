@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bright_night_2015",
+  "title": "Bright Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20742863",
+    "imdb": "tt3404246",
+    "tmdb": 315112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-04",
+  "runtime_minutes": 86
+}

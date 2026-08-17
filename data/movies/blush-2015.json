@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blush_2015",
+  "title": "Blush",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23197541",
+    "imdb": "tt5022872",
+    "tmdb": 361069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

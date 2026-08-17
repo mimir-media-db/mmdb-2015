@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beti_and_amare_2015",
+  "title": "Beti and Amare",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23793504",
+    "imdb": "tt3571468",
+    "tmdb": 295779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-18",
+  "runtime_minutes": 94
+}

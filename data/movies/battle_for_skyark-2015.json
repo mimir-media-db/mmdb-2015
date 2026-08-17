@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_for_skyark_2015",
+  "title": "Battle for SkyArk",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65100354",
+    "imdb": "tt2784134",
+    "tmdb": 335077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

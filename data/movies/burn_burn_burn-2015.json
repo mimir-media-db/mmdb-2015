@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burn_burn_burn_2015",
+  "title": "Burn Burn Burn",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23055715",
+    "imdb": "tt3627488",
+    "tmdb": 359870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-15",
+  "runtime_minutes": 106
+}

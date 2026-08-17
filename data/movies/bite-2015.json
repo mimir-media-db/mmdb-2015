@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bite_2015",
+  "title": "Bite",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27958091",
+    "imdb": "tt4264426",
+    "tmdb": 347642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29",
+  "runtime_minutes": 88
+}
