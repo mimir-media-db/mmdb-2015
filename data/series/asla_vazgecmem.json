@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_asla_vazgecmem",
+  "title": "Asla Vazgeçmem",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20470750",
+    "imdb": "tt5303516",
+    "tmdb": 70583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 59
+}

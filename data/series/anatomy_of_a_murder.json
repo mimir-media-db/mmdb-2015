@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anatomy_of_a_murder",
+  "title": "Anatomy of a Murder",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19602610",
+    "imdb": "tt3672936",
+    "tmdb": 92570
+  },
+  "last_updated": "2026-08-17"
+}

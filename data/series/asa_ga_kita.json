@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_asa_ga_kita",
+  "title": "Asa ga kita",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18888961",
+    "imdb": "tt4362960",
+    "tmdb": 83853
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 156
+}

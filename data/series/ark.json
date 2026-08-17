@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ark",
+  "title": "The Ark",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19798775",
+    "imdb": "tt3700882"
+  },
+  "last_updated": "2026-08-17"
+}

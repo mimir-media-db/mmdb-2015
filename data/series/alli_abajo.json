@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alli_abajo",
+  "title": "Allí abajo",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q19414136",
+    "imdb": "tt4092270",
+    "tmdb": 62524
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

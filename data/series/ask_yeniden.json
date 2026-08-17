@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ask_yeniden",
+  "title": "Aşk Yeniden",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19610643",
+    "imdb": "tt5616644",
+    "tmdb": 62630
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 59
+}

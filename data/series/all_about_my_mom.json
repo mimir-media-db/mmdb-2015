@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_about_my_mom",
+  "title": "All About My Mom",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19794729",
+    "imdb": "tt5321300",
+    "tmdb": 63602
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 54
+}

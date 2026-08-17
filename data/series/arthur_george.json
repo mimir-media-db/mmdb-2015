@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_arthur_george",
+  "title": "Arthur & George",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19570895",
+    "imdb": "tt4439928",
+    "tmdb": 62047
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

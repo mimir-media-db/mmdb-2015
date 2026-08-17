@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aquarius",
+  "title": "Aquarius",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17457913",
+    "imdb": "tt3768572",
+    "tmdb": 61239
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

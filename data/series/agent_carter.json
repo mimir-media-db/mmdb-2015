@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_agent_carter",
+  "title": "Agent Carter",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16860023",
+    "imdb": "tt3475734",
+    "tmdb": 61550
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

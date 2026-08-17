@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_atentat",
+  "title": "Atentát",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q102383540",
+    "imdb": "tt5370212",
+    "tmdb": 65590
+  },
+  "last_updated": "2026-08-17"
+}

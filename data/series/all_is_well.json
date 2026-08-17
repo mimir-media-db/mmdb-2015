@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_all_is_well",
+  "title": "All is Well",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20738503",
+    "tmdb": 197552
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 102
+}

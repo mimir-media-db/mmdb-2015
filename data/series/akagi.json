@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_akagi",
+  "title": "Akagi",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104370896",
+    "imdb": "tt4760622",
+    "tmdb": 63440
+  },
+  "last_updated": "2026-08-17"
+}

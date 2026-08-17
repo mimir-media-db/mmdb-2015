@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_acil_ask_araniyor",
+  "title": "Acil Ask Araniyor",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q106204941",
+    "imdb": "tt4875410",
+    "tmdb": 69268
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

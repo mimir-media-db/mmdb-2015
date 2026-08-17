@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anonima",
+  "title": "Anónima",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21518179",
+    "imdb": "tt4793314",
+    "tmdb": 107220
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 73
+}

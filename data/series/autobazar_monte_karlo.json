@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_autobazar_monte_karlo",
+  "title": "Autobazar Monte Karlo",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102382558",
+    "imdb": "tt5170508",
+    "tmdb": 65559
+  },
+  "last_updated": "2026-08-17"
+}
