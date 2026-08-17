@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bottersnikes_and_gumbles",
+  "title": "Bottersnikes and Gumbles",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26964701",
+    "imdb": "tt6015820",
+    "tmdb": 67329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

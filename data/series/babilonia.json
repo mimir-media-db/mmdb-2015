@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_babilonia",
+  "title": "Babilônia",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19367400",
+    "imdb": "tt4644530",
+    "tmdb": 62916
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 143
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bhaabi_ji_ghar_par_hai",
+  "title": "Bhaabi Ji Ghar Par Hai!",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19399952",
+    "imdb": "tt5154982",
+    "tmdb": 65682
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2233
+}

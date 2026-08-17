@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_time_in_hollywood_fl",
+  "title": "Big Time in Hollywood, FL",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16155174",
+    "imdb": "tt3260472",
+    "tmdb": 62445
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

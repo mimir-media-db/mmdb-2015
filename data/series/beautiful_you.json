@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_you",
+  "title": "Beautiful You",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21060863",
+    "imdb": "tt5617936",
+    "tmdb": 65365
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 122
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bringing_up_bates",
+  "title": "Bringing Up Bates",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20992338",
+    "imdb": "tt4857508",
+    "tmdb": 62881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 71
+}

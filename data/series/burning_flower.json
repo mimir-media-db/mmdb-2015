@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_burning_flower",
+  "title": "Burning Flower",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17230891",
+    "imdb": "tt3379576",
+    "tmdb": 88388
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

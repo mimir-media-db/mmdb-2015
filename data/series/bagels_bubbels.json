@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bagels_bubbels",
+  "title": "Bagels & bubbels",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19831865",
+    "imdb": "tt4592384",
+    "tmdb": 63261
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

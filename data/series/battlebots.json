@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_battlebots",
+  "title": "BattleBots",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127788473",
+    "imdb": "tt4816364",
+    "tmdb": 62959
+  },
+  "last_updated": "2026-08-17"
+}

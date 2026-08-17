@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blood_oil",
+  "title": "Blood & Oil",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19895435",
+    "imdb": "tt4428022",
+    "tmdb": 62689
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

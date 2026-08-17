@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_because_its_the_first_time",
+  "title": "Because It's The First Time",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21060407",
+    "imdb": "tt5197296",
+    "tmdb": 64107
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

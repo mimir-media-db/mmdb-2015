@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blindspot",
+  "title": "Blindspot",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q19858482",
+    "imdb": "tt4474344",
+    "tmdb": 62710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 100
+}

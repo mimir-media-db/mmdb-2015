@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bloodline",
+  "title": "Bloodline",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18643684",
+    "imdb": "tt3520702",
+    "tmdb": 61986
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 33
+}

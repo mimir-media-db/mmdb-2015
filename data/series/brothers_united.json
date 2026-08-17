@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_brothers_united",
+  "title": "Brothers United",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18435012",
+    "imdb": "tt3542324",
+    "tmdb": 64533
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

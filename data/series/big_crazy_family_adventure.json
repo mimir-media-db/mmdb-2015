@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_crazy_family_adventure",
+  "title": "Big Crazy Family Adventure",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20856845",
+    "imdb": "tt4385568",
+    "tmdb": 62976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bureau",
+  "title": "The Bureau",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q19593743",
+    "imdb": "tt4063800",
+    "tmdb": 62476
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}
