@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghajinikanth_2015",
+  "title": "Ghajinikanth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671516",
+    "imdb": "tt7850980",
+    "tmdb": 494836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

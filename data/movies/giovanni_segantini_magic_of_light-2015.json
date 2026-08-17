@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_giovanni_segantini_magic_of_light_2015",
+  "title": "Giovanni Segantini - Magic of Light",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20873776",
+    "imdb": "tt5397076",
+    "tmdb": 361949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-01"
+}

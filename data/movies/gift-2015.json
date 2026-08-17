@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_2015",
+  "title": "The Gift",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65082194",
+    "imdb": "tt3909374",
+    "tmdb": 525355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-19"
+}

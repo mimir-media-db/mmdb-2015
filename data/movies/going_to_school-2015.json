@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_to_school_2015",
+  "title": "Going to School",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29017137",
+    "imdb": "tt5274666",
+    "tmdb": 393378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25",
+  "runtime_minutes": 76
+}

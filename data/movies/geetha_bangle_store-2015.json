@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geetha_bangle_store_2015",
+  "title": "Geetha Bangle Store",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123915523",
+    "imdb": "tt13282248",
+    "tmdb": 1735365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-11",
+  "runtime_minutes": 162
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_galpa_nuhen_alpa_dinara_2015",
+  "title": "Galpa Nuhen Alpa Dinara",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26595176",
+    "imdb": "tt5311390"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25"
+}

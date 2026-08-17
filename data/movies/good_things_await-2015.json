@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_things_await_2015",
+  "title": "Good Things Await",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776622",
+    "imdb": "tt4011000",
+    "tmdb": 302804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-19",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_racking_2015",
+  "title": "Gun Racking",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22928440",
+    "imdb": "tt5856774",
+    "tmdb": 372142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-16",
+  "runtime_minutes": 99
+}

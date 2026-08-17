@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grey_dawn_2015",
+  "title": "Grey Dawn",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824687",
+    "imdb": "tt5785822",
+    "tmdb": 527351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 87
+}

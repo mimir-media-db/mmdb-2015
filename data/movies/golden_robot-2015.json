@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_robot_2015",
+  "title": "Golden Robot",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44873073",
+    "imdb": "tt4774610",
+    "tmdb": 1171011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

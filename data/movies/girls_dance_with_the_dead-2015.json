@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_dance_with_the_dead_2015",
+  "title": "Girls, Dance with the Dead",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28687335",
+    "imdb": "tt4932436",
+    "tmdb": 398445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

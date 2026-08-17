@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guvercin_ucuverdi_2015",
+  "title": "Güvercin Uçuverdi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271515",
+    "imdb": "tt4114944",
+    "tmdb": 355525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

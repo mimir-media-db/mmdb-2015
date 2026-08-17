@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gg_bond_movie_ultimate_battle_2015",
+  "title": "GG Bond Movie: Ultimate Battle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198221",
+    "imdb": "tt6447722",
+    "tmdb": 381632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-10"
+}

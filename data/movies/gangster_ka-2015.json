@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangster_ka_2015",
+  "title": "Gangster Ka",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20860425",
+    "imdb": "tt3956562",
+    "tmdb": 377449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10",
+  "runtime_minutes": 97
+}

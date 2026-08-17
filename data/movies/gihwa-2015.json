@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gihwa_2015",
+  "title": "Gi-Hwa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483631",
+    "tmdb": 334309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-26"
+}

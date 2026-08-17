@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_game_2015",
+  "title": "The Great Game",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720821",
+    "imdb": "tt4333408",
+    "tmdb": 367546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-09",
+  "runtime_minutes": 99
+}

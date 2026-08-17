@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gujjubhai_the_great_2015",
+  "title": "Gujjubhai The Great",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20980326",
+    "imdb": "tt5016442",
+    "tmdb": 361083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-17"
+}

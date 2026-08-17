@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_go_lala_go_2_2015",
+  "title": "Go Lala Go 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21329993",
+    "imdb": "tt5227020",
+    "tmdb": 365358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04"
+}

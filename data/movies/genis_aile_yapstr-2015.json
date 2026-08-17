@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_genis_aile_yapstr_2015",
+  "title": "Geniş Aile: Yapıştır",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21526097",
+    "imdb": "tt5074618",
+    "tmdb": 368787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

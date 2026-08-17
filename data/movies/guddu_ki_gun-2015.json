@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guddu_ki_gun_2015",
+  "title": "Guddu Ki Gun",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065486",
+    "imdb": "tt4853926",
+    "tmdb": 367189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-30"
+}

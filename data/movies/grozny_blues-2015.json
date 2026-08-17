@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grozny_blues_2015",
+  "title": "Grozny Blues",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88012667",
+    "imdb": "tt4602914",
+    "tmdb": 365018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-01",
+  "runtime_minutes": 103
+}

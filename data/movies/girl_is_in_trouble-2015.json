@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_is_in_trouble_2015",
+  "title": "The Girl Is in Trouble",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7736507",
+    "imdb": "tt1706625",
+    "tmdb": 330220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-03",
+  "runtime_minutes": 90
+}

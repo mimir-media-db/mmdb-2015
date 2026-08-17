@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guten_tag_ramon_2015",
+  "title": "Guten Tag, Ramón",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962256",
+    "imdb": "tt2876428",
+    "tmdb": 242575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-05",
+  "runtime_minutes": 120
+}
