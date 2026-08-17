@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stung_2015",
+  "title": "Stung",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21334154",
+    "imdb": "tt3300572",
+    "tmdb": 254472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

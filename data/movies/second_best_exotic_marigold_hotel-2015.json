@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_best_exotic_marigold_hotel_2015",
+  "title": "The Second Best Exotic Marigold Hotel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16203908",
+    "imdb": "tt2555736",
+    "tmdb": 268238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 122
+}

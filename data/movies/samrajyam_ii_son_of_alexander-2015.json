@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samrajyam_ii_son_of_alexander_2015",
+  "title": "Samrajyam II: Son of Alexander",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7410276",
+    "imdb": "tt4738892",
+    "tmdb": 361385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

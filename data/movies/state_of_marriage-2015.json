@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_state_of_marriage_2015",
+  "title": "The State of Marriage",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20648984",
+    "imdb": "tt4096638",
+    "tmdb": 360032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

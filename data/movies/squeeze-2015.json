@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_squeeze_2015",
+  "title": "The Squeeze",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19954846",
+    "imdb": "tt3248600",
+    "tmdb": 312796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

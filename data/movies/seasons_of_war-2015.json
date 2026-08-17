@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seasons_of_war_2015",
+  "title": "Seasons of War",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18211414",
+    "imdb": "tt3725646"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

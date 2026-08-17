@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sir_c_p_2015",
+  "title": "Sir C. P.",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7526153",
+    "imdb": "tt4892718",
+    "tmdb": 352408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

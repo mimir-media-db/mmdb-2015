@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sick_sock_monsters_from_outer_space_2015",
+  "title": "Sick Sock Monsters from Outer Space",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20804164",
+    "imdb": "tt4278144",
+    "tmdb": 342514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 82
+}

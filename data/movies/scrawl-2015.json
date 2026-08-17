@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scrawl_2015",
+  "title": "Scrawl",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095414",
+    "imdb": "tt2501366",
+    "tmdb": 374618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

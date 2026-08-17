@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_statue_collector_2015",
+  "title": "Statue Collector",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493768",
+    "imdb": "tt2187089"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sankara_2015",
+  "title": "Sankara",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253906",
+    "imdb": "tt3740118",
+    "tmdb": 412104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

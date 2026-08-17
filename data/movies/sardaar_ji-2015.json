@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sardaar_ji_2015",
+  "title": "Sardaar Ji",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811628",
+    "imdb": "tt4080386",
+    "tmdb": 346081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 141
+}

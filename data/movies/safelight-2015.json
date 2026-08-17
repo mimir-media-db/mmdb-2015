@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safelight_2015",
+  "title": "Safelight",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18708860",
+    "imdb": "tt2190467",
+    "tmdb": 296025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

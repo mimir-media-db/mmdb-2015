@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_in_the_andes_2015",
+  "title": "Storm in the Andes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19977679",
+    "imdb": "tt4365450",
+    "tmdb": 323888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stubborn_2015",
+  "title": "Stubborn",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009514",
+    "imdb": "tt4168470",
+    "tmdb": 327447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

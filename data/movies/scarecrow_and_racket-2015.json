@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scarecrow_and_racket_2015",
+  "title": "Scarecrow and Racket",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20043603",
+    "imdb": "tt4474618",
+    "tmdb": 536005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

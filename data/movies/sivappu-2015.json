@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sivappu_2015",
+  "title": "Sivappu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17074414",
+    "imdb": "tt3569762",
+    "tmdb": 280170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

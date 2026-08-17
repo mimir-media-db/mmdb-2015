@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stop_2015",
+  "title": "Stop",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20825597",
+    "imdb": "tt4876094",
+    "tmdb": 346793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

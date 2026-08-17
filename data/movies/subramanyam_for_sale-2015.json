@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_subramanyam_for_sale_2015",
+  "title": "Subramanyam For Sale",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095417",
+    "imdb": "tt5051410",
+    "tmdb": 377668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 150
+}

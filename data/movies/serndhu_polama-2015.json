@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_serndhu_polama_2015",
+  "title": "Serndhu Polama",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17074219",
+    "imdb": "tt3885758",
+    "tmdb": 280172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

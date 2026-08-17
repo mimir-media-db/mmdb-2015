@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_queen_2_the_snow_king_2015",
+  "title": "The Snow Queen 2: The Snow King",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18621595",
+    "imdb": "tt3477554",
+    "tmdb": 292014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 78
+}

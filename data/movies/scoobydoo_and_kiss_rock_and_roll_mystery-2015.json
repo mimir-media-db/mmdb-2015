@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_and_kiss_rock_and_roll_mystery_2015",
+  "title": "Scooby-Doo! and Kiss: Rock and Roll Mystery",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19867403",
+    "imdb": "tt4717798",
+    "tmdb": 347688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 79
+}
