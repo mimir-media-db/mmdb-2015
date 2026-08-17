@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carrossel_o_filme_2015",
+  "title": "Carrossel: O Filme",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999544",
+    "imdb": "tt4588050",
+    "tmdb": 307226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chato_the_king_of_brazil_2015",
+  "title": "Chatô: The King of Brazil",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168707",
+    "imdb": "tt0337926",
+    "tmdb": 368103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 102
+}

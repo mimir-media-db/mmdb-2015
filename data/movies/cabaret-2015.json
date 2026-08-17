@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cabaret_2015",
+  "title": "Cabaret",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20487444",
+    "imdb": "tt5605730",
+    "tmdb": 399071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

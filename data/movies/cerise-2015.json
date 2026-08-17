@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cerise_2015",
+  "title": "Cerise",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19544061",
+    "imdb": "tt4428720",
+    "tmdb": 328587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

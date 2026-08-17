@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chosen_forbidden_cave_2015",
+  "title": "The Chosen: Forbidden Cave",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20652129",
+    "imdb": "tt4841648",
+    "tmdb": 357995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

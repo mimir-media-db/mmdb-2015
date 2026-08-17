@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_certifiee_halal_2015",
+  "title": "Certifiée Halal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19885884",
+    "imdb": "tt3669780",
+    "tmdb": 338632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

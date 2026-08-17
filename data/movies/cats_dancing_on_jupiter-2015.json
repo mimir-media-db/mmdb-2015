@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cats_dancing_on_jupiter_2015",
+  "title": "Cats Dancing on Jupiter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263559",
+    "imdb": "tt1731702",
+    "tmdb": 416391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

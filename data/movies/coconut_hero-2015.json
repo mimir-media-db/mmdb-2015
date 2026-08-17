@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coconut_hero_2015",
+  "title": "Coconut Hero",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20795425",
+    "imdb": "tt4246854",
+    "tmdb": 346494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

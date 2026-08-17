@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childhood_of_a_leader_2015",
+  "title": "The Childhood of a Leader",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19007192",
+    "imdb": "tt2815902",
+    "tmdb": 330982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

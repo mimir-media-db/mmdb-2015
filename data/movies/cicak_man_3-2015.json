@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cicak_man_3_2015",
+  "title": "Cicak Man 3",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19798548",
+    "imdb": "tt3229648",
+    "tmdb": 334133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 999
+}

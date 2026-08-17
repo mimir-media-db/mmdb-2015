@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_craftsthe_value_of_life_2015",
+  "title": "CRAFTS:The Value Of Life",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20647092",
+    "imdb": "tt4726104"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

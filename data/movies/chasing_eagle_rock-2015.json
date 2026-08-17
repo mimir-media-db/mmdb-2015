@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_eagle_rock_2015",
+  "title": "Chasing Eagle Rock",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087306",
+    "imdb": "tt1891766",
+    "tmdb": 814546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

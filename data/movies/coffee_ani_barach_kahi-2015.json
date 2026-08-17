@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coffee_ani_barach_kahi_2015",
+  "title": "Coffee: Ani Barach Kahi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19796750",
+    "imdb": "tt4580794",
+    "tmdb": 330072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

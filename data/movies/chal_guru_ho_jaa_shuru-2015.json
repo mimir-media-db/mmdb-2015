@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chal_guru_ho_jaa_shuru_2015",
+  "title": "Chal Guru Ho Jaa Shuru",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19627389",
+    "imdb": "tt4588730",
+    "tmdb": 340737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

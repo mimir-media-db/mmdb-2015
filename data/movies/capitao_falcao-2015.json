@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_capitao_falcao_2015",
+  "title": "Capitão Falcão",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17006104",
+    "imdb": "tt1941478",
+    "tmdb": 188621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

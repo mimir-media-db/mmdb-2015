@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curious_george_3_back_to_the_jungle_2015",
+  "title": "Curious George 3: Back to the Jungle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20204345",
+    "imdb": "tt4622340",
+    "tmdb": 338103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}
