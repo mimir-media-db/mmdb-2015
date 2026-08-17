@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1989_2015",
+  "title": "1989",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19702590",
+    "imdb": "tt4119270",
+    "tmdb": 297308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-25",
+  "runtime_minutes": 90
+}

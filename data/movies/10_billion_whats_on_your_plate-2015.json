@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_billion_whats_on_your_plate_2015",
+  "title": "10 Billion - What's on your plate?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19771560",
+    "imdb": "tt3592340",
+    "tmdb": 338381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-16",
+  "runtime_minutes": 107
+}

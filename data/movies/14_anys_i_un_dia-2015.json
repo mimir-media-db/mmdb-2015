@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_anys_i_un_dia_2015",
+  "title": "14 anys i un dia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96745923",
+    "imdb": "tt5134970",
+    "tmdb": 686089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-28",
+  "runtime_minutes": 12
+}
