@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_800_words",
+  "title": "800 Words",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q19627354",
+    "imdb": "tt4380324",
+    "tmdb": 63839
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}
