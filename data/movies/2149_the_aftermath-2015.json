@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2149_the_aftermath_2015",
+  "title": "2149: The Aftermath",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18648999",
+    "imdb": "tt3113498",
+    "tmdb": 420410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
