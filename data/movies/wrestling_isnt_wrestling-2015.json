@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrestling_isnt_wrestling_2015",
+  "title": "Wrestling Isn't Wrestling",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899997",
+    "imdb": "tt4532032",
+    "tmdb": 1486253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 25
+}

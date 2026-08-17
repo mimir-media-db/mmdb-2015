@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_god_2015",
+  "title": "White God",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16930515",
+    "imdb": "tt2844798",
+    "tmdb": 267999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-26",
+  "runtime_minutes": 121
+}

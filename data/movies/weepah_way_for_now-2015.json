@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weepah_way_for_now_2015",
+  "title": "Weepah Way for Now",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50650092",
+    "imdb": "tt4443838",
+    "tmdb": 344134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

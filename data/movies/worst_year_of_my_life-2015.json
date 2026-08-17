@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_year_of_my_life_2015",
+  "title": "The Worst Year of My Life",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115516797",
+    "imdb": "tt3254570",
+    "tmdb": 340957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-13",
+  "runtime_minutes": 81
+}

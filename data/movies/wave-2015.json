@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wave_2015",
+  "title": "The Wave",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19372190",
+    "imdb": "tt3616916",
+    "tmdb": 336882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-28",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_why_hast_thou_forsaken_me_2015",
+  "title": "Why Hast Thou Forsaken Me",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837126",
+    "imdb": "tt4991396",
+    "tmdb": 359545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

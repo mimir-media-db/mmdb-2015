@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wer_rettet_wen_2015",
+  "title": "Wer rettet wen?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008386",
+    "imdb": "tt4776492",
+    "tmdb": 387314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

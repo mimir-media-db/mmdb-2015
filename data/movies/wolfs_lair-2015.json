@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolfs_lair_2015",
+  "title": "The Wolf’s Lair",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726951",
+    "imdb": "tt4659808",
+    "tmdb": 363704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-27",
+  "runtime_minutes": 102
+}

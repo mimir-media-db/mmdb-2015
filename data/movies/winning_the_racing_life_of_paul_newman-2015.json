@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winning_the_racing_life_of_paul_newman_2015",
+  "title": "Winning: The Racing Life of Paul Newman",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881856",
+    "imdb": "tt3377996",
+    "tmdb": 291537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-08",
+  "runtime_minutes": 83
+}

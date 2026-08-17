@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witch_behind_the_door_2015",
+  "title": "The Witch Behind the Door",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104771804",
+    "imdb": "tt3600550",
+    "tmdb": 349795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

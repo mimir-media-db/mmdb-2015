@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weavering_stories_2015",
+  "title": "Weavering Stories",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133279373",
+    "imdb": "tt6075946",
+    "tmdb": 803476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

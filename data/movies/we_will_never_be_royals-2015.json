@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_will_never_be_royals_2015",
+  "title": "We will never be royals",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59799153",
+    "imdb": "tt5016996",
+    "tmdb": 355425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01"
+}

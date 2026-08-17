@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weirdo_hero_2015",
+  "title": "The Weirdo Hero",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30647337",
+    "imdb": "tt4553326",
+    "tmdb": 1358975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

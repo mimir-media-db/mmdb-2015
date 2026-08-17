@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_well_wishes_2015",
+  "title": "Well Wishes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807373",
+    "imdb": "tt3743384",
+    "tmdb": 396965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24"
+}

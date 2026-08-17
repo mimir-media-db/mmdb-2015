@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wasp_2015",
+  "title": "Wasp",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39070507",
+    "imdb": "tt3509426",
+    "tmdb": 352969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

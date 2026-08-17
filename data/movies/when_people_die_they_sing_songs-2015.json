@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_people_die_they_sing_songs_2015",
+  "title": "When People Die They Sing Songs",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643463",
+    "imdb": "tt3545774"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 48
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_lola_wants_2015",
+  "title": "What Lola Wants",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73537602",
+    "imdb": "tt3109188",
+    "tmdb": 344494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

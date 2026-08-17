@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_world_of_kanako_2015",
+  "title": "The World of Kanako",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11533494",
+    "imdb": "tt3108158",
+    "tmdb": 251981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-17",
+  "runtime_minutes": 118
+}
