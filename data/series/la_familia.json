@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_familia",
+  "title": "La Familia",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q25491074",
+    "imdb": "tt7156002",
+    "tmdb": 90875
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

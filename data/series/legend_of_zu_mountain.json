@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_zu_mountain",
+  "title": "Legend of Zu Mountain",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19854184",
+    "imdb": "tt5124970",
+    "tmdb": 65665
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 54
+}

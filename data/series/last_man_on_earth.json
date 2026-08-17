@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_man_on_earth",
+  "title": "The Last Man on Earth",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q17052281",
+    "imdb": "tt3230454",
+    "tmdb": 61888
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 56
+}

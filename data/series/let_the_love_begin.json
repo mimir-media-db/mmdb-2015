@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_let_the_love_begin",
+  "title": "Let the Love Begin",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19824760",
+    "imdb": "tt5471488",
+    "tmdb": 109979
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

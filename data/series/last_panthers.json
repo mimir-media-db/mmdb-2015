@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_panthers",
+  "title": "The Last Panthers",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21074701",
+    "imdb": "tt4075386",
+    "tmdb": 63853
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

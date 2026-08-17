@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_late_late_show_with_james_corden",
+  "title": "The Late Late Show with James Corden",
+  "start_year": 2015,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q18151589",
+    "imdb": "tt4280606",
+    "tmdb": 62223
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 276
+}

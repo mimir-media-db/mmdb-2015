@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lonely_gourmet",
+  "title": "Lonely Gourmet",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19850058",
+    "imdb": "tt6357258",
+    "tmdb": 64265
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

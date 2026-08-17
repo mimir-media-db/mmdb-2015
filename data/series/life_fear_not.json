@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_life_fear_not",
+  "title": "Life - Fear Not",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21190765",
+    "tmdb": 123700
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

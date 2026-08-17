@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_long_long_holiday",
+  "title": "The Long Long Holiday",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20725954",
+    "imdb": "tt4641870",
+    "tmdb": 70331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

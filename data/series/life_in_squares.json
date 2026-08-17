@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_in_squares",
+  "title": "Life in Squares",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19650404",
+    "imdb": "tt4034398",
+    "tmdb": 63527
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

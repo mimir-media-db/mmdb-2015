@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_late_show_with_stephen_colbert",
+  "title": "The Late Show with Stephen Colbert",
+  "start_year": 2015,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q18151598",
+    "imdb": "tt3697842",
+    "tmdb": 63770
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 1801
+}

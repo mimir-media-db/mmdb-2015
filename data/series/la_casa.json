@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_casa",
+  "title": "La casa",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q106458295",
+    "imdb": "tt4794620",
+    "tmdb": 81266
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

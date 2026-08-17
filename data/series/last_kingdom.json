@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_kingdom",
+  "title": "The Last Kingdom",
+  "start_year": 2015,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q18085820",
+    "imdb": "tt4179452",
+    "tmdb": 63333
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 46
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lillemand",
+  "title": "Lillemand",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q28759207",
+    "imdb": "tt4585810",
+    "tmdb": 62408
+  },
+  "last_updated": "2026-08-17"
+}
