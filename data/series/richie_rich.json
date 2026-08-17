@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_richie_rich",
+  "title": "Richie Rich",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18643758",
+    "imdb": "tt4160920",
+    "tmdb": 62626
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

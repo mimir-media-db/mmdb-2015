@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_regra_do_jogo",
+  "title": "A Regra do Jogo",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20735533",
+    "imdb": "tt4986278",
+    "tmdb": 63817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 167
+}

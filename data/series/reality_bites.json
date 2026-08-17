@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reality_bites",
+  "title": "Reality Bites",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19263919",
+    "imdb": "tt4396036"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

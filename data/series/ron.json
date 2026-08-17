@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ron",
+  "title": "Ron",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q20502853",
+    "imdb": "tt4744372",
+    "tmdb": 88035
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
