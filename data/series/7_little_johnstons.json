@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_7_little_johnstons",
+  "title": "7 Little Johnstons",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21065415",
+    "imdb": "tt3746948",
+    "tmdb": 62543
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 113
+}
