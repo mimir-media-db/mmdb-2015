@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jonge_garde",
+  "title": "Jonge Garde",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22677182",
+    "imdb": "tt7562858",
+    "tmdb": 132577
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 43
+}

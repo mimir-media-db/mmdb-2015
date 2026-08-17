@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_journey_of_flower",
+  "title": "The Journey of Flower",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17028804",
+    "imdb": "tt5033322",
+    "tmdb": 63011
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 58
+}

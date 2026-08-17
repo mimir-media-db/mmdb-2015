@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_japan_railway_journal",
+  "title": "Japan Railway Journal",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24875741",
+    "imdb": "tt4654762",
+    "tmdb": 77594
+  },
+  "last_updated": "2026-08-17"
+}
