@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_31st_october_2015",
+  "title": "31st October",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735522",
+    "imdb": "tt4386684",
+    "tmdb": 421927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
