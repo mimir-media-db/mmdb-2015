@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_iron_lady_cha",
+  "title": "Iron Lady Cha",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18328758",
+    "imdb": "tt5688572",
+    "tmdb": 73458
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 111
+}

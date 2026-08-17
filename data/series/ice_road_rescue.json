@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ice_road_rescue",
+  "title": "Ice Road Rescue",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118399165",
+    "imdb": "tt5270356",
+    "tmdb": 72482
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 77
+}

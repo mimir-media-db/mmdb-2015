@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_cait",
+  "title": "I Am Cait",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20639230",
+    "imdb": "tt4733278",
+    "tmdb": 63014
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

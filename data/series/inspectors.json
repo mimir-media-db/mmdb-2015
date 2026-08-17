@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_inspectors",
+  "title": "The Inspectors",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21189382",
+    "imdb": "tt4711356",
+    "tmdb": 207335
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 63
+}

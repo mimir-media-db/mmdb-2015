@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_in_24_hours",
+  "title": "In 24 Hours",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24807286"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 5
+}

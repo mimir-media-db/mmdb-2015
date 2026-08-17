@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_im_home",
+  "title": "I'm Home",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q11282015",
+    "imdb": "tt4412548",
+    "tmdb": 63226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

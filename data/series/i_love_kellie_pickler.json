@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_kellie_pickler",
+  "title": "I Love Kellie Pickler",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q27645658",
+    "imdb": "tt5105306",
+    "tmdb": 70425
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 35
+}

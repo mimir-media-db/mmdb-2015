@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_misteri_di_laura",
+  "title": "I misteri di Laura",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21190137",
+    "imdb": "tt4545292",
+    "tmdb": 83436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

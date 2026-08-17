@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_into_the_badlands",
+  "title": "Into the Badlands",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q19798711",
+    "imdb": "tt3865236",
+    "tmdb": 47450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 32
+}
