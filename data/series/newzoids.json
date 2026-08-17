@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_newzoids",
+  "title": "Newzoids",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19798742",
+    "imdb": "tt4605814",
+    "tmdb": 62427
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

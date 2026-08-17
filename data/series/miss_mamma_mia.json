@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_mamma_mia",
+  "title": "Miss Mamma Mia",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18949542",
+    "imdb": "tt32019879",
+    "tmdb": 63617
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

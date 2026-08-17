@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mara_und_der_feuerbringer_kinopremiere_2015",
+  "title": "Mara und der Feuerbringer - Kinopremiere",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19971788",
+    "imdb": "tt3061534",
+    "tmdb": 328032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

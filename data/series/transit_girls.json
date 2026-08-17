@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_transit_girls",
+  "title": "Transit Girls",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21177307",
+    "imdb": "tt5138044",
+    "tmdb": 78749
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

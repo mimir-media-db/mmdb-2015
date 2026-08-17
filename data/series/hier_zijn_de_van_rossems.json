@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hier_zijn_de_van_rossems",
+  "title": "Hier zijn de Van Rossems",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19831881",
+    "imdb": "tt4429344",
+    "tmdb": 69028
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 12
+}

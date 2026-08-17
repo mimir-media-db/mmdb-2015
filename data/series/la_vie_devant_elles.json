@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vie_devant_elles",
+  "title": "La vie devant elles",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19885857",
+    "imdb": "tt3506798",
+    "tmdb": 71650
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_david_hasselhoff_show",
+  "title": "David Hasselhoff Show",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18290523",
+    "imdb": "tt4367324"
+  },
+  "last_updated": "2026-08-17"
+}

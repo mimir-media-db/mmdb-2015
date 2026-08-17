@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bulan_di_atas_kuburan_2015",
+  "title": "Bulan di Atas Kuburan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19724487",
+    "imdb": "tt19246754",
+    "tmdb": 449952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

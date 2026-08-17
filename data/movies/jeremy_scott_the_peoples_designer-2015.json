@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeremy_scott_the_peoples_designer_2015",
+  "title": "Jeremy Scott: The People's Designer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065504",
+    "imdb": "tt4005668",
+    "tmdb": 360354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

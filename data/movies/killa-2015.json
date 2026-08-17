@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killa_2015",
+  "title": "Killa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824745",
+    "imdb": "tt3341582",
+    "tmdb": 284729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 107
+}

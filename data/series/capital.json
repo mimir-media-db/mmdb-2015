@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_capital",
+  "title": "Capital",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21686048",
+    "imdb": "tt4594334",
+    "tmdb": 64505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_race_to_escape",
+  "title": "Race to Escape",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20899540",
+    "imdb": "tt4893540",
+    "tmdb": 63515
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

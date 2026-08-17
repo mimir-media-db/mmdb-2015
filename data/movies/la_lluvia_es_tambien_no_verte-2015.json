@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_lluvia_es_tambien_no_verte_2015",
+  "title": "La lluvia es también no verte",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20894780",
+    "imdb": "tt4438952",
+    "tmdb": 373371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_treli_oikogeneia",
+  "title": "Treli Oikogeneia",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q123421626",
+    "imdb": "tt8772888",
+    "tmdb": 209016
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 53
+}

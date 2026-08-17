@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_cop",
+  "title": "The Good Cop",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25492570",
+    "imdb": "tt6070434",
+    "tmdb": 85308
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 45
+}

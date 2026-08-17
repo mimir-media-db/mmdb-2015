@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sunflower_love",
+  "title": "Sunflower Love",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16689952",
+    "tmdb": 125170
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 49
+}

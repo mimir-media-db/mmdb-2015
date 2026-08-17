@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaakan_2015",
+  "title": "Kaakan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824738",
+    "imdb": "tt4602608",
+    "tmdb": 508438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

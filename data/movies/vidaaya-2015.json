@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vidaaya_2015",
+  "title": "Vidaaya",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19630529",
+    "imdb": "tt4738860"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

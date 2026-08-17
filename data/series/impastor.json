@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_impastor",
+  "title": "Impastor",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18216858",
+    "imdb": "tt4543708",
+    "tmdb": 62263
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

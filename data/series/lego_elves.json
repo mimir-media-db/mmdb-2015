@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lego_elves",
+  "title": "Lego Elves",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28722876",
+    "imdb": "tt5586974",
+    "tmdb": 70059
+  },
+  "last_updated": "2026-08-17"
+}

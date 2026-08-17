@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meadowland_2015",
+  "title": "Meadowland",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18152569",
+    "imdb": "tt3529656",
+    "tmdb": 328869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

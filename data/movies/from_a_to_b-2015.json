@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_a_to_b_2015",
+  "title": "From A to B",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19007230",
+    "imdb": "tt1666287",
+    "tmdb": 317214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 108
+}

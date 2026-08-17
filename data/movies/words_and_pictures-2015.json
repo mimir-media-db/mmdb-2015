@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_words_and_pictures_2015",
+  "title": "Words and Pictures",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14850712",
+    "imdb": "tt2380331",
+    "tmdb": 214075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_diamond_lover",
+  "title": "Diamond Lover",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19854180",
+    "imdb": "tt6058496",
+    "tmdb": 63360
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 68
+}

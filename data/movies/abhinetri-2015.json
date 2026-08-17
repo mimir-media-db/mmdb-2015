@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abhinetri_2015",
+  "title": "Abhinetri",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17010616",
+    "imdb": "tt3718164",
+    "tmdb": 1151678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

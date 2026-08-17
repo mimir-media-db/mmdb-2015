@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_powers",
+  "title": "Powers",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3017122",
+    "imdb": "tt1851040",
+    "tmdb": 42531
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

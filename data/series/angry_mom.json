@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angry_mom",
+  "title": "Angry Mom",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18605482",
+    "imdb": "tt4535826",
+    "tmdb": 62244
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

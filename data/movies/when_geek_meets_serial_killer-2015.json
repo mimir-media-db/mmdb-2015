@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_geek_meets_serial_killer_2015",
+  "title": "When Geek Meets Serial Killer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20062390",
+    "imdb": "tt4828620",
+    "tmdb": 347078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

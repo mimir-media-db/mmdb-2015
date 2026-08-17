@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_match_day",
+  "title": "Match Day",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24932417",
+    "imdb": "tt3318024",
+    "tmdb": 73053
+  },
+  "last_updated": "2026-08-17"
+}

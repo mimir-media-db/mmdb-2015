@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_light_ek_kalokh_2015",
+  "title": "Light Ek Kalokh",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814616",
+    "imdb": "tt8938416"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

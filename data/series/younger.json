@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_younger",
+  "title": "Younger",
+  "start_year": 2015,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q16943567",
+    "imdb": "tt3288518",
+    "tmdb": 62117
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 84
+}

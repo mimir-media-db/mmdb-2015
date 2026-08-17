@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pure_evil",
+  "title": "Pure Evil",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q25411813",
+    "imdb": "tt5050114",
+    "tmdb": 64743
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

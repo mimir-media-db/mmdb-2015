@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mar_de_plastico",
+  "title": "Mar de plástico",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21006388",
+    "imdb": "tt4719586",
+    "tmdb": 63869
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

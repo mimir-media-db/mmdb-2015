@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_new_years_eve_2015",
+  "title": "Crazy New Year’s Eve",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19009642",
+    "imdb": "tt4481934",
+    "tmdb": 332685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

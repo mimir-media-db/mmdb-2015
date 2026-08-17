@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_12_golden_ducks_2015",
+  "title": "12 Golden Ducks",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811584",
+    "imdb": "tt4409852",
+    "tmdb": 323430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

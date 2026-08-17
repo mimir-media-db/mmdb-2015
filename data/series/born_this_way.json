@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_born_this_way",
+  "title": "Born This Way",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q22021888",
+    "imdb": "tt5219042",
+    "tmdb": 64682
+  },
+  "last_updated": "2026-08-17"
+}

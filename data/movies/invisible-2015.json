@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_2015",
+  "title": "Invisible",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899471",
+    "imdb": "tt4524202",
+    "tmdb": 331441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

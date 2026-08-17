@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3000_nights_2015",
+  "title": "3000 Nights",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20856810",
+    "imdb": "tt3815424",
+    "tmdb": 358905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sundul_gan_the_story_of_kaskus_2015",
+  "title": "Sundul Gan: The Story of Kaskus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19752144",
+    "imdb": "tt5606148",
+    "tmdb": 400366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

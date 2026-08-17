@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_crazy_for_me",
+  "title": "Crazy for Me",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19372006",
+    "imdb": "tt4451466",
+    "tmdb": 86989
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

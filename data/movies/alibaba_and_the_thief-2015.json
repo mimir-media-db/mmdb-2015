@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alibaba_and_the_thief_2015",
+  "title": "Alibaba and the Thief",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001072",
+    "imdb": "tt6447754",
+    "tmdb": 1313989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

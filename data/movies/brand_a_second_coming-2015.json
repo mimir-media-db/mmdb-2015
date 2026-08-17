@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brand_a_second_coming_2015",
+  "title": "Brand: A Second Coming",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19007185",
+    "imdb": "tt3798628",
+    "tmdb": 320586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

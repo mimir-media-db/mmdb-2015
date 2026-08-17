@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kie_deba_takkar_2015",
+  "title": "Kie Deba Takkar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21403029",
+    "imdb": "tt4580694",
+    "tmdb": 507353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

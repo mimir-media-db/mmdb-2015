@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_munde_kamaal_de_2015",
+  "title": "Munde Kamaal De",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18702404",
+    "imdb": "tt4313174",
+    "tmdb": 356146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

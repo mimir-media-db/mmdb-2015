@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jian_bing_man_2015",
+  "title": "Jian Bing Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20683503",
+    "imdb": "tt4818250",
+    "tmdb": 348595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 113
+}

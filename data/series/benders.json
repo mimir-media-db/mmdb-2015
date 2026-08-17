@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_benders",
+  "title": "Benders",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21065433",
+    "imdb": "tt4791440",
+    "tmdb": 63804
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

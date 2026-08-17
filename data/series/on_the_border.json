@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_border",
+  "title": "On the Border",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q24204834",
+    "imdb": "tt5797588"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

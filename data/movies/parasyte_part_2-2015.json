@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parasyte_part_2_2015",
+  "title": "Parasyte: Part 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538743",
+    "imdb": "tt3345474",
+    "tmdb": 282070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 117
+}

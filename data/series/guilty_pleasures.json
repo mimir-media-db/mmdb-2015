@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_guilty_pleasures",
+  "title": "Guilty Pleasures",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22022647",
+    "imdb": "tt4688066",
+    "tmdb": 73512
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

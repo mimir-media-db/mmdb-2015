@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wonder_list_with_bill_weir",
+  "title": "The Wonder List with Bill Weir",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q43082896",
+    "imdb": "tt4459484",
+    "tmdb": 62419
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

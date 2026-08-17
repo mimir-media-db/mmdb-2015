@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_do_s_deka",
+  "title": "Do S Deka",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q11677996",
+    "imdb": "tt4426114",
+    "tmdb": 84073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

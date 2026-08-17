@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lodeur_de_la_mandarine_2015",
+  "title": "L'Odeur de la mandarine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009253",
+    "imdb": "tt4302562",
+    "tmdb": 362571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

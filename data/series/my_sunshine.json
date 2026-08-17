@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sunshine",
+  "title": "My Sunshine",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17498907",
+    "imdb": "tt6131630",
+    "tmdb": 62152
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

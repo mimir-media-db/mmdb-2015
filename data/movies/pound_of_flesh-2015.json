@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pound_of_flesh_2015",
+  "title": "Pound of Flesh",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17182969",
+    "imdb": "tt3488328",
+    "tmdb": 326284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

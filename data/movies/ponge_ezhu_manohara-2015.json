@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ponge_ezhu_manohara_2015",
+  "title": "Ponge Ezhu Manohara",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19320989",
+    "imdb": "tt6444022",
+    "tmdb": 329140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wayward_pines",
+  "title": "Wayward Pines",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16867394",
+    "imdb": "tt2618986",
+    "tmdb": 53425
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

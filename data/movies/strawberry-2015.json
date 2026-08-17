@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_2015",
+  "title": "Strawberry",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20967703",
+    "imdb": "tt5029018",
+    "tmdb": 359122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

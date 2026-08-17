@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_in_the_woods_2015",
+  "title": "A Walk in the Woods",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17184017",
+    "imdb": "tt1178665",
+    "tmdb": 232572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

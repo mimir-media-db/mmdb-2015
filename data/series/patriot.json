@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_patriot",
+  "title": "Patriot",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q28855218",
+    "imdb": "tt4687882",
+    "tmdb": 64396
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

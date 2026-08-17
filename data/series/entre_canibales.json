@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_entre_canibales",
+  "title": "Entre caníbales",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19849879",
+    "imdb": "tt4262710",
+    "tmdb": 64930
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

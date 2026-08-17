@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_knock_knock_live",
+  "title": "Knock Knock Live",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20735584",
+    "imdb": "tt4713054",
+    "tmdb": 63004
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heneral_luna_2015",
+  "title": "Heneral Luna",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20967634",
+    "imdb": "tt4944352",
+    "tmdb": 359105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

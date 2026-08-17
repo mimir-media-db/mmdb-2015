@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_strangers",
+  "title": "The Beautiful Strangers",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20058696",
+    "imdb": "tt5319792",
+    "tmdb": 221212
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 80
+}

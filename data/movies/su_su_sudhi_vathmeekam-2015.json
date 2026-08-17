@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_su_su_sudhi_vathmeekam_2015",
+  "title": "Su Su Sudhi Vathmeekam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899745",
+    "imdb": "tt5214394",
+    "tmdb": 373593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

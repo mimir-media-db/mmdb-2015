@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crnobijeli_svijet_tv_series",
+  "title": "Crno-bijeli svijet (TV series)",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q20526844",
+    "imdb": "tt3674454",
+    "tmdb": 62122
+  },
+  "last_updated": "2026-08-17"
+}

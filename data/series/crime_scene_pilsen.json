@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_scene_pilsen",
+  "title": "Crime Scene: Pilsen",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102383575",
+    "imdb": "tt5119256",
+    "tmdb": 91420
+  },
+  "last_updated": "2026-08-17"
+}

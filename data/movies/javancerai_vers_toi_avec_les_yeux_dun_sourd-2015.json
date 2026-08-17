@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_javancerai_vers_toi_avec_les_yeux_dun_sourd_2015",
+  "title": "J'avancerai vers toi avec les yeux d'un sourd",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19819367",
+    "imdb": "tt4498900",
+    "tmdb": 463473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_they_call_me_jeeg_2015",
+  "title": "They Call Me Jeeg",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21313531",
+    "imdb": "tt3775086",
+    "tmdb": 364433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 118
+}

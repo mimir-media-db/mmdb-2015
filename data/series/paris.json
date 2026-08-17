@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paris",
+  "title": "Paris",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16668982",
+    "imdb": "tt2943406",
+    "tmdb": 69339
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

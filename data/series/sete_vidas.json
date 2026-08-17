@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sete_vidas",
+  "title": "Sete Vidas",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19324454",
+    "imdb": "tt4118174",
+    "tmdb": 84381
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 106
+}

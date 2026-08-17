@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_never_died_2015",
+  "title": "He Never Died",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824696",
+    "imdb": "tt2386404",
+    "tmdb": 279690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 97
+}

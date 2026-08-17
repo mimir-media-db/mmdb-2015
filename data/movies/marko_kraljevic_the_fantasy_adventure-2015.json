@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marko_kraljevic_the_fantasy_adventure_2015",
+  "title": "Marko Kraljevic: The Fantasy Adventure",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20437433",
+    "imdb": "tt3801426",
+    "tmdb": 319787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

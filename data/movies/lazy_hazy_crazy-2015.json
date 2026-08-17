@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lazy_hazy_crazy_2015",
+  "title": "Lazy Hazy Crazy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21042801",
+    "imdb": "tt5097504",
+    "tmdb": 364664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

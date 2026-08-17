@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_fixes_women_the_wrath_of_hippocrates_2015",
+  "title": "The Man Who Fixes Women: The Wrath of Hippocrates",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19544771",
+    "imdb": "tt4466446",
+    "tmdb": 355441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 112
+}

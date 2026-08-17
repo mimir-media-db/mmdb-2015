@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_police_state_2015",
+  "title": "Police State",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18389193",
+    "imdb": "tt2182065",
+    "tmdb": 385908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 73
+}

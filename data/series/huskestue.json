@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_huskestue",
+  "title": "Huskestue",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31079636",
+    "imdb": "tt6940730",
+    "tmdb": 72056
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 72
+}

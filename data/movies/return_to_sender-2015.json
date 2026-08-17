@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_sender_2015",
+  "title": "Return to Sender",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022655",
+    "imdb": "tt2948790",
+    "tmdb": 333381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

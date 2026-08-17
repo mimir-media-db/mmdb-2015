@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_play_to_the_whistle",
+  "title": "Play to the Whistle",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19757794",
+    "imdb": "tt4704402",
+    "tmdb": 110932
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 9
+}

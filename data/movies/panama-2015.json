@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panama_2015",
+  "title": "Panama",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824823",
+    "imdb": "tt2933004",
+    "tmdb": 336200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 97
+}

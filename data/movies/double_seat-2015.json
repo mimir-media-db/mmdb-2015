@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_seat_2015",
+  "title": "Double Seat",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814502",
+    "imdb": "tt4992114",
+    "tmdb": 378926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 138
+}

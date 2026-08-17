@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_found_music_studios",
+  "title": "Lost & Found Music Studios",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24034585",
+    "imdb": "tt5023972",
+    "tmdb": 66260
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

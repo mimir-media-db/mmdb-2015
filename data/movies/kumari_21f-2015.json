@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kumari_21f_2015",
+  "title": "Kumari 21F",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892994",
+    "imdb": "tt5177824",
+    "tmdb": 369949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

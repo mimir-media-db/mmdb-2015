@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_gear_france",
+  "title": "Top Gear France",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19765920",
+    "imdb": "tt4556820",
+    "tmdb": 62233
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 45
+}

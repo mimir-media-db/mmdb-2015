@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_timber_2015",
+  "title": "The Timber",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7769288",
+    "imdb": "tt2215673",
+    "tmdb": 322443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

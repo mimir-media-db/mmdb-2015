@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_granny_of_the_dead_2015",
+  "title": "Granny of the Dead",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527692",
+    "imdb": "tt2516500",
+    "tmdb": 463737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

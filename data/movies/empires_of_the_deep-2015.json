@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_empires_of_the_deep_2015",
+  "title": "Empires of the Deep",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2890951",
+    "imdb": "tt1240952",
+    "tmdb": 1313174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

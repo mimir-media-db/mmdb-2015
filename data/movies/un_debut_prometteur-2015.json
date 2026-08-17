@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_debut_prometteur_2015",
+  "title": "Un début prometteur",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009499",
+    "imdb": "tt3960938",
+    "tmdb": 360225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

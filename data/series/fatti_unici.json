@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fatti_unici",
+  "title": "Fatti unici",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24937901"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

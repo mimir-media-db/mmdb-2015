@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_end",
+  "title": "World's End",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20714213",
+    "imdb": "tt4573682",
+    "tmdb": 75185
+  },
+  "last_updated": "2026-08-17"
+}

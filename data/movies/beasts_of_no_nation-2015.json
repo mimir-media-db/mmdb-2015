@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beasts_of_no_nation_2015",
+  "title": "Beasts of No Nation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17508302",
+    "imdb": "tt1365050",
+    "tmdb": 283587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 137
+}

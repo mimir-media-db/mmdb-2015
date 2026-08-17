@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_septembers_of_shiraz_2015",
+  "title": "Septembers of Shiraz",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18153900",
+    "imdb": "tt3661298",
+    "tmdb": 352179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 109
+}

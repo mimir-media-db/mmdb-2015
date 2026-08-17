@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stewarts_hamiltons",
+  "title": "Stewarts & Hamiltons",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20735615",
+    "imdb": "tt4670228",
+    "tmdb": 63015
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tod_den_hippies_es_lebe_der_punk_2015",
+  "title": "Tod den Hippies!! Es lebe der Punk",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20640768",
+    "imdb": "tt3397082",
+    "tmdb": 331622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

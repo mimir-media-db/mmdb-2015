@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_south_of_hell",
+  "title": "South of Hell",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21522108",
+    "imdb": "tt4147780",
+    "tmdb": 64447
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

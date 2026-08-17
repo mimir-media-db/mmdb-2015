@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_one_mississippi",
+  "title": "One Mississippi",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q25204269",
+    "imdb": "tt4947608",
+    "tmdb": 67709
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

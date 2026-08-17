@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_loi_dalexandre",
+  "title": "La loi d'Alexandre",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21104393",
+    "tmdb": 71982
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_becomes_you_2015",
+  "title": "Sunshine Becomes You",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20427581",
+    "imdb": "tt5640576",
+    "tmdb": 374869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

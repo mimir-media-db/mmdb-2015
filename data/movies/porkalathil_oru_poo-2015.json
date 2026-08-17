@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_porkalathil_oru_poo_2015",
+  "title": "Porkalathil Oru Poo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992439",
+    "imdb": "tt5467752"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jk_enum_nanbanin_vaazhkai_2015",
+  "title": "JK Enum Nanbanin Vaazhkai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6108369",
+    "imdb": "tt3426294",
+    "tmdb": 243708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

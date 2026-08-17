@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kl10_2015",
+  "title": "KL.10",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811607",
+    "imdb": "tt4882694",
+    "tmdb": 352451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

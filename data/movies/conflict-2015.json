@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conflict_2015",
+  "title": "Conflict",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20391963",
+    "imdb": "tt9361292",
+    "tmdb": 1285303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

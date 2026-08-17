@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_desi_2015",
+  "title": "I Love Desi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19891758",
+    "imdb": "tt4718678"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

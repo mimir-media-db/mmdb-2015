@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kingi",
+  "title": "Kingi",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18608889",
+    "imdb": "tt4309236",
+    "tmdb": 62118
+  },
+  "last_updated": "2026-08-17"
+}

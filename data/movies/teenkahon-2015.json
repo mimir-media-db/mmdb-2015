@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teenkahon_2015",
+  "title": "Teenkahon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17071133",
+    "imdb": "tt3479530",
+    "tmdb": 379644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

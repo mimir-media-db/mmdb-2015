@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grow_2_2015",
+  "title": "The Grow 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058606",
+    "imdb": "tt6423492",
+    "tmdb": 546453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

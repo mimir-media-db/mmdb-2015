@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_black_birds_fly_2015",
+  "title": "When Black Birds Fly",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538767",
+    "imdb": "tt4007068",
+    "tmdb": 371914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

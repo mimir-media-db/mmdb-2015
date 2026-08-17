@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_southpaw_2015",
+  "title": "Southpaw",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17276718",
+    "imdb": "tt1798684",
+    "tmdb": 307081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 124
+}

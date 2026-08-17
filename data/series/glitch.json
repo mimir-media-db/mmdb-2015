@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_glitch",
+  "title": "Glitch",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18702174",
+    "imdb": "tt4192782",
+    "tmdb": 63201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

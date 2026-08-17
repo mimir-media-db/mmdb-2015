@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_da_muss_mann_durch_2015",
+  "title": "Da muss Mann durch",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992286",
+    "imdb": "tt3124060",
+    "tmdb": 321249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pigeon_sat_on_a_branch_reflecting_on_existence_2015",
+  "title": "A Pigeon Sat on a Branch Reflecting on Existence",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10483256",
+    "imdb": "tt1883180",
+    "tmdb": 110390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_making_a_murderer",
+  "title": "Making a Murderer",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21784198",
+    "imdb": "tt5189670",
+    "tmdb": 64439
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

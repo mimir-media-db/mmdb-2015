@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sunt_celebru_scoatema_de_aici",
+  "title": "Sunt celebru, scoate-mă de aici!",
+  "start_year": 2015,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q19367436",
+    "imdb": "tt6623974",
+    "tmdb": 62775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 47
+}

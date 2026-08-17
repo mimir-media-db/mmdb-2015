@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_faithful_husband",
+  "title": "My Faithful Husband",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20649109",
+    "imdb": "tt6591878",
+    "tmdb": 110420
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

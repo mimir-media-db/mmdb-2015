@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_red_rock",
+  "title": "Red Rock",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q18712502",
+    "imdb": "tt4320944",
+    "tmdb": 61823
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 88
+}

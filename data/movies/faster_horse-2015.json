@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faster_horse_2015",
+  "title": "A Faster Horse",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21070643",
+    "imdb": "tt3762974",
+    "tmdb": 333350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_storks",
+  "title": "Dr. Storks",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q111466734",
+    "imdb": "tt4930608",
+    "tmdb": 64649
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

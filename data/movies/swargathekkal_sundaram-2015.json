@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swargathekkal_sundaram_2015",
+  "title": "Swargathekkal Sundaram",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19898549",
+    "imdb": "tt4701616",
+    "tmdb": 1615451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_36_vayadhinile_2015",
+  "title": "36 Vayadhinile",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19579844",
+    "imdb": "tt4684258",
+    "tmdb": 334383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

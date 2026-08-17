@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_experimenter_2015",
+  "title": "Experimenter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17382885",
+    "imdb": "tt3726704",
+    "tmdb": 309299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 97
+}

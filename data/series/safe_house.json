@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_safe_house",
+  "title": "Safe House",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21203315",
+    "imdb": "tt4567314",
+    "tmdb": 62452
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

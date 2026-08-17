@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_simplemente_maria",
+  "title": "Simplemente María",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20724893",
+    "imdb": "tt5164970",
+    "tmdb": 81823
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 126
+}

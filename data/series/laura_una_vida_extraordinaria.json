@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_laura_una_vida_extraordinaria",
+  "title": "Laura, una vida extraordinaria",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20220098",
+    "imdb": "tt6958538",
+    "tmdb": 105635
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mor_thengari_2015",
+  "title": "Mor Thengari",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19742909",
+    "imdb": "tt4916056",
+    "tmdb": 896958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

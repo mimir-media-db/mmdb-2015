@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_giraffe_erdmannchen_co",
+  "title": "Giraffe, Erdmännchen & Co.",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1526605",
+    "imdb": "tt0920449",
+    "tmdb": 41130
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 329
+}

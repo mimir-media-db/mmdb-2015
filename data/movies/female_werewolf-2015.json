@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_female_werewolf_2015",
+  "title": "Female Werewolf",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646402",
+    "imdb": "tt4255252",
+    "tmdb": 424182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 65
+}

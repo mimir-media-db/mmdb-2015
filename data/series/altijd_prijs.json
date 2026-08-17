@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_altijd_prijs",
+  "title": "Altijd Prijs",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21333958",
+    "imdb": "tt4047050",
+    "tmdb": 64317
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

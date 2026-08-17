@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sudhu_tomari_jonyo_2015",
+  "title": "Sudhu Tomari Jonyo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21004529",
+    "imdb": "tt5141042",
+    "tmdb": 378495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

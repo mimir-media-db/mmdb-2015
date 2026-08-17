@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_anuradha_2015",
+  "title": "Anuradha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15527120",
+    "imdb": "tt4556768"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

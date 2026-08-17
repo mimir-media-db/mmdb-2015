@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_code_black",
+  "title": "Code Black",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q19954385",
+    "imdb": "tt4452630",
+    "tmdb": 63418
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 47
+}

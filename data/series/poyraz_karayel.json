@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_poyraz_karayel",
+  "title": "Poyraz Karayel",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19612289",
+    "imdb": "tt4343334",
+    "tmdb": 65163
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 82
+}

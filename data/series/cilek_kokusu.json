@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cilek_kokusu",
+  "title": "Çilek Kokusu",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20476776",
+    "imdb": "tt4900982",
+    "tmdb": 69322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 23
+}

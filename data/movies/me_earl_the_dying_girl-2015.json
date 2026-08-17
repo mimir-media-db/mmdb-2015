@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_earl_the_dying_girl_2015",
+  "title": "Me & Earl & the Dying Girl",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18152566",
+    "imdb": "tt2582496",
+    "tmdb": 308369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

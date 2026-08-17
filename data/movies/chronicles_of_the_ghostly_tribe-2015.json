@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_the_ghostly_tribe_2015",
+  "title": "Chronicles of the Ghostly Tribe",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20062399",
+    "imdb": "tt4819498",
+    "tmdb": 364324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 118
+}

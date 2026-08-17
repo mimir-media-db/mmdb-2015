@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_innocent_killers_2015",
+  "title": "Innocent Killers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21001765",
+    "imdb": "tt3144582",
+    "tmdb": 331351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

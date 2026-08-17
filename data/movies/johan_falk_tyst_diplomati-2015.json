@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johan_falk_tyst_diplomati_2015",
+  "title": "Johan Falk: Tyst diplomati",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19978545",
+    "imdb": "tt4383196",
+    "tmdb": 325619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

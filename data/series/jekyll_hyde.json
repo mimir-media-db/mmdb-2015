@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jekyll_hyde",
+  "title": "Jekyll & Hyde",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21294951",
+    "imdb": "tt4224588",
+    "tmdb": 47224
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

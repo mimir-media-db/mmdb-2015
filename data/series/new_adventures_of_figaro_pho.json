@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_new_adventures_of_figaro_pho",
+  "title": "The New Adventures of Figaro Pho",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24185511",
+    "imdb": "tt5016516",
+    "tmdb": 46532
+  },
+  "last_updated": "2026-08-17"
+}

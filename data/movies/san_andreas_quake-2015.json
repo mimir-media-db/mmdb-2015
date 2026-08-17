@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_san_andreas_quake_2015",
+  "title": "San Andreas Quake",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022945",
+    "imdb": "tt4547120",
+    "tmdb": 339533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_pondok_pak_cus",
+  "title": "Pondok Pak Cus",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23715859"
+  },
+  "last_updated": "2026-08-17"
+}

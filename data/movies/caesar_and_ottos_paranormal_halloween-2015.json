@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caesar_and_ottos_paranormal_halloween_2015",
+  "title": "Caesar and Otto's Paranormal Halloween",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20715471",
+    "imdb": "tt3581382",
+    "tmdb": 361620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

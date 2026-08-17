@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_returned",
+  "title": "The Returned",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17299853",
+    "imdb": "tt3230780",
+    "tmdb": 62142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

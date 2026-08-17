@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prancing_elites_project",
+  "title": "The Prancing Elites Project",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21775857",
+    "imdb": "tt4063096",
+    "tmdb": 62558
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

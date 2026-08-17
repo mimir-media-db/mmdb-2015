@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arti_the_adventure_begins_2015",
+  "title": "The Arti: The Adventure Begins",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19849933",
+    "imdb": "tt4839422",
+    "tmdb": 349136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

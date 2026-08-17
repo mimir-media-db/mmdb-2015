@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_set_the_thames_on_fire_2015",
+  "title": "Set the Thames on Fire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18924414",
+    "imdb": "tt3527166",
+    "tmdb": 393939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

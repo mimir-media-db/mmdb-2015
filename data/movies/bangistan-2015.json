@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangistan_2015",
+  "title": "Bangistan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17514776",
+    "imdb": "tt3422462",
+    "tmdb": 352099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ladrones_2015",
+  "title": "Ladrones",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21010863",
+    "imdb": "tt4296800",
+    "tmdb": 352094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

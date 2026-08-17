@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazonas_clandestino",
+  "title": "Amazonas Clandestino",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q111272199",
+    "imdb": "tt10153446",
+    "tmdb": 67296
+  },
+  "last_updated": "2026-08-17"
+}

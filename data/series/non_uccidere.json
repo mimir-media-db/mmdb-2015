@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_non_uccidere",
+  "title": "Non uccidere",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q21129935",
+    "imdb": "tt5022622",
+    "tmdb": 66181
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

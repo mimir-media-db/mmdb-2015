@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_without_family",
+  "title": "Without Family",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22690108",
+    "imdb": "tt4949240"
+  },
+  "last_updated": "2026-08-17"
+}

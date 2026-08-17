@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_desafio_2015",
+  "title": "El desafío",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20001145",
+    "imdb": "tt3779140",
+    "tmdb": 362044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

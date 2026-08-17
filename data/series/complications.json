@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_complications",
+  "title": "Complications",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19571331",
+    "imdb": "tt3410350",
+    "tmdb": 62817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

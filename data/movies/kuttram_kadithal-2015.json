@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuttram_kadithal_2015",
+  "title": "Kuttram Kadithal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18353206",
+    "imdb": "tt4112208",
+    "tmdb": 330428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

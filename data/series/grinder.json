@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grinder",
+  "title": "The Grinder",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19945977",
+    "imdb": "tt4481322",
+    "tmdb": 63509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

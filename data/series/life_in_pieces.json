@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_in_pieces",
+  "title": "Life in Pieces",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q19875190",
+    "imdb": "tt4384086",
+    "tmdb": 63398
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 79
+}

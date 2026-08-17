@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_pursuit_2015",
+  "title": "Hot Pursuit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16974047",
+    "imdb": "tt2967224",
+    "tmdb": 268920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

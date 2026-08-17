@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_chalet",
+  "title": "Le Chalet",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21715221",
+    "imdb": "tt4471820",
+    "tmdb": 67176
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 76
+}

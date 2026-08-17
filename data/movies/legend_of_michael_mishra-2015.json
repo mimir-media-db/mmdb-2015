@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_michael_mishra_2015",
+  "title": "The Legend of Michael Mishra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254769",
+    "imdb": "tt3224258",
+    "tmdb": 363192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

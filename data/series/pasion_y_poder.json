@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pasion_y_poder",
+  "title": "Pasión y poder",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20902344",
+    "imdb": "tt5060922",
+    "tmdb": 66344
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 136
+}

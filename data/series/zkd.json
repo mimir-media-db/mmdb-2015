@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zkd",
+  "title": "ZKD",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19615709",
+    "imdb": "tt4482996",
+    "tmdb": 66855
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

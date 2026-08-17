@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_odd_mom_out",
+  "title": "Odd Mom Out",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18645273",
+    "imdb": "tt4324796",
+    "tmdb": 62810
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

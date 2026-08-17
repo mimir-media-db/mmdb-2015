@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hoff_the_record",
+  "title": "Hoff the Record",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20639212",
+    "imdb": "tt4095622",
+    "tmdb": 63032
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

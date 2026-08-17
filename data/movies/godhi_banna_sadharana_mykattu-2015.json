@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_godhi_banna_sadharana_mykattu_2015",
+  "title": "Godhi Banna Sadharana Mykattu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20715681",
+    "imdb": "tt4909506",
+    "tmdb": 402109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_unfortunate_boyfriend",
+  "title": "My Unfortunate Boyfriend",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18963941",
+    "imdb": "tt5679608",
+    "tmdb": 62721
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

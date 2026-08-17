@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_art_of_more",
+  "title": "The Art of More",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21028739",
+    "imdb": "tt4633680",
+    "tmdb": 64367
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

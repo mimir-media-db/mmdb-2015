@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kid_kulafu_2015",
+  "title": "Kid Kulafu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824743",
+    "imdb": "tt4061876",
+    "tmdb": 335844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 109
+}

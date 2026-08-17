@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_without_distance_2015",
+  "title": "Love Without Distance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002129",
+    "imdb": "tt4838290",
+    "tmdb": 351239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

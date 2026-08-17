@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vrazdy_v_kruhu",
+  "title": "Vraždy v kruhu",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16516468",
+    "imdb": "tt4328406",
+    "tmdb": 74836
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

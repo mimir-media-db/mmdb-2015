@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_highend_crush",
+  "title": "High-End Crush",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22099437",
+    "imdb": "tt6096696",
+    "tmdb": 64529
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

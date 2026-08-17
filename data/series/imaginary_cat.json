@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_imaginary_cat",
+  "title": "Imaginary Cat",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21332481",
+    "imdb": "tt5260106",
+    "tmdb": 64478
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

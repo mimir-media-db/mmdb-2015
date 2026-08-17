@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ellens_design_challenge",
+  "title": "Ellen's Design Challenge",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19593685",
+    "imdb": "tt3860868",
+    "tmdb": 65821
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

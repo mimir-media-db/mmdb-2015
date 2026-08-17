@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_of_rome_2015",
+  "title": "Princess of Rome",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20110524",
+    "imdb": "tt4676508",
+    "tmdb": 387268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

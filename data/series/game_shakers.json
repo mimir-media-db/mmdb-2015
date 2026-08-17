@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_game_shakers",
+  "title": "Game Shakers",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q20897314",
+    "imdb": "tt4711184",
+    "tmdb": 64264
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_moon_monster_madness_2015",
+  "title": "Scooby-Doo! Moon Monster Madness",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603044",
+    "imdb": "tt4215766",
+    "tmdb": 302960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

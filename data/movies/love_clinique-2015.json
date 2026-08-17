@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_clinique_2015",
+  "title": "Love Clinique",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19896386",
+    "imdb": "tt4946602",
+    "tmdb": 340819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ack_varmland",
+  "title": "Ack Värmland",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19755046",
+    "imdb": "tt3800804",
+    "tmdb": 65199
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

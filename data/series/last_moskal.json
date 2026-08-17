@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_moskal",
+  "title": "The Last Moskal",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19796629",
+    "imdb": "tt4553866",
+    "tmdb": 66363
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rumperbutts_2015",
+  "title": "The Rumperbutts",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881025",
+    "imdb": "tt2727732",
+    "tmdb": 333595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

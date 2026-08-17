@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_book_of_negroes",
+  "title": "The Book of Negroes",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18890209",
+    "imdb": "tt1495950",
+    "tmdb": 62982
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

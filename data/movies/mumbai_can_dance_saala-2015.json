@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mumbai_can_dance_saala_2015",
+  "title": "Mumbai Can Dance Saala",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703197",
+    "imdb": "tt4355892"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

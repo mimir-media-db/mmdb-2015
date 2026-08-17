@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chicago_med",
+  "title": "Chicago Med",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19848860",
+    "imdb": "tt4655480",
+    "tmdb": 62650
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 219
+}

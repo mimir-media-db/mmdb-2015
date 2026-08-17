@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_survivor_games_with_bear_grylls",
+  "title": "Survivor Games with Bear Grylls",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q123705392",
+    "imdb": "tt8056258",
+    "tmdb": 114984
+  },
+  "last_updated": "2026-08-17"
+}

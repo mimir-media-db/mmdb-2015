@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pearls_of_the_stone_man_2015",
+  "title": "The Pearls of the Stone Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20500561",
+    "imdb": "tt3786474",
+    "tmdb": 397405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_persona_non_grata_2015",
+  "title": "Persona Non Grata",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21423036",
+    "imdb": "tt4162012",
+    "tmdb": 370680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

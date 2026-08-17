@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_be_together_2015",
+  "title": "Be Together",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19303550",
+    "imdb": "tt4838386",
+    "tmdb": 578943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_riders_catch_tomorrow",
+  "title": "Riders: Catch Tomorrow",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21293320",
+    "imdb": "tt6289272",
+    "tmdb": 69420
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

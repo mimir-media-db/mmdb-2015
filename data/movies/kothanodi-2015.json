@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kothanodi_2015",
+  "title": "Kothanodi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720659",
+    "imdb": "tt4577388",
+    "tmdb": 393495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

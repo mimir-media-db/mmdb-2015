@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1944_2015",
+  "title": "1944",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20127610",
+    "imdb": "tt3213684",
+    "tmdb": 321303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

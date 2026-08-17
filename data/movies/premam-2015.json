@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_premam_2015",
+  "title": "Premam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19895421",
+    "imdb": "tt4679210",
+    "tmdb": 341895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 156
+}

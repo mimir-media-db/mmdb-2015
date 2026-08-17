@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_of_mystery_2015",
+  "title": "Tales of Mystery",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18908166",
+    "imdb": "tt5594236",
+    "tmdb": 340290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

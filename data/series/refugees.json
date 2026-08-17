@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_refugees",
+  "title": "The Refugees",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17086653",
+    "imdb": "tt4011172",
+    "tmdb": 62633
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

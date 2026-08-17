@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dengler",
+  "title": "Dengler",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q80796525",
+    "imdb": "tt3814852",
+    "tmdb": 243951
+  },
+  "last_updated": "2026-08-17"
+}

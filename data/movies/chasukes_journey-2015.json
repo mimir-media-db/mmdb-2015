@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasukes_journey_2015",
+  "title": "Chasuke's Journey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18959369",
+    "imdb": "tt3560464",
+    "tmdb": 319996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

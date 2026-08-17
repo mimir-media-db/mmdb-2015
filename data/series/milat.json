@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_milat",
+  "title": "Milat",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20472439",
+    "imdb": "tt4688048",
+    "tmdb": 63031
+  },
+  "last_updated": "2026-08-17"
+}

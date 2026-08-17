@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_almost_impossible_game_show",
+  "title": "The Almost Impossible Game Show",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21233414",
+    "imdb": "tt5757090",
+    "tmdb": 127268
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

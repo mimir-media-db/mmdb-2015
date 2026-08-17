@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_qui_cest_les_plus_forts_2015",
+  "title": "Qui c'est les plus forts ?",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004205",
+    "imdb": "tt4161632",
+    "tmdb": 342149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

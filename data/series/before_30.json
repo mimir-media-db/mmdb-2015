@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_before_30",
+  "title": "Before 30",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20856843",
+    "imdb": "tt8320472",
+    "tmdb": 212353
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

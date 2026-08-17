@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_paradiso_delle_signore",
+  "title": "Il paradiso delle signore",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22317181",
+    "imdb": "tt5263880",
+    "tmdb": 73362
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 1354
+}

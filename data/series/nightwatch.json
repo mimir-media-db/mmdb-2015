@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nightwatch",
+  "title": "Nightwatch",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111953796",
+    "imdb": "tt4287464",
+    "tmdb": 64559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 65
+}

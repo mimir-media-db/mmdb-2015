@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_cukkad_family_2015",
+  "title": "Crazy Cukkad Family",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786418",
+    "imdb": "tt4094820",
+    "tmdb": 321793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

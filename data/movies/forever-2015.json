@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_2015",
+  "title": "Forever",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18479165",
+    "imdb": "tt2555652",
+    "tmdb": 365491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

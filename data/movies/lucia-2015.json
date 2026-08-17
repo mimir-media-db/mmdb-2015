@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucia_2015",
+  "title": "Lucia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250882",
+    "imdb": "tt4047104",
+    "tmdb": 307002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

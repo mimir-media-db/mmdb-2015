@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_counting_on",
+  "title": "Counting On",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q28859344",
+    "imdb": "tt5402696",
+    "tmdb": 66156
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 119
+}

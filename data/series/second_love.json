@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_second_love",
+  "title": "Second Love",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18980450",
+    "imdb": "tt4239728",
+    "tmdb": 69421
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

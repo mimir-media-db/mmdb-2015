@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_judas_2015",
+  "title": "Story of Judas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19847317",
+    "imdb": "tt4223932",
+    "tmdb": 324687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

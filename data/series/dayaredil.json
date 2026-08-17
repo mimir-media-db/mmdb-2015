@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dayaredil",
+  "title": "Dayar-e-Dil",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19824622",
+    "imdb": "tt4667058",
+    "tmdb": 90933
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

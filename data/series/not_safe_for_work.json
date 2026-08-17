@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_not_safe_for_work",
+  "title": "Not Safe for Work",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20642727",
+    "imdb": "tt4796566",
+    "tmdb": 63071
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

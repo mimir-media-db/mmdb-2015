@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_credence_2015",
+  "title": "Credence",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18206285",
+    "imdb": "tt5375512",
+    "tmdb": 366377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

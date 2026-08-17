@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thottal_thodarum_2015",
+  "title": "Thottal Thodarum",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254822",
+    "imdb": "tt4384342",
+    "tmdb": 280161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

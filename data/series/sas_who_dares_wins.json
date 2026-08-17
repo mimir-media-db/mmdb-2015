@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sas_who_dares_wins",
+  "title": "SAS: Who Dares Wins",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q65061433",
+    "imdb": "tt5189220",
+    "tmdb": 64406
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 50
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_valotarsak",
+  "title": "Válótársak",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q23355200",
+    "imdb": "tt5200920",
+    "tmdb": 64457
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

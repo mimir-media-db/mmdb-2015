@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reporterka",
+  "title": "Reportérka",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19602630",
+    "imdb": "tt4351744",
+    "tmdb": 91108
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

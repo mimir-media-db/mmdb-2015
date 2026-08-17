@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_best_of_youth_2015",
+  "title": "The Best of Youth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15939696",
+    "imdb": "tt5338692"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

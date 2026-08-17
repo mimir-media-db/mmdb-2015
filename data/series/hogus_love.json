@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hogus_love",
+  "title": "Hogu's Love",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18648638",
+    "imdb": "tt4467778",
+    "tmdb": 62271
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

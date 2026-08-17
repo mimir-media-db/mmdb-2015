@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aarambha_2015",
+  "title": "Aarambha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20646845",
+    "imdb": "tt13276016"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

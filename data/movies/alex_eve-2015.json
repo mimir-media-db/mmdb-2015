@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alex_eve_2015",
+  "title": "Alex & Eve",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198114",
+    "imdb": "tt3818286",
+    "tmdb": 347538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 131
+}

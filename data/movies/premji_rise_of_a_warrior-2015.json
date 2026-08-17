@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premji_rise_of_a_warrior_2015",
+  "title": "Premji Rise of A Warrior",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824836",
+    "imdb": "tt4846770",
+    "tmdb": 814408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

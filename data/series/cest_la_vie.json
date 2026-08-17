@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cest_la_vie",
+  "title": "C'est la vie !",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97172934",
+    "imdb": "tt8274734"
+  },
+  "last_updated": "2026-08-17"
+}

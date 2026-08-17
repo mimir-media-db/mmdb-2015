@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_carnival_cravings",
+  "title": "Carnival Cravings",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20856859",
+    "imdb": "tt5006540",
+    "tmdb": 229399
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

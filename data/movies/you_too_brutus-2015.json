@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_too_brutus_2015",
+  "title": "You Too Brutus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19899267",
+    "imdb": "tt4539336",
+    "tmdb": 332253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

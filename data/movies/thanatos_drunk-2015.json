@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thanatos_drunk_2015",
+  "title": "Thanatos, Drunk",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21016999",
+    "imdb": "tt4471428",
+    "tmdb": 325344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 107
+}

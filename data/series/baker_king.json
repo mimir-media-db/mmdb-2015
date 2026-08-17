@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_baker_king",
+  "title": "Baker King",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17014995",
+    "imdb": "tt37484229"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 85
+}

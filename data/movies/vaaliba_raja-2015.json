@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaaliba_raja_2015",
+  "title": "Vaaliba Raja",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255050",
+    "imdb": "tt3566718",
+    "tmdb": 280152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

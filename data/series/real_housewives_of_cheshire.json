@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_cheshire",
+  "title": "The Real Housewives of Cheshire",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18393704",
+    "imdb": "tt4455862",
+    "tmdb": 61868
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 116
+}

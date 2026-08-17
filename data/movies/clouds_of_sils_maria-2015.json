@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clouds_of_sils_maria_2015",
+  "title": "Clouds of Sils Maria",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14775069",
+    "imdb": "tt2452254",
+    "tmdb": 246860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 124
+}

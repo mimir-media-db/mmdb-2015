@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_wrestling_2015",
+  "title": "Lost in Wrestling",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058637",
+    "imdb": "tt4838472",
+    "tmdb": 408430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

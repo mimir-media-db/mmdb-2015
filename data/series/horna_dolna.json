@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_horna_dolna",
+  "title": "Horná Dolná",
+  "start_year": 2015,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q20493321",
+    "imdb": "tt7889192",
+    "tmdb": 66179
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 53
+}

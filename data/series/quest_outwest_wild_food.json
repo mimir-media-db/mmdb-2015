@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_quest_outwest_wild_food",
+  "title": "Quest OutWest Wild Food",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105763762",
+    "imdb": "tt3803660"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

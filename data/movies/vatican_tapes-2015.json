@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vatican_tapes_2015",
+  "title": "The Vatican Tapes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14859564",
+    "imdb": "tt1524575",
+    "tmdb": 157544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

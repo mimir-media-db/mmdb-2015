@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_heard_it_through_the_grapevine",
+  "title": "Heard It Through the Grapevine",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18550847",
+    "imdb": "tt4507456",
+    "tmdb": 62265
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_landmark_cases_12_historic_supreme_court_decisions",
+  "title": "Landmark Cases: 12 Historic Supreme Court Decisions",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q23763186"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

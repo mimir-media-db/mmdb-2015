@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tempo_instabile_con_probabili_schiarite_2015",
+  "title": "Tempo instabile con probabili schiarite",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20892734",
+    "imdb": "tt3625354",
+    "tmdb": 333888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

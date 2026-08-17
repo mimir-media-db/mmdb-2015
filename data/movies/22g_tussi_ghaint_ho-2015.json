@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_22g_tussi_ghaint_ho_2015",
+  "title": "22g Tussi Ghaint Ho",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17515646",
+    "imdb": "tt5277066",
+    "tmdb": 387425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

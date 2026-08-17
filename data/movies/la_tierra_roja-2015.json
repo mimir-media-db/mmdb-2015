@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_tierra_roja_2015",
+  "title": "La tierra roja",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20030096",
+    "imdb": "tt3411414",
+    "tmdb": 364718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

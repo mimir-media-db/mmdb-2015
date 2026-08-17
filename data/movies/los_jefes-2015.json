@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_jefes_2015",
+  "title": "Los Jefes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20749400",
+    "imdb": "tt2977546",
+    "tmdb": 350779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

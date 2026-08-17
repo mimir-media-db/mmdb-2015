@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gruber_geht_2015",
+  "title": "Gruber geht",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19284401",
+    "imdb": "tt3660378",
+    "tmdb": 324080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

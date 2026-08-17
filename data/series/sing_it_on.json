@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sing_it_on",
+  "title": "Sing It On",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123680866",
+    "imdb": "tt3831518",
+    "tmdb": 62532
+  },
+  "last_updated": "2026-08-17"
+}

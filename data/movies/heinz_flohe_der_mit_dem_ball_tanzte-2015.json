@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heinz_flohe_der_mit_dem_ball_tanzte_2015",
+  "title": "Heinz Flohe – Der mit dem Ball tanzte",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20184213",
+    "imdb": "tt4528504",
+    "tmdb": 393356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

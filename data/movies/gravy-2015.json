@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gravy_2015",
+  "title": "Gravy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20647361",
+    "imdb": "tt2822578",
+    "tmdb": 262169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

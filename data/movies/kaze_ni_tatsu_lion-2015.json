@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaze_ni_tatsu_lion_2015",
+  "title": "Kaze ni Tatsu Lion",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20862799",
+    "imdb": "tt3084294",
+    "tmdb": 363425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 139
+}

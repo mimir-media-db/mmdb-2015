@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_you_need_is_pagibig_2015",
+  "title": "All You Need Is Pag-Ibig",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427010",
+    "imdb": "tt4697134",
+    "tmdb": 374020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

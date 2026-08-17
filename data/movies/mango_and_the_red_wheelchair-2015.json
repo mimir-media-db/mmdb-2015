@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mango_and_the_red_wheelchair_2015",
+  "title": "Mango and the Red Wheelchair",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18456826",
+    "imdb": "tt3376820",
+    "tmdb": 919304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

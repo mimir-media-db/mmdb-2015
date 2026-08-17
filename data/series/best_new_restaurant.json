@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_best_new_restaurant",
+  "title": "Best New Restaurant",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18844738",
+    "imdb": "tt2817426",
+    "tmdb": 56059
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

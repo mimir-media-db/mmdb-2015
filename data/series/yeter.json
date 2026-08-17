@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yeter",
+  "title": "Yeter",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25478895",
+    "imdb": "tt0175594"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

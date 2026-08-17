@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_expanse",
+  "title": "The Expanse",
+  "start_year": 2015,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q18389644",
+    "imdb": "tt3230854",
+    "tmdb": 63639
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 62
+}

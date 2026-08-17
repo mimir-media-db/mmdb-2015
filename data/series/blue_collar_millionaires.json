@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_collar_millionaires",
+  "title": "Blue Collar Millionaires",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q20856851",
+    "imdb": "tt5518552",
+    "tmdb": 66412
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

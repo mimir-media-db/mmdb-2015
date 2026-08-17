@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_garage_2015",
+  "title": "Midnight Garage",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16976938",
+    "imdb": "tt8674684",
+    "tmdb": 343982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_capitaine_marleau",
+  "title": "Capitaine Marleau",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21028913",
+    "imdb": "tt5684214",
+    "tmdb": 71904
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

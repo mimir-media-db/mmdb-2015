@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_neon_joe_werewolf_hunter",
+  "title": "Neon Joe, Werewolf Hunter",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q21411046",
+    "imdb": "tt5176266",
+    "tmdb": 64643
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

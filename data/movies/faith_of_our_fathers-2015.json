@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faith_of_our_fathers_2015",
+  "title": "Faith of Our Fathers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538706",
+    "imdb": "tt1322393",
+    "tmdb": 335805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bondi_ink",
+  "title": "Bondi Ink",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q20967583",
+    "imdb": "tt3887992",
+    "tmdb": 70565
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

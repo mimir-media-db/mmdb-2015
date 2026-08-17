@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_grow_up_2015",
+  "title": "Don't Grow Up",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15992429",
+    "imdb": "tt3557406",
+    "tmdb": 362180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_escandalos",
+  "title": "Escándalos",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q21002803",
+    "imdb": "tt4559906",
+    "tmdb": 316757
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 45
+}

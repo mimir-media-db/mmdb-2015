@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_donnie_loves_jenny",
+  "title": "Donnie Loves Jenny",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20899431",
+    "imdb": "tt4322056",
+    "tmdb": 62998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

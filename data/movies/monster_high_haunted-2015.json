@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_high_haunted_2015",
+  "title": "Monster High: Haunted",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19865049",
+    "imdb": "tt4137924",
+    "tmdb": 324963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

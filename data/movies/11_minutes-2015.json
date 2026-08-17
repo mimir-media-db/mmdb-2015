@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_11_minutes_2015",
+  "title": "11 Minutes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19877180",
+    "imdb": "tt3865478",
+    "tmdb": 314371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

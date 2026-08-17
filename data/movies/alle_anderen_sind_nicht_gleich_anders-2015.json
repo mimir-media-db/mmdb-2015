@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alle_anderen_sind_nicht_gleich_anders_2015",
+  "title": "Alle anderen sind nicht gleich anders",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18977328",
+    "imdb": "tt2929964"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

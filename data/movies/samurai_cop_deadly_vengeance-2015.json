@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_cop_deadly_vengeance_2015",
+  "title": "Samurai Cop: Deadly Vengeance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899569",
+    "imdb": "tt3398252",
+    "tmdb": 284460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

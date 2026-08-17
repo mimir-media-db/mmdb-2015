@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_calle_de_los_pianistas_2015",
+  "title": "La calle de los pianistas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21401947",
+    "imdb": "tt4574526",
+    "tmdb": 355164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

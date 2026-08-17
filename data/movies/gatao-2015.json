@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gatao_2015",
+  "title": "Gatao",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18659167",
+    "imdb": "tt6159026",
+    "tmdb": 377579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

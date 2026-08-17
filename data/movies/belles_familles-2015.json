@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_belles_familles_2015",
+  "title": "Belles Familles",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17493894",
+    "imdb": "tt3613648",
+    "tmdb": 348025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

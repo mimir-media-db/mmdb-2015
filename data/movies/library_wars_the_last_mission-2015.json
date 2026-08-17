@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_library_wars_the_last_mission_2015",
+  "title": "Library Wars: The Last Mission",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198281",
+    "imdb": "tt4254046",
+    "tmdb": 363354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

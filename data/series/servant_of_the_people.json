@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_servant_of_the_people",
+  "title": "Servant of the People",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21546165",
+    "imdb": "tt6235122",
+    "tmdb": 64480
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 51
+}

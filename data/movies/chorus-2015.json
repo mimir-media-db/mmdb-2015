@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chorus_2015",
+  "title": "Chorus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18702007",
+    "imdb": "tt4040888",
+    "tmdb": 310507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 97
+}

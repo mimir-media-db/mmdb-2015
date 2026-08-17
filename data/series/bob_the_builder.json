@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bob_the_builder",
+  "title": "Bob the Builder",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q55011273",
+    "imdb": "tt13499396"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 130
+}

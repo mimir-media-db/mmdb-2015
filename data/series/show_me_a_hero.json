@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_a_hero",
+  "title": "Show Me a Hero",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18154031",
+    "imdb": "tt2492296",
+    "tmdb": 63248
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

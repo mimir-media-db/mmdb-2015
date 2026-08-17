@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gunjoiro_no_torimichi_2015",
+  "title": "Gunjōiro no, tōrimichi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18226408",
+    "imdb": "tt3981442",
+    "tmdb": 794354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

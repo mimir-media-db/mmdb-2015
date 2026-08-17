@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_mi_yue",
+  "title": "The Legend of Mi Yue",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18110046",
+    "imdb": "tt5247784",
+    "tmdb": 65255
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 81
+}

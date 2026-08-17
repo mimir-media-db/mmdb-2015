@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stones_from_the_desert_2015",
+  "title": "Stones from the Desert",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703888",
+    "imdb": "tt3455418",
+    "tmdb": 335902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spl_ii_2015",
+  "title": "SPL II",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16923905",
+    "imdb": "tt3197766",
+    "tmdb": 331576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

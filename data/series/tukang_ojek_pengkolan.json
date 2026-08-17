@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tukang_ojek_pengkolan",
+  "title": "Tukang Ojek Pengkolan",
+  "start_year": 2015,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q23832096",
+    "imdb": "tt15463600"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3522
+}

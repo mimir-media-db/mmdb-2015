@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_people_2015",
+  "title": "Nice People",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19977917",
+    "imdb": "tt4365412",
+    "tmdb": 322378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

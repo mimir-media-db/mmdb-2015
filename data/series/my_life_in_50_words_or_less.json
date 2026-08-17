@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_in_50_words_or_less",
+  "title": "My Life in 50 Words or Less",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18702408",
+    "imdb": "tt4781760",
+    "tmdb": 64568
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

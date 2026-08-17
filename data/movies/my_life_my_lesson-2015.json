@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_life_my_lesson_2015",
+  "title": "My Life My Lesson",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19060182",
+    "imdb": "tt4154132",
+    "tmdb": 532164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

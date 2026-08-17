@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chirp",
+  "title": "Chirp",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q28233138",
+    "imdb": "tt3523654",
+    "tmdb": 122767
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

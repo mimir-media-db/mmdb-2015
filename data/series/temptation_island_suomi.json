@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_temptation_island_suomi",
+  "title": "Temptation Island Suomi",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18698454",
+    "imdb": "tt4514104",
+    "tmdb": 114455
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 220
+}

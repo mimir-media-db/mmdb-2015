@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sata_lota_pan_sagla_khota_2015",
+  "title": "Sata Lota Pan Sagla Khota",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18355391",
+    "imdb": "tt5479606"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

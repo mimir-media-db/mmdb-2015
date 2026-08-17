@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_day_2015",
+  "title": "A Perfect Day",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16389827",
+    "imdb": "tt3577624",
+    "tmdb": 321751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

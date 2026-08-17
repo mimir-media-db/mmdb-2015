@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_virtual_bride",
+  "title": "The Virtual Bride",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20731271",
+    "imdb": "tt5074306",
+    "tmdb": 63618
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

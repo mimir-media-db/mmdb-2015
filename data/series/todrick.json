@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_todrick",
+  "title": "Todrick",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q85809909",
+    "imdb": "tt4635268",
+    "tmdb": 62885
+  },
+  "last_updated": "2026-08-17"
+}

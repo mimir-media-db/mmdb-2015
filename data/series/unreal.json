@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unreal",
+  "title": "Unreal",
+  "start_year": 2015,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q15724865",
+    "imdb": "tt3314218",
+    "tmdb": 62335
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 38
+}

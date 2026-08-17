@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christ_lives_in_siberia_2015",
+  "title": "Christ Lives in Siberia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999843",
+    "imdb": "tt5129768",
+    "tmdb": 322317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nina",
+  "title": "Nina",
+  "start_year": 2015,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q19365636",
+    "imdb": "tt4324330",
+    "tmdb": 66649
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 56
+}

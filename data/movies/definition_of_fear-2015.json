@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_definition_of_fear_2015",
+  "title": "Definition of Fear",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18350980",
+    "imdb": "tt2278911",
+    "tmdb": 395319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

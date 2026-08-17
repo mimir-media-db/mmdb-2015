@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_married_to_a_ghost_2015",
+  "title": "Married To A Ghost",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19852615",
+    "tmdb": 1485408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

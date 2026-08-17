@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_ossit_hob",
+  "title": "Ossit Hob",
+  "start_year": 2015,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q130610240"
+  },
+  "last_updated": "2026-08-17"
+}

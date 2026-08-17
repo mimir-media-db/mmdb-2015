@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_exo_next_door",
+  "title": "EXO Next Door",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20109216",
+    "imdb": "tt4775200",
+    "tmdb": 64127
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

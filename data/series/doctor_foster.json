@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_foster",
+  "title": "Doctor Foster",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16988855",
+    "imdb": "tt4602768",
+    "tmdb": 63913
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

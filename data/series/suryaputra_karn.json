@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_suryaputra_karn",
+  "title": "Suryaputra Karn",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19899044",
+    "imdb": "tt5328326",
+    "tmdb": 224201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 305
+}

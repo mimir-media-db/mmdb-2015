@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_west_texas_investors_club",
+  "title": "West Texas Investors Club",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20899667",
+    "imdb": "tt4970456",
+    "tmdb": 63941
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

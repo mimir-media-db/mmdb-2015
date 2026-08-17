@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nada_untuk_asa_2015",
+  "title": "Nada Untuk Asa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19729572",
+    "imdb": "tt5917494",
+    "tmdb": 324459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

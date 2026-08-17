@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_my_name_is_doris_2015",
+  "title": "Hello, My Name Is Doris",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18152484",
+    "imdb": "tt3766394",
+    "tmdb": 320588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_kiss_2015",
+  "title": "The Blue Kiss",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20105603",
+    "imdb": "tt4075276",
+    "tmdb": 653905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

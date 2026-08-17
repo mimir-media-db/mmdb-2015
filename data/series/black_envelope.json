@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_black_envelope",
+  "title": "The Black Envelope",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q41796293",
+    "imdb": "tt12479306",
+    "tmdb": 86335
+  },
+  "last_updated": "2026-08-17"
+}

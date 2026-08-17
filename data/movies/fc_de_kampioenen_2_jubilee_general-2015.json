@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fc_de_kampioenen_2_jubilee_general_2015",
+  "title": "F.C. De Kampioenen 2: Jubilee General!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20871409",
+    "imdb": "tt4002200",
+    "tmdb": 365271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

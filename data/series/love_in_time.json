@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_in_time",
+  "title": "Love in Time",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7617053",
+    "imdb": "tt7013698",
+    "tmdb": 90596
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

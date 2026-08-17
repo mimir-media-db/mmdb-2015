@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_box_25_2015",
+  "title": "Box 25",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20890590",
+    "imdb": "tt4624532",
+    "tmdb": 356777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_labor_of_love_2015",
+  "title": "Labor of Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214357",
+    "imdb": "tt1677731",
+    "tmdb": 1566505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

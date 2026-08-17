@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alem_do_tempo",
+  "title": "Além do Tempo",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21168990",
+    "imdb": "tt5158846",
+    "tmdb": 83595
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 161
+}

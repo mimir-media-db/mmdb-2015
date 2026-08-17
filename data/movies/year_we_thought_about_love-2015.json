@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_year_we_thought_about_love_2015",
+  "title": "The Year We Thought About Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19882013",
+    "imdb": "tt4065250",
+    "tmdb": 326273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

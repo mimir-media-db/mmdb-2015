@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_pan_prima_della_pan_2015",
+  "title": "Le Pan prima della Pan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21187863",
+    "imdb": "tt4965258"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 65
+}

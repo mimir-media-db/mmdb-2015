@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_buena_familia",
+  "title": "Buena Familia",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21965918",
+    "imdb": "tt6509578",
+    "tmdb": 75016
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 149
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_the_1980s_2015",
+  "title": "Love in the 1980s",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095393",
+    "imdb": "tt5004918",
+    "tmdb": 440068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

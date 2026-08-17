@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_in_deed_2015",
+  "title": "Free In Deed",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992385",
+    "imdb": "tt3510304",
+    "tmdb": 359666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}

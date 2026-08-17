@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wissper",
+  "title": "Wissper",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25407405",
+    "imdb": "tt5509510",
+    "tmdb": 91940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

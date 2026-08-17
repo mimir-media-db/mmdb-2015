@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_death_note",
+  "title": "Death Note",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19961524",
+    "imdb": "tt4623604",
+    "tmdb": 63648
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

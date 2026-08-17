@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_conflictos_modernos",
+  "title": "Conflictos modernos",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q22081876",
+    "imdb": "tt5943364",
+    "tmdb": 196823
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

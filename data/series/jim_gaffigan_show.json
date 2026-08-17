@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jim_gaffigan_show",
+  "title": "The Jim Gaffigan Show",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19775715",
+    "imdb": "tt3484406",
+    "tmdb": 62999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ho_mermaid_adventures",
+  "title": "H₂O: Mermaid Adventures",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18207593",
+    "imdb": "tt4610750",
+    "tmdb": 77020
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

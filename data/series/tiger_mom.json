@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tiger_mom",
+  "title": "Tiger Mom",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17054506",
+    "imdb": "tt3740548",
+    "tmdb": 63190
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

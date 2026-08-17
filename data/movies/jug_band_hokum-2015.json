@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jug_band_hokum_2015",
+  "title": "Jug Band Hokum",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824734",
+    "imdb": "tt4590534"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

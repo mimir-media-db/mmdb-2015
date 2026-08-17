@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_los_anos_dorados",
+  "title": "Los años dorados",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21003639",
+    "imdb": "tt5043906",
+    "tmdb": 104239
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

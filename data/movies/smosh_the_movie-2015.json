@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smosh_the_movie_2015",
+  "title": "Smosh: The Movie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19867843",
+    "imdb": "tt4184878",
+    "tmdb": 311615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

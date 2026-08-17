@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chandrettan_evideya_2015",
+  "title": "Chandrettan Evideya",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824600",
+    "imdb": "tt4648304",
+    "tmdb": 338694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_conan_without_borders",
+  "title": "Conan Without Borders",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q111909484",
+    "imdb": "tt20188720",
+    "tmdb": 327560
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

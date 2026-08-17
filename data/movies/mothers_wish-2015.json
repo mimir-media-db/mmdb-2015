@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_wish_2015",
+  "title": "Mother's Wish",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756922",
+    "imdb": "tt2862454",
+    "tmdb": 338794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

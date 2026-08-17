@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_live_with_models",
+  "title": "I Live with Models",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19880562",
+    "imdb": "tt4214468",
+    "tmdb": 62090
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

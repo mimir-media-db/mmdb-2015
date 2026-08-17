@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_votre_service",
+  "title": "A votre service",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22946171",
+    "imdb": "tt5684980",
+    "tmdb": 70611
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 49
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superwelt_2015",
+  "title": "Superwelt",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19309682",
+    "imdb": "tt4454246",
+    "tmdb": 331187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

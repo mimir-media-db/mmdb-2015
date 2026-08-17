@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_very_british_problems",
+  "title": "Very British Problems",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24083611",
+    "imdb": "tt4960806",
+    "tmdb": 83629
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

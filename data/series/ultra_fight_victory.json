@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ultra_fight_victory",
+  "title": "Ultra Fight Victory",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21025884",
+    "imdb": "tt4774374",
+    "tmdb": 214842
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

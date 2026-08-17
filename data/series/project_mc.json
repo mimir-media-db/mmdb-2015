@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_project_mc",
+  "title": "Project Mc²",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q22946175",
+    "imdb": "tt4861760",
+    "tmdb": 63454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 26
+}

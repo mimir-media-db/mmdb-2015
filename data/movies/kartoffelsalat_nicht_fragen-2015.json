@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kartoffelsalat_nicht_fragen_2015",
+  "title": "Kartoffelsalat – Nicht fragen!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20725541",
+    "imdb": "tt4404474",
+    "tmdb": 340401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chirakodinja_kinavukal_2015",
+  "title": "Chirakodinja Kinavukal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19891178",
+    "imdb": "tt4648298",
+    "tmdb": 339181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rabia",
+  "title": "Rabia",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21077108",
+    "imdb": "tt4068740",
+    "tmdb": 64039
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

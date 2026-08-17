@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_with_large_wings_2015",
+  "title": "Birds With Large Wings",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19882371",
+    "imdb": "tt4670590",
+    "tmdb": 389683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

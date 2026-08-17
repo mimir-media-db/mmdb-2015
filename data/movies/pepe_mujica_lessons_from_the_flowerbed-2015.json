@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pepe_mujica_lessons_from_the_flowerbed_2015",
+  "title": "Pepe Mujica – Lessons from the Flowerbed",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19593816",
+    "imdb": "tt4389756",
+    "tmdb": 323209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

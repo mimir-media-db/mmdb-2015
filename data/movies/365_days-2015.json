@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_365_days_2015",
+  "title": "365 Days",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735523",
+    "imdb": "tt4641602",
+    "tmdb": 530581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

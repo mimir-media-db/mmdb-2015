@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_a_soldier_2015",
+  "title": "I Am a Soldier",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824713",
+    "imdb": "tt4485178",
+    "tmdb": 336207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

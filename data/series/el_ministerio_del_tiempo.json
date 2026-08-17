@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_ministerio_del_tiempo",
+  "title": "El Ministerio del Tiempo",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q19361054",
+    "imdb": "tt4136774",
+    "tmdb": 62099
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 42
+}

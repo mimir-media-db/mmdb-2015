@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_nuestros",
+  "title": "Los nuestros",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19593970",
+    "imdb": "tt3749002",
+    "tmdb": 62191
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

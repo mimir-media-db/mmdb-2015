@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorrow_every_good_feeds_on_evil_2015",
+  "title": "Sorrow: Every Good Feeds On Evil",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19867904",
+    "imdb": "tt2140423",
+    "tmdb": 337879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

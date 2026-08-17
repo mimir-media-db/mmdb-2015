@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_90_minutes_in_heaven_2015",
+  "title": "90 Minutes in Heaven",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022598",
+    "imdb": "tt4337690",
+    "tmdb": 343795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 121
+}

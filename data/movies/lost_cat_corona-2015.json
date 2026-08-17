@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_cat_corona_2015",
+  "title": "Lost Cat Corona",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538729",
+    "imdb": "tt4382376",
+    "tmdb": 435580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

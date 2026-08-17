@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_entourage_2015",
+  "title": "Entourage",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15725811",
+    "imdb": "tt1674771",
+    "tmdb": 188222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

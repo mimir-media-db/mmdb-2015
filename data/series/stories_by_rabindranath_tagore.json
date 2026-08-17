@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stories_by_rabindranath_tagore",
+  "title": "Stories by Rabindranath Tagore",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24895160",
+    "imdb": "tt4853764",
+    "tmdb": 67113
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anton_tchekhov_1890_2015",
+  "title": "Anton Tchékhov 1890",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19951667",
+    "imdb": "tt4246758",
+    "tmdb": 270591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

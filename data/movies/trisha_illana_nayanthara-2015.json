@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trisha_illana_nayanthara_2015",
+  "title": "Trisha Illana Nayanthara",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19059631",
+    "imdb": "tt5029004",
+    "tmdb": 346667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

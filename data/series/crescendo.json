@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_crescendo",
+  "title": "Crescendo",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20062611",
+    "imdb": "tt12358382",
+    "tmdb": 125312
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

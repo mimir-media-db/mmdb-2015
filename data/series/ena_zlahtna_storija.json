@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ena_zlahtna_storija",
+  "title": "Ena zlahtna storija",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20524277",
+    "imdb": "tt5046672",
+    "tmdb": 70655
+  },
+  "last_updated": "2026-08-17"
+}

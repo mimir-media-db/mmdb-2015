@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bubble_gum",
+  "title": "Bubble Gum",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21034500",
+    "imdb": "tt5153782",
+    "tmdb": 64061
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

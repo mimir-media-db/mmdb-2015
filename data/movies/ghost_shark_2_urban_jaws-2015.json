@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_shark_2_urban_jaws_2015",
+  "title": "Ghost Shark 2: Urban Jaws",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5557147",
+    "imdb": "tt1732651",
+    "tmdb": 204473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

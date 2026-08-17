@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_an_old_hunters_tale_2015",
+  "title": "The Tiger: An Old Hunter's Tale",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20651708",
+    "imdb": "tt5066556",
+    "tmdb": 363093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 139
+}

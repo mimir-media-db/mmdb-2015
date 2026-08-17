@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rajababu_the_power_2015",
+  "title": "Rajababu - The Power",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065426",
+    "imdb": "tt6079356",
+    "tmdb": 537437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_richard_the_lionheart_rebellion_2015",
+  "title": "Richard the Lionheart: Rebellion",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18153541",
+    "imdb": "tt3251306",
+    "tmdb": 362230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 96
+}

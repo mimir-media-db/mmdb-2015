@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_elisha",
+  "title": "Elisha",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q25490790",
+    "imdb": "tt5685420",
+    "tmdb": 52355
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 110
+}

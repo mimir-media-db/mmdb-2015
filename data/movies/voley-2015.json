@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voley_2015",
+  "title": "Voley",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20347724",
+    "imdb": "tt4203284",
+    "tmdb": 331424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_expedition_unknown",
+  "title": "Expedition Unknown",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19263605",
+    "imdb": "tt4305162",
+    "tmdb": 61833
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 35
+}

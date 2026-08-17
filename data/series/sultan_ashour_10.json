@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sultan_ashour_10",
+  "title": "Sultan Ashour 10",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20417277",
+    "imdb": "tt6548854",
+    "tmdb": 207136
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 66
+}

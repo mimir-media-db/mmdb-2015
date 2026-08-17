@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madhura_naranga_2015",
+  "title": "Madhura Naranga",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720688",
+    "imdb": "tt4866654",
+    "tmdb": 351241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

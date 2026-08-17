@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_in_successville",
+  "title": "Murder in Successville",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19954629",
+    "imdb": "tt4673856",
+    "tmdb": 62623
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

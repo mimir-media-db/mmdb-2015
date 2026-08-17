@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mandingo_sex_addict_2015",
+  "title": "Mandingo Sex Addict",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095397",
+    "imdb": "tt3171568",
+    "tmdb": 716818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 63
+}

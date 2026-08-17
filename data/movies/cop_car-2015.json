@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cop_car_2015",
+  "title": "Cop Car",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824612",
+    "imdb": "tt3813310",
+    "tmdb": 310133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

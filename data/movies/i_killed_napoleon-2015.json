@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_killed_napoleon_2015",
+  "title": "I Killed Napoléon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19631764",
+    "imdb": "tt4571838",
+    "tmdb": 332709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

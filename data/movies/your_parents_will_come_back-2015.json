@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_parents_will_come_back_2015",
+  "title": "Your Parents Will Come Back",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20725563",
+    "imdb": "tt4679076",
+    "tmdb": 773862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

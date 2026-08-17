@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dum_laga_ke_haisha_2015",
+  "title": "Dum Laga Ke Haisha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17198908",
+    "imdb": "tt3495030",
+    "tmdb": 325138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 109
+}

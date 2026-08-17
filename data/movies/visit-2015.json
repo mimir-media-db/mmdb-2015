@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_visit_2015",
+  "title": "The Visit",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18386312",
+    "imdb": "tt3567288",
+    "tmdb": 298312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

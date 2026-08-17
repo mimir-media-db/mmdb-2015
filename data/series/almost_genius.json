@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_almost_genius",
+  "title": "Almost Genius",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21775651",
+    "imdb": "tt5047510",
+    "tmdb": 74884
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

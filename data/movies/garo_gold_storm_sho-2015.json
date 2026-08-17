@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_garo_gold_storm_sho_2015",
+  "title": "Garo: Gold Storm Sho",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19798580",
+    "imdb": "tt11656672"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

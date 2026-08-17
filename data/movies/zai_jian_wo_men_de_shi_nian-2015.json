@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zai_jian_wo_men_de_shi_nian_2015",
+  "title": "Zai Jian Wo Men De Shi Nian",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538770",
+    "imdb": "tt6448944"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

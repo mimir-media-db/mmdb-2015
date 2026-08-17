@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bizim_hikaye_2015",
+  "title": "Bizim Hikaye",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19610809",
+    "imdb": "tt4558362",
+    "tmdb": 376050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

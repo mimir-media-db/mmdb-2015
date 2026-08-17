@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_senorita_polvora",
+  "title": "Señorita Pólvora",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18378180",
+    "imdb": "tt3986120",
+    "tmdb": 63123
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 70
+}

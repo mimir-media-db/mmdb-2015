@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rosewood",
+  "title": "Rosewood",
+  "start_year": 2015,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19904556",
+    "imdb": "tt4465472",
+    "tmdb": 63329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 44
+}

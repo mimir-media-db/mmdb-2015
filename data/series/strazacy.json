@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strazacy",
+  "title": "Strazacy",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21328508",
+    "imdb": "tt4584746",
+    "tmdb": 81862
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

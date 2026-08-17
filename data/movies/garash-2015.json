@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garash_2015",
+  "title": "GaraSh",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20677453",
+    "imdb": "tt5202266",
+    "tmdb": 643497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 61
+}
