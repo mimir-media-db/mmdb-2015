@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neon_bull_2015",
+  "title": "Neon Bull",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20856984",
+    "imdb": "tt4899406",
+    "tmdb": 314029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 101
+}

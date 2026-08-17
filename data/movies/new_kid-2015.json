@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_kid_2015",
+  "title": "The New Kid",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009249",
+    "imdb": "tt3814316",
+    "tmdb": 358430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

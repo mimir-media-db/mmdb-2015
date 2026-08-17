@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nan_love_track_2015",
+  "title": "Nan Love Track",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263832",
+    "imdb": "tt13187882"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

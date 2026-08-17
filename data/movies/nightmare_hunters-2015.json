@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_hunters_2015",
+  "title": "Nightmare Hunters",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17144244",
+    "imdb": "tt2470102",
+    "tmdb": 486605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_non_ce_2_senza_te_2015",
+  "title": "Non c'è 2 senza te",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18971274",
+    "imdb": "tt3835904",
+    "tmdb": 323659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neko_nanga_yondemo_konai_2015",
+  "title": "Neko nanga yondemo konai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21400332",
+    "imdb": "tt4202960",
+    "tmdb": 403383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

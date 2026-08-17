@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nilalang_2015",
+  "title": "Nilalang",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203417",
+    "imdb": "tt5216674",
+    "tmdb": 373786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

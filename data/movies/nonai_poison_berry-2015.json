@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nonai_poison_berry_2015",
+  "title": "Nōnai Poison Berry",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11612258",
+    "imdb": "tt4063438",
+    "tmdb": 352694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
