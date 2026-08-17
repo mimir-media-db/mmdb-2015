@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harukos_paranormal_laboratory_2015",
+  "title": "Haruko's Paranormal Laboratory",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97311401",
+    "imdb": "tt4343040",
+    "tmdb": 316887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-05",
+  "runtime_minutes": 76
+}

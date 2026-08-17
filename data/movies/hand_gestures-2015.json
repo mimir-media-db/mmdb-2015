@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hand_gestures_2015",
+  "title": "Hand Gestures",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21075747",
+    "imdb": "tt4075804",
+    "tmdb": 325550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 77
+}

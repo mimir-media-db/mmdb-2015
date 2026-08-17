@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_himmelverbot_2015",
+  "title": "Himmelverbot",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20740018",
+    "imdb": "tt4190982",
+    "tmdb": 893895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-19",
+  "runtime_minutes": 90
+}

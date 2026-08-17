@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_half_brothers_2015",
+  "title": "Half Brothers",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008412",
+    "imdb": "tt3165178",
+    "tmdb": 328039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 116
+}

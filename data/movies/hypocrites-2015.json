@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hypocrites_2015",
+  "title": "The Hypocrites",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21710204",
+    "imdb": "tt6423602",
+    "tmdb": 393831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-26"
+}

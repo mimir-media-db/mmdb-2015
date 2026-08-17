@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hawaizaada_2015",
+  "title": "Hawaizaada",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17198964",
+    "imdb": "tt4338154",
+    "tmdb": 318106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-30",
+  "runtime_minutes": 148
+}

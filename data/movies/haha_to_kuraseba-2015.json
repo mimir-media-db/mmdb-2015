@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haha_to_kuraseba_2015",
+  "title": "Haha to Kuraseba",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20042315",
+    "imdb": "tt4287852",
+    "tmdb": 380341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-12",
+  "runtime_minutes": 130
+}

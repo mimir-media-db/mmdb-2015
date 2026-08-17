@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_in_love_2015",
+  "title": "Hello: In Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35993155",
+    "imdb": "tt5311290"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-25"
+}

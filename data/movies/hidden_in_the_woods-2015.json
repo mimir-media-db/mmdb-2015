@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_in_the_woods_2015",
+  "title": "Hidden in the Woods",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3785474",
+    "imdb": "tt1920956",
+    "tmdb": 127843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-23",
+  "runtime_minutes": 95
+}

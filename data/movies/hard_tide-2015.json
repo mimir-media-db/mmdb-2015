@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_tide_2015",
+  "title": "Hard Tide",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42048317",
+    "imdb": "tt3116054",
+    "tmdb": 395235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25",
+  "runtime_minutes": 90
+}

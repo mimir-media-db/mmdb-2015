@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_hour_in_paradise_2015",
+  "title": "Happy Hour in Paradise",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19060222",
+    "imdb": "tt3459004",
+    "tmdb": 343814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-03",
+  "runtime_minutes": 86
+}

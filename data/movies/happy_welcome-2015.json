@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_welcome_2015",
+  "title": "Happy Welcome",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21226415",
+    "imdb": "tt5209872",
+    "tmdb": 369546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-19"
+}

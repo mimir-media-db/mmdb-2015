@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_humpback_whales_2015",
+  "title": "Humpback Whales",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115323918",
+    "imdb": "tt4283962",
+    "tmdb": 323599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

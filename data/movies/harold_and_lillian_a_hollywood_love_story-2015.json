@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harold_and_lillian_a_hollywood_love_story_2015",
+  "title": "Harold and Lillian: A Hollywood Love Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61718144",
+    "imdb": "tt4683668",
+    "tmdb": 367966
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-23",
+  "runtime_minutes": 94
+}

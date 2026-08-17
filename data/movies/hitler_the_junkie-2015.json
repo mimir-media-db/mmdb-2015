@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hitler_the_junkie_2015",
+  "title": "Hitler the Junkie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643457",
+    "imdb": "tt12450686",
+    "tmdb": 697981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

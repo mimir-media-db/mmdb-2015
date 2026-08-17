@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_hated_pigeons_2015",
+  "title": "He Hated Pigeons",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104879153",
+    "imdb": "tt4692226",
+    "tmdb": 364515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 80
+}

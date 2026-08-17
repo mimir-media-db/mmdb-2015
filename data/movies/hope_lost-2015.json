@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hope_lost_2015",
+  "title": "Hope Lost",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55613941",
+    "imdb": "tt3610576",
+    "tmdb": 298031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

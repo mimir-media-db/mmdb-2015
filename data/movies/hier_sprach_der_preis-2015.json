@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hier_sprach_der_preis_2015",
+  "title": "Hier sprach der Preis",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28191374",
+    "imdb": "tt4697732",
+    "tmdb": 1204135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-21"
+}

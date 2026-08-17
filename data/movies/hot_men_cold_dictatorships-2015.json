@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_men_cold_dictatorships_2015",
+  "title": "Hot Men Cold Dictatorships",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61663596",
+    "imdb": "tt4070672",
+    "tmdb": 487058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-02",
+  "runtime_minutes": 98
+}

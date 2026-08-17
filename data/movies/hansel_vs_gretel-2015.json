@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hansel_vs_gretel_2015",
+  "title": "Hansel vs. Gretel",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64584872",
+    "imdb": "tt4145350",
+    "tmdb": 319847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-20",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_guards_2015",
+  "title": "Home Guards",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48966245",
+    "imdb": "tt3096386",
+    "tmdb": 405120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 112
+}

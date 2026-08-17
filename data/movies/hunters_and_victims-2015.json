@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunters_and_victims_2015",
+  "title": "Hunters and Victims",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15905869",
+    "imdb": "tt3037082",
+    "tmdb": 329655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 104
+}

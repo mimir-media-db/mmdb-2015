@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_he_named_me_malala_2015",
+  "title": "He Named Me Malala",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19878674",
+    "imdb": "tt3065132",
+    "tmdb": 338928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 88
+}

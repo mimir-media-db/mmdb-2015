@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_property_2015",
+  "title": "Hot Property",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25209483",
+    "imdb": "tt3515318",
+    "tmdb": 461698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

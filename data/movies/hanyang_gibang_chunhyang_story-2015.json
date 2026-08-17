@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hanyang_gibang_chunhyang_story_2015",
+  "title": "Hanyang Gibang Chunhyang Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738508",
+    "tmdb": 397467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

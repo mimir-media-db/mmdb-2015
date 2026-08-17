@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayat_opucugu_2015",
+  "title": "Hayat Öpücügü",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21526220",
+    "imdb": "tt5036442",
+    "tmdb": 393478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 102
+}
