@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heroes_reborn",
+  "title": "Heroes Reborn",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18957824",
+    "imdb": "tt3556944",
+    "tmdb": 60858
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

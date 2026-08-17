@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hunted",
+  "title": "Hunted",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21427546",
+    "imdb": "tt5038678",
+    "tmdb": 63892
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8
+}

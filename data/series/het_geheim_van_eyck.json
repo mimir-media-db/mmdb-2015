@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_het_geheim_van_eyck",
+  "title": "Het geheim van Eyck",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21450881",
+    "imdb": "tt4662902",
+    "tmdb": 246607
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

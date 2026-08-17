@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hunt",
+  "title": "The Hunt",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21428156",
+    "imdb": "tt5167198",
+    "tmdb": 64313
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hindsight",
+  "title": "Hindsight",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18786444",
+    "imdb": "tt3597470",
+    "tmdb": 26103
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heathrow_britains_busiest_airport",
+  "title": "Heathrow: Britain's Busiest Airport",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24807154",
+    "imdb": "tt6169802",
+    "tmdb": 68864
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 3
+}

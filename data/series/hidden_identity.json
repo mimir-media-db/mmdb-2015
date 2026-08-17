@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hidden_identity",
+  "title": "Hidden Identity",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19598928",
+    "imdb": "tt4780416",
+    "tmdb": 62952
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

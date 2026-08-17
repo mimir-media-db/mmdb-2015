@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_bluebird",
+  "title": "House of Bluebird",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18605865",
+    "imdb": "tt4602964",
+    "tmdb": 62667
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

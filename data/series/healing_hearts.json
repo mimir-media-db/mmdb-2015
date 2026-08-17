@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_healing_hearts",
+  "title": "Healing Hearts",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18758152",
+    "imdb": "tt6826388",
+    "tmdb": 221304
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 89
+}

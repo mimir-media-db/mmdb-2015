@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_hi5_fiesta",
+  "title": "Hi-5 Fiesta",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20015408"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

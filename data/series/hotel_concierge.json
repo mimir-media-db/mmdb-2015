@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_concierge",
+  "title": "Hotel Concierge",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20631854",
+    "imdb": "tt4730812",
+    "tmdb": 84487
+  },
+  "last_updated": "2026-08-17"
+}
