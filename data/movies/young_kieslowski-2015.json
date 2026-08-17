@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_kieslowski_2015",
+  "title": "The Young Kieslowski",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18157135",
+    "imdb": "tt2912120",
+    "tmdb": 273912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-24",
+  "runtime_minutes": 94
+}

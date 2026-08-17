@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yes_men_are_revolting_2015",
+  "title": "The Yes Men Are Revolting",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20630763",
+    "imdb": "tt2531282",
+    "tmdb": 284246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-20",
+  "runtime_minutes": 91
+}

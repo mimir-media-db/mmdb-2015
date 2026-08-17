@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_youtube_bazaar_2015",
+  "title": "YouTube Bazaar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44877043",
+    "imdb": "tt2577874",
+    "tmdb": 435836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-03"
+}

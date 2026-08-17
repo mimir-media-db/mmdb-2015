@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaara_silly_silly_2015",
+  "title": "Yaara Silly Silly",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647316",
+    "imdb": "tt5052972",
+    "tmdb": 361911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
