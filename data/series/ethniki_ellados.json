@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ethniki_ellados",
+  "title": "Ethniki Ellados",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19611473",
+    "imdb": "tt4421462",
+    "tmdb": 62658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

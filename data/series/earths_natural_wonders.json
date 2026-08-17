@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_earths_natural_wonders",
+  "title": "Earth's Natural Wonders",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q64871878",
+    "imdb": "tt4483562",
+    "tmdb": 85379
+  },
+  "last_updated": "2026-08-17"
+}
