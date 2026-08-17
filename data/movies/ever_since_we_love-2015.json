@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ever_since_we_love_2015",
+  "title": "Ever Since We Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363400",
+    "imdb": "tt4255554",
+    "tmdb": 305312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17",
+  "runtime_minutes": 105
+}

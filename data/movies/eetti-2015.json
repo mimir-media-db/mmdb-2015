@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eetti_2015",
+  "title": "Eetti",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248189",
+    "imdb": "tt5290414",
+    "tmdb": 280878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-11",
+  "runtime_minutes": 145
+}

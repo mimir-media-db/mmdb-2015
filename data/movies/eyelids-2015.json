@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eyelids_2015",
+  "title": "Eyelids",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21503515",
+    "imdb": "tt5143858",
+    "tmdb": 369847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

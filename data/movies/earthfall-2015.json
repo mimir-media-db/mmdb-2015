@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earthfall_2015",
+  "title": "Earthfall",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106764546",
+    "imdb": "tt3630556",
+    "tmdb": 353257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

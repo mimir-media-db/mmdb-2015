@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_umeed_2015",
+  "title": "Ek Umeed",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113720009",
+    "imdb": "tt13231276"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-09"
+}

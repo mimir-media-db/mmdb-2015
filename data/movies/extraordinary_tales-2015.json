@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extraordinary_tales_2015",
+  "title": "Extraordinary Tales",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57708048",
+    "imdb": "tt3454574",
+    "tmdb": 329020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-10",
+  "runtime_minutes": 73
+}

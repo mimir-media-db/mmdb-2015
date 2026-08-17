@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_clasico_2015",
+  "title": "El clásico",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26825128",
+    "imdb": "tt4796848",
+    "tmdb": 371893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-09",
+  "runtime_minutes": 95
+}

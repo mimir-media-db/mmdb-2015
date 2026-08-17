@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elstree_1976_2015",
+  "title": "Elstree 1976",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427387",
+    "imdb": "tt4558042",
+    "tmdb": 322506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-09",
+  "runtime_minutes": 101
+}

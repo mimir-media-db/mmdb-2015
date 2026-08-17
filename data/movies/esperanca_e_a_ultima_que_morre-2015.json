@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esperanca_e_a_ultima_que_morre_2015",
+  "title": "A Esperança é a Última que Morre",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30927222",
+    "imdb": "tt3447830",
+    "tmdb": 227964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

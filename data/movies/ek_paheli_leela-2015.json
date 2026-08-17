@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_paheli_leela_2015",
+  "title": "Ek Paheli Leela",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21107374",
+    "imdb": "tt4500734",
+    "tmdb": 334875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10"
+}

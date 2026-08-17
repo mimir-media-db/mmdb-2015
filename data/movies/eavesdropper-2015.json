@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eavesdropper_2015",
+  "title": "The Eavesdropper",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575983",
+    "imdb": "tt12206996"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

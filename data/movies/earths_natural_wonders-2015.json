@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earths_natural_wonders_2015",
+  "title": "Earth's Natural Wonders",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64871878",
+    "imdb": "tt4483562",
+    "tmdb": 388207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-05",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_secuestro_2015",
+  "title": "El secuestro",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123434874",
+    "imdb": "tt20604518"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

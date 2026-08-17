@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ego_trip_2015",
+  "title": "Ego Trip",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008371",
+    "imdb": "tt4772750",
+    "tmdb": 368608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

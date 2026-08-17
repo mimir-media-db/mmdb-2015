@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_east_side_sushi_2015",
+  "title": "East Side Sushi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703224",
+    "imdb": "tt2340650",
+    "tmdb": 257245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18",
+  "runtime_minutes": 106
+}
