@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jens_munk_nordvestxpeditionen_2015",
+  "title": "Jens Munk NordvestXpeditionen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31209863",
+    "imdb": "tt4665360"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jacques_tourneur_le_medium_2015",
+  "title": "Jacques Tourneur, le médium",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60847740",
+    "imdb": "tt5754006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 60
+}

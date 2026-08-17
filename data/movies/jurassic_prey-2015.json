@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jurassic_prey_2015",
+  "title": "Jurassic Prey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60813746",
+    "imdb": "tt3469284",
+    "tmdb": 347064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-23",
+  "runtime_minutes": 87
+}

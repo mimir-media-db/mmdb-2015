@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jackson_durai_2015",
+  "title": "Jackson Durai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814578",
+    "imdb": "tt4642386",
+    "tmdb": 371815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-26"
+}

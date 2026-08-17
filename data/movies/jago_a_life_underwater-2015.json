@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jago_a_life_underwater_2015",
+  "title": "Jago: A Life Underwater",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47920374",
+    "imdb": "tt5141686",
+    "tmdb": 419109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 48
+}

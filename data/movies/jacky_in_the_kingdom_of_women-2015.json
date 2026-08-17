@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jacky_in_the_kingdom_of_women_2015",
+  "title": "Jacky in the Kingdom of Women",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16325320",
+    "imdb": "tt2382422",
+    "tmdb": 223954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 93
+}

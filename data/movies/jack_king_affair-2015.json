@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_king_affair_2015",
+  "title": "The Jack King Affair",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47087136",
+    "imdb": "tt7833994",
+    "tmdb": 496658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

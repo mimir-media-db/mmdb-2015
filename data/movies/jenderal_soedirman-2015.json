@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jenderal_soedirman_2015",
+  "title": "Jenderal Soedirman",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31175021",
+    "imdb": "tt5581630",
+    "tmdb": 405773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27",
+  "runtime_minutes": 126
+}

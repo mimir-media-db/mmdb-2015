@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_james_alice_2015",
+  "title": "James & Alice",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20900124",
+    "imdb": "tt5356300",
+    "tmdb": 407398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-16"
+}

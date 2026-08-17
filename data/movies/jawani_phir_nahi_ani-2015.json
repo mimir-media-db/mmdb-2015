@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jawani_phir_nahi_ani_2015",
+  "title": "Jawani Phir Nahi Ani",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892170",
+    "imdb": "tt4692368",
+    "tmdb": 361759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25",
+  "runtime_minutes": 156
+}

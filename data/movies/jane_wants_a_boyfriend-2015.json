@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_wants_a_boyfriend_2015",
+  "title": "Jane Wants a Boyfriend",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755522",
+    "imdb": "tt3302654",
+    "tmdb": 355890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-06",
+  "runtime_minutes": 101
+}

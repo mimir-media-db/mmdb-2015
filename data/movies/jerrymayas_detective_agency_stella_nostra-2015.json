@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerrymayas_detective_agency_stella_nostra_2015",
+  "title": "JerryMaya's Detective Agency - Stella Nostra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291669",
+    "imdb": "tt4397382",
+    "tmdb": 363607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16",
+  "runtime_minutes": 71
+}

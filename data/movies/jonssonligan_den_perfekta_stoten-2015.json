@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jonssonligan_den_perfekta_stoten_2015",
+  "title": "Jönssonligan – Den perfekta stöten",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15401854",
+    "imdb": "tt3220192",
+    "tmdb": 308160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-16",
+  "runtime_minutes": 91
+}

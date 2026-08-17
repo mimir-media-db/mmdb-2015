@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juniper_lane_2015",
+  "title": "Juniper Lane",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131629714",
+    "imdb": "tt4939980",
+    "tmdb": 488827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

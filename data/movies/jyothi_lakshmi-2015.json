@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jyothi_lakshmi_2015",
+  "title": "Jyothi Lakshmi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892266",
+    "imdb": "tt4786610",
+    "tmdb": 371683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jurassic_city_2015",
+  "title": "Jurassic City",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77906219",
+    "imdb": "tt2905674",
+    "tmdb": 315024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

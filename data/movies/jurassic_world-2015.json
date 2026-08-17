@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jurassic_world_2015",
+  "title": "Jurassic World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3512046",
+    "imdb": "tt0369610",
+    "tmdb": 135397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29",
+  "runtime_minutes": 124
+}

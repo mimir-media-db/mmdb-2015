@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_get_married_2015",
+  "title": "Just Get Married",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22101197",
+    "imdb": "tt6409682",
+    "tmdb": 655728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
