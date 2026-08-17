@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grasshopper_2015",
+  "title": "Grasshopper",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11300170",
+    "imdb": "tt3846972",
+    "tmdb": 313219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghoul_2015",
+  "title": "Ghoul",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824677",
+    "imdb": "tt3101132",
+    "tmdb": 329205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

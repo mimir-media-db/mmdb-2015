@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gridlocked_2015",
+  "title": "Gridlocked",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20709965",
+    "imdb": "tt2724532",
+    "tmdb": 356334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

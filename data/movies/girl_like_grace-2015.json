@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_like_grace_2015",
+  "title": "A Girl Like Grace",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21040971",
+    "imdb": "tt3507138",
+    "tmdb": 361588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}

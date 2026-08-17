@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gue_bukan_pocong_2015",
+  "title": "Gue Bukan Pocong",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19726059",
+    "tmdb": 1012238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
