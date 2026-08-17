@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beeba_boys_2015",
+  "title": "Beeba Boys",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751311",
+    "imdb": "tt4170186",
+    "tmdb": 339043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}

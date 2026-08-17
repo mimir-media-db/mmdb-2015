@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bas_ek_chance_2015",
+  "title": "Bas Ek Chance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899397",
+    "imdb": "tt5048612",
+    "tmdb": 407002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

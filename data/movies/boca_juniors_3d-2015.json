@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boca_juniors_3d_2015",
+  "title": "Boca Juniors 3D",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20972049",
+    "imdb": "tt3729222",
+    "tmdb": 383740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 108
+}

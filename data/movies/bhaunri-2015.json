@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhaunri_2015",
+  "title": "Bhaunri",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263536",
+    "imdb": "tt4345150"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

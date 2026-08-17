@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babyalone_2015",
+  "title": "Baby(a)lone",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466221",
+    "imdb": "tt3301888",
+    "tmdb": 330847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

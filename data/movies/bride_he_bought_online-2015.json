@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_he_bought_online_2015",
+  "title": "The Bride He Bought Online",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751314",
+    "imdb": "tt4819458",
+    "tmdb": 350931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

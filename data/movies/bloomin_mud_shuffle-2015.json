@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloomin_mud_shuffle_2015",
+  "title": "Bloomin Mud Shuffle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20735539",
+    "imdb": "tt3690174",
+    "tmdb": 335396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

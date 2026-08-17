@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_black_2015",
+  "title": "Black",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427136",
+    "imdb": "tt7254796",
+    "tmdb": 754752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baankey_ki_crazy_baraat_2015",
+  "title": "Baankey Ki Crazy Baraat",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21064743",
+    "imdb": "tt4177040",
+    "tmdb": 360191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

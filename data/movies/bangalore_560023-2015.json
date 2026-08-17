@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangalore_560023_2015",
+  "title": "Bangalore 560023",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21427089",
+    "imdb": "tt5343960",
+    "tmdb": 418594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

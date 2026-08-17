@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bizarre_2015",
+  "title": "Bizarre",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811592",
+    "imdb": "tt3904272",
+    "tmdb": 318040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

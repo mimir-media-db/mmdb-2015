@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_billion_dollar_bully_2015",
+  "title": "Billion Dollar Bully",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19801754",
+    "imdb": "tt4645636",
+    "tmdb": 444055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 61
+}

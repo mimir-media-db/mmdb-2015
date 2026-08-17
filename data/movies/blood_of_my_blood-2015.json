@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_of_my_blood_2015",
+  "title": "Blood of My Blood",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751313",
+    "imdb": "tt2922590",
+    "tmdb": 314400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

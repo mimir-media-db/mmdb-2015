@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_school_diaries_2015",
+  "title": "The Blue School Diaries",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19678854",
+    "imdb": "tt4607538"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
