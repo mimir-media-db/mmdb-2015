@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_days_in_syria_2015",
+  "title": "7 Days in Syria",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590993",
+    "imdb": "tt2634576",
+    "tmdb": 491134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}
