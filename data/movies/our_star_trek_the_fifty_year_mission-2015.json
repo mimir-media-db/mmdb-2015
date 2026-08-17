@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_star_trek_the_fifty_year_mission_2015",
+  "title": "Our Star Trek: The Fifty Year Mission",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24463345",
+    "imdb": "tt4154074",
+    "tmdb": 470605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 11
+}

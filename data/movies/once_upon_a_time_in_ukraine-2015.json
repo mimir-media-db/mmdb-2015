@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_ukraine_2015",
+  "title": "Once upon a time in Ukraine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25431620",
+    "imdb": "tt3789452",
+    "tmdb": 306722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-10",
+  "runtime_minutes": 100
+}

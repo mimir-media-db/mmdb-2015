@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_new_generation_pani_2015",
+  "title": "Oru New Generation Pani",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29471671",
+    "tmdb": 405378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-03"
+}

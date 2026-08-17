@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_the_dead_2015",
+  "title": "Only the Dead",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46953499",
+    "imdb": "tt3587396",
+    "tmdb": 344170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 77
+}

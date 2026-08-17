@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_okpiks_dream_2015",
+  "title": "Okpik's Dream",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24211478",
+    "imdb": "tt4327534",
+    "tmdb": 985984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-29"
+}

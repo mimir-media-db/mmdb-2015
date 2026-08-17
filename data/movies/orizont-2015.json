@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orizont_2015",
+  "title": "Orizont",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26819108",
+    "imdb": "tt4568268",
+    "tmdb": 369846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-01",
+  "runtime_minutes": 93
+}

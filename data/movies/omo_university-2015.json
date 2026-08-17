@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_omo_university_2015",
+  "title": "Omo University",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134446202",
+    "imdb": "tt21192566"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22"
+}

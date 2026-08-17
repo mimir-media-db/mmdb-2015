@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_way_trip_2015",
+  "title": "One Way Trip",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22666603",
+    "imdb": "tt5559586",
+    "tmdb": 381375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_to_win_2015",
+  "title": "Out to Win",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786430",
+    "imdb": "tt3710096",
+    "tmdb": 324292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oru_naal_iravil_2015",
+  "title": "Oru Naal Iravil",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646818",
+    "imdb": "tt4898962",
+    "tmdb": 368285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-20"
+}

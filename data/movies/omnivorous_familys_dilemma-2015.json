@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_omnivorous_familys_dilemma_2015",
+  "title": "An Omnivorous Family's Dilemma",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24000556",
+    "imdb": "tt4282926",
+    "tmdb": 331423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outcast_2015",
+  "title": "Outcast",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16056026",
+    "imdb": "tt1552224",
+    "tmdb": 289720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-06",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_outsider_mean_streets_2015",
+  "title": "The Outsider: Mean Streets",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939753",
+    "tmdb": 348010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-04"
+}

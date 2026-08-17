@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outer_man_2015",
+  "title": "Outer Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22130429",
+    "imdb": "tt5178534",
+    "tmdb": 560470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

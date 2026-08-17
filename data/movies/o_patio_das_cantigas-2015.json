@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_patio_das_cantigas_2015",
+  "title": "O Pátio das Cantigas",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21337097",
+    "imdb": "tt3983464",
+    "tmdb": 335602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-30",
+  "runtime_minutes": 111
+}

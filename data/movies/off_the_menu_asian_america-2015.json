@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_off_the_menu_asian_america_2015",
+  "title": "Off the Menu: Asian America",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23680646",
+    "imdb": "tt4484206",
+    "tmdb": 372211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-15"
+}

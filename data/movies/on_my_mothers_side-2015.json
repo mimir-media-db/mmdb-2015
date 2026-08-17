@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_my_mothers_side_2015",
+  "title": "On My Mother's Side",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96397390",
+    "imdb": "tt3410898",
+    "tmdb": 407550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-11",
+  "runtime_minutes": 92
+}

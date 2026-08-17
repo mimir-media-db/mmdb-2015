@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_shark_and_man_2015",
+  "title": "Of Shark and Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48797117",
+    "imdb": "tt5723720",
+    "tmdb": 529493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

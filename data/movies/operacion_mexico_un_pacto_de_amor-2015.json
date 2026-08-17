@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operacion_mexico_un_pacto_de_amor_2015",
+  "title": "Operación México, un pacto de amor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135689097",
+    "imdb": "tt5143716",
+    "tmdb": 447321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

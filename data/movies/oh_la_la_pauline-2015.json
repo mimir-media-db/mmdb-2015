@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_la_la_pauline_2015",
+  "title": "Oh La La Pauline!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23715851",
+    "imdb": "tt4692994",
+    "tmdb": 370879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

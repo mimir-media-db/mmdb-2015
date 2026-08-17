@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ouija_experiment_2_theatre_of_death_2015",
+  "title": "The Ouija Experiment 2: Theatre of Death",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46392488",
+    "imdb": "tt3727824",
+    "tmdb": 309063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}
