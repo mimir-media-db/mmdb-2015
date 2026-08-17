@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_prophet_2015",
+  "title": "The Night of the Prophet",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21058544",
+    "imdb": "tt4793630",
+    "tmdb": 282331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10"
+}

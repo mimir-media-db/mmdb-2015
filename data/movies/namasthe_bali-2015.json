@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_namasthe_bali_2015",
+  "title": "Namasthe Bali",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411332",
+    "imdb": "tt4670926",
+    "tmdb": 341453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

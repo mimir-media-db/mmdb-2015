@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nous_quatre_2015",
+  "title": "Nous quatre",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30744521",
+    "imdb": "tt3395196",
+    "tmdb": 564896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

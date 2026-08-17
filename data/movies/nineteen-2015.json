@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nineteen_2015",
+  "title": "Nineteen",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19939568",
+    "imdb": "tt6095944",
+    "tmdb": 346470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-20"
+}

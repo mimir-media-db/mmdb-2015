@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_horror_volume_1_2015",
+  "title": "A Night Of Horror: Volume 1",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600395",
+    "imdb": "tt4586114",
+    "tmdb": 369912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

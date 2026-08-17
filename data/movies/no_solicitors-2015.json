@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_solicitors_2015",
+  "title": "No Solicitors",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65241439",
+    "imdb": "tt3568380",
+    "tmdb": 453664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

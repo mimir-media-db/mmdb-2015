@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_north_mountain_2015",
+  "title": "North Mountain",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136591",
+    "imdb": "tt3856100",
+    "tmdb": 356318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-23"
+}

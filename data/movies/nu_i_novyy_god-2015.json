@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nu_i_novyy_god_2015",
+  "title": "Nu i Novyy God!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27049569",
+    "imdb": "tt4828622",
+    "tmdb": 1244635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

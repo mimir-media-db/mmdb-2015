@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_girls_24_hours_chicas_nuevas_24_horas_2015",
+  "title": "New Girls 24 Hours (Chicas nuevas 24 horas)",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60889518",
+    "imdb": "tt4718872",
+    "tmdb": 357156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 70
+}

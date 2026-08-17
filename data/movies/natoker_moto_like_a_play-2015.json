@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natoker_moto_like_a_play_2015",
+  "title": "Natoker Moto - Like a Play",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363432",
+    "imdb": "tt4614362",
+    "tmdb": 569786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-01"
+}

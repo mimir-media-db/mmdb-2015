@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_matter_how_hard_we_tried_2015",
+  "title": "No Matter How Hard We Tried",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21498233",
+    "imdb": "tt4112020",
+    "tmdb": 418757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-09"
+}

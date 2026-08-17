@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_necrofobia_2015",
+  "title": "Necrofobia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20965600",
+    "imdb": "tt3360828",
+    "tmdb": 289197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-19",
+  "runtime_minutes": 75
+}

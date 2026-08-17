@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_sisterinlaw_2015",
+  "title": "Nice Sister-In-Law",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738515",
+    "imdb": "tt6255828",
+    "tmdb": 387844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

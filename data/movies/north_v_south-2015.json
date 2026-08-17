@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_north_v_south_2015",
+  "title": "North v South",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136555",
+    "imdb": "tt4050596",
+    "tmdb": 347924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-21"
+}

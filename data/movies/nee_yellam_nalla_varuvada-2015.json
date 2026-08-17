@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nee_yellam_nalla_varuvada_2015",
+  "title": "Nee Yellam Nalla Varuvada",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15711573",
+    "imdb": "tt3885742",
+    "tmdb": 342698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-26"
+}

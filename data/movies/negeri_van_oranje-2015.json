@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_negeri_van_oranje_2015",
+  "title": "Negeri Van Oranje",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25466614",
+    "imdb": "tt4580370",
+    "tmdb": 374875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-23",
+  "runtime_minutes": 97
+}

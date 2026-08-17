@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_numb_2015",
+  "title": "Numb",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55627105",
+    "imdb": "tt4470266",
+    "tmdb": 352364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

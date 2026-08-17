@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natasha_2015",
+  "title": "Natasha",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28453581",
+    "imdb": "tt3866526",
+    "tmdb": 356321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 93
+}
