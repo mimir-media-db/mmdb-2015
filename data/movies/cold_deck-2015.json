@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_deck_2015",
+  "title": "Cold Deck",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999933",
+    "imdb": "tt4040072",
+    "tmdb": 370835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

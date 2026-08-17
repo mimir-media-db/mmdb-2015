@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_college_time_2015",
+  "title": "College Time",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50824823",
+    "imdb": "tt4388412"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23"
+}

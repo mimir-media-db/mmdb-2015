@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_mesopotamia_2015",
+  "title": "Curse of Mesopotamia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25428512",
+    "imdb": "tt3883976",
+    "tmdb": 413758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

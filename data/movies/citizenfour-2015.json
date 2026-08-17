@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citizenfour_2015",
+  "title": "Citizenfour",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18218448",
+    "imdb": "tt4044364",
+    "tmdb": 293310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-30",
+  "runtime_minutes": 114
+}

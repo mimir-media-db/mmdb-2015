@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cake_2015",
+  "title": "Cake",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16060473",
+    "imdb": "tt3442006",
+    "tmdb": 284276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 102
+}

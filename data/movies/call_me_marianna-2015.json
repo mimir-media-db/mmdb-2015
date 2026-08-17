@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_me_marianna_2015",
+  "title": "Call Me Marianna",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123668246",
+    "imdb": "tt4834764",
+    "tmdb": 361073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

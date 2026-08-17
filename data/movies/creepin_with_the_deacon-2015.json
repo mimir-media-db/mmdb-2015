@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_creepin_with_the_deacon_2015",
+  "title": "Creepin' with the Deacon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89782840",
+    "imdb": "tt4553984",
+    "tmdb": 598664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-01"
+}

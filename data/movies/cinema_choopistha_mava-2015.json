@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_choopistha_mava_2015",
+  "title": "Cinema choopistha mava",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646245",
+    "imdb": "tt4898004",
+    "tmdb": 369215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

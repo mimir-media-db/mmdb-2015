@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chloe_and_theo_2015",
+  "title": "Chloe and Theo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720600",
+    "imdb": "tt1754736",
+    "tmdb": 300686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-26",
+  "runtime_minutes": 112
+}

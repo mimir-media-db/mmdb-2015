@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cruel_state_2015",
+  "title": "Cruel State",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740692",
+    "imdb": "tt6446722",
+    "tmdb": 384490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-03"
+}

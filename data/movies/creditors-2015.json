@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_creditors_2015",
+  "title": "Creditors",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21450450",
+    "imdb": "tt3220574",
+    "tmdb": 337042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

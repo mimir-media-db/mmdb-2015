@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_carl_22102002_2015",
+  "title": "Carl, 22.10.2002",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33528624"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 5
+}

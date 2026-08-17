@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carter_high_2015",
+  "title": "Carter High",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136854",
+    "imdb": "tt3735398",
+    "tmdb": 359341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-30",
+  "runtime_minutes": 110
+}

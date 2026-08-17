@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chris_delia_incorrigible_2015",
+  "title": "Chris D'Elia: Incorrigible",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65102073",
+    "imdb": "tt4624852",
+    "tmdb": 336736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17"
+}

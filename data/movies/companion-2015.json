@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_companion_2015",
+  "title": "The Companion",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26329404",
+    "imdb": "tt5095010",
+    "tmdb": 361076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-03",
+  "runtime_minutes": 104
+}

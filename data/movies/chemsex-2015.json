@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chemsex_2015",
+  "title": "Chemsex",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136277",
+    "imdb": "tt5073738",
+    "tmdb": 367513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04",
+  "runtime_minutes": 83
+}

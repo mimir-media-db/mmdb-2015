@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinzento_e_negro_2015",
+  "title": "Cinzento e Negro",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25336863",
+    "imdb": "tt4127548",
+    "tmdb": 365341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 95
+}

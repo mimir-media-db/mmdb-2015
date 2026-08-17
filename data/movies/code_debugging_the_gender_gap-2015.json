@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_code_debugging_the_gender_gap_2015",
+  "title": "CODE: Debugging the Gender Gap",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22075072",
+    "imdb": "tt4335520",
+    "tmdb": 334683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-19",
+  "runtime_minutes": 80
+}

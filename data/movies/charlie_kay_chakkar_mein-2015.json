@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlie_kay_chakkar_mein_2015",
+  "title": "Charlie Kay Chakkar Mein",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21282931",
+    "imdb": "tt2190820",
+    "tmdb": 367094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06"
+}

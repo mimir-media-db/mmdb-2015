@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_claires_cambodia_2015",
+  "title": "Claire's Cambodia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5125128",
+    "imdb": "tt2282737",
+    "tmdb": 291405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-10",
+  "runtime_minutes": 90
+}

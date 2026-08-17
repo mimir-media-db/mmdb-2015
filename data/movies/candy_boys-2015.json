@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_boys_2015",
+  "title": "Candy Boys",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104432163"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-04"
+}

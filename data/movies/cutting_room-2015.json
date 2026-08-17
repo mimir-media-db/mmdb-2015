@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cutting_room_2015",
+  "title": "The Cutting Room",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19427433",
+    "imdb": "tt3772918",
+    "tmdb": 345913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-01"
+}

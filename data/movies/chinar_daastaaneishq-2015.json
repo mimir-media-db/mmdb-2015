@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chinar_daastaaneishq_2015",
+  "title": "Chinar Daastaan-E-Ishq",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992349",
+    "imdb": "tt5021968",
+    "tmdb": 374965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16"
+}

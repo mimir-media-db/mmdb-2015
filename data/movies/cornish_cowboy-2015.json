@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cornish_cowboy_2015",
+  "title": "Cornish Cowboy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23023095",
+    "imdb": "tt4428868",
+    "tmdb": 450282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-13"
+}

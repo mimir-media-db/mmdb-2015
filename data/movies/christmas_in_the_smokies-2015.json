@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_in_the_smokies_2015",
+  "title": "Christmas in the Smokies",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113827403",
+    "imdb": "tt4923846",
+    "tmdb": 366242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

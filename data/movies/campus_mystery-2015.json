@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_campus_mystery_2015",
+  "title": "Campus Mystery",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21152221",
+    "imdb": "tt6446770",
+    "tmdb": 529097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-16"
+}

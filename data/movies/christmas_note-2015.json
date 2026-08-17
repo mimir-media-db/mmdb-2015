@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_note_2015",
+  "title": "The Christmas Note",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48977059",
+    "imdb": "tt5062804",
+    "tmdb": 369055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-29"
+}

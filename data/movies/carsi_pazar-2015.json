@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carsi_pazar_2015",
+  "title": "Çarsi Pazar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52161902",
+    "imdb": "tt4324242",
+    "tmdb": 327301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-26"
+}

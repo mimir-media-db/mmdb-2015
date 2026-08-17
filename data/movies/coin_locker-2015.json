@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coin_locker_2015",
+  "title": "The Coin Locker",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19941324",
+    "imdb": "tt4703076",
+    "tmdb": 416787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cokeville_miracle_2015",
+  "title": "The Cokeville Miracle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27915267",
+    "imdb": "tt3877296",
+    "tmdb": 339060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-05",
+  "runtime_minutes": 94
+}

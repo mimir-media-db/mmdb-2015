@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_collaborators_2015",
+  "title": "The Collaborators",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022672",
+    "imdb": "tt4418898",
+    "tmdb": 613285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-01"
+}

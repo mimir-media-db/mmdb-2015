@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cool_cats_2015",
+  "title": "Cool Cats",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76450149",
+    "imdb": "tt5137944",
+    "tmdb": 414821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

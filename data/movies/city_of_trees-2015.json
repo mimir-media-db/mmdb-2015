@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_trees_2015",
+  "title": "City of Trees",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39073093",
+    "imdb": "tt4357376",
+    "tmdb": 386614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

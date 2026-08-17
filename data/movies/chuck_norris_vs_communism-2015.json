@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chuck_norris_vs_communism_2015",
+  "title": "Chuck Norris vs Communism",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25216504",
+    "imdb": "tt2442080",
+    "tmdb": 312152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23",
+  "runtime_minutes": 83
+}

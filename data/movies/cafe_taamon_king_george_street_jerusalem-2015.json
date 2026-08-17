@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_taamon_king_george_street_jerusalem_2015",
+  "title": "Café Ta’amon - King George Street, Jerusalem",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844628",
+    "imdb": "tt3782712",
+    "tmdb": 265451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-21"
+}
