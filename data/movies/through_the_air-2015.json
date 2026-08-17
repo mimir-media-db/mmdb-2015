@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_the_air_2015",
+  "title": "Through the Air",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632261",
+    "imdb": "tt3525584",
+    "tmdb": 334307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

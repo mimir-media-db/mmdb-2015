@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_telling_tales_2015",
+  "title": "Telling Tales",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473346",
+    "imdb": "tt4195278",
+    "tmdb": 332534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 103
+}

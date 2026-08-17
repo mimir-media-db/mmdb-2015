@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_es_si_jolie_ce_soir_2015",
+  "title": "Tu es si jolie ce soir",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18633956",
+    "imdb": "tt4173322",
+    "tmdb": 615298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

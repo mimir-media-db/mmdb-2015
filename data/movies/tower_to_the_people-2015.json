@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tower_to_the_people_2015",
+  "title": "Tower to the People",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20950000",
+    "imdb": "tt3685200",
+    "tmdb": 366245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

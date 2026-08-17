@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_than_than_gopal_2015",
+  "title": "Than Than Gopal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18389006",
+    "imdb": "tt3832022"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

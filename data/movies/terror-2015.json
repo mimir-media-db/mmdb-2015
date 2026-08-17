@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terror_2015",
+  "title": "(T)ERROR",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19007150",
+    "imdb": "tt4370922",
+    "tmdb": 318972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

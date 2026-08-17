@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taskara_2015",
+  "title": "Taskara",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18393263",
+    "imdb": "tt4613670",
+    "tmdb": 611010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_2015",
+  "title": "Tiger",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20538760",
+    "imdb": "tt4801682",
+    "tmdb": 413437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

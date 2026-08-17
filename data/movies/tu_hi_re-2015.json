@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_hi_re_2015",
+  "title": "Tu Hi Re",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20992494",
+    "imdb": "tt4846920",
+    "tmdb": 606050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

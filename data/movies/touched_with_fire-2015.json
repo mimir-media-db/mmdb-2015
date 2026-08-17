@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touched_with_fire_2015",
+  "title": "Touched with Fire",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039858",
+    "imdb": "tt2848324",
+    "tmdb": 324289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_terrace_house_closing_door_2015",
+  "title": "Terrace House: Closing Door",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19320997",
+    "imdb": "tt4268970",
+    "tmdb": 354855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
