@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violencia_2015",
+  "title": "Violencia",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21414297",
+    "imdb": "tt4426248",
+    "tmdb": 344514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 74
+}

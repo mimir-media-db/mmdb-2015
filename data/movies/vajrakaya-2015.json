@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vajrakaya_2015",
+  "title": "Vajrakaya",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19818613",
+    "imdb": "tt4768812",
+    "tmdb": 282590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

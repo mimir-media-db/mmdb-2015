@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_visitor_2015",
+  "title": "The Visitor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20988842",
+    "imdb": "tt4938930",
+    "tmdb": 419798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 127
+}
