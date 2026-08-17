@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhong_kui_snow_girl_and_the_dark_crystal_2015",
+  "title": "Zhong Kui: Snow Girl and the Dark Crystal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15917629",
+    "imdb": "tt3585004",
+    "tmdb": 299822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 118
+}
