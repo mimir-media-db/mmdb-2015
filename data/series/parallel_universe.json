@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_parallel_universe",
+  "title": "Parallel Universe",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q25538951"
+  },
+  "last_updated": "2026-08-17"
+}

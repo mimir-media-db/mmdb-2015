@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pangako_sa_yo",
+  "title": "Pangako Sa ’Yo",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19627517",
+    "imdb": "tt4769014",
+    "tmdb": 63827
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 190
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pristav",
+  "title": "Přístav",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20851345",
+    "imdb": "tt4974218",
+    "tmdb": 77587
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 106
+}

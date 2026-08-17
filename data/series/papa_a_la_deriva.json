@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_papa_a_la_deriva",
+  "title": "Papá a la deriva",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19798132",
+    "imdb": "tt4572196",
+    "tmdb": 62804
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 183
+}

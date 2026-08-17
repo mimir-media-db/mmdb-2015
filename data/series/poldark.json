@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_poldark",
+  "title": "Poldark",
+  "start_year": 2015,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17017945",
+    "imdb": "tt3636060",
+    "tmdb": 62084
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 43
+}

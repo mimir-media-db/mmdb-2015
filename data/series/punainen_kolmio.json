@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_punainen_kolmio",
+  "title": "Punainen kolmio",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23039861",
+    "imdb": "tt4087972",
+    "tmdb": 66884
+  },
+  "last_updated": "2026-08-17"
+}
