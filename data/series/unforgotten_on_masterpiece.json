@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unforgotten_on_masterpiece",
+  "title": "Unforgotten on Masterpiece",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21203479",
+    "imdb": "tt4192812",
+    "tmdb": 62505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 30
+}

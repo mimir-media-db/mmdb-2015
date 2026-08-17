@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unbreakable_kimmy_schmidt",
+  "title": "Unbreakable Kimmy Schmidt",
+  "start_year": 2015,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16889037",
+    "imdb": "tt3339966",
+    "tmdb": 61671
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 51
+}

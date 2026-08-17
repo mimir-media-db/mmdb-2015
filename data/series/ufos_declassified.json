@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ufos_declassified",
+  "title": "UFOs Declassified",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19363475",
+    "imdb": "tt4269210",
+    "tmdb": 65083
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

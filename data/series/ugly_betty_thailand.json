@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ugly_betty_thailand",
+  "title": "Ugly Betty Thailand",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q55642463",
+    "imdb": "tt4765536",
+    "tmdb": 66409
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

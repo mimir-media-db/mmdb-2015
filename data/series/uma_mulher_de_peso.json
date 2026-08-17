@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_uma_mulher_de_peso",
+  "title": "Uma Mulher de Peso",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18786453",
+    "imdb": "tt4388486",
+    "tmdb": 69880
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

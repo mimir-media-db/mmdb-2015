@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unpretty_rapstar",
+  "title": "Unpretty Rapstar",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q26929426",
+    "imdb": "tt30989012",
+    "tmdb": 64286
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 28
+}
