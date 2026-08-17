@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zoom_the_white_dolphin",
+  "title": "Zoom the White Dolphin",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115615340",
+    "imdb": "tt8870788",
+    "tmdb": 82065
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 104
+}

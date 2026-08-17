@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zombiedumb",
+  "title": "Zombiedumb",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55734456",
+    "imdb": "tt11163090",
+    "tmdb": 72479
+  },
+  "last_updated": "2026-08-17"
+}
