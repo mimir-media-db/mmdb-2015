@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_12_minutes_10_bullets_2015",
+  "title": "3 1/2 Minutes, 10 Bullets",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24521064",
+    "imdb": "tt4126312",
+    "tmdb": 320349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-24",
+  "runtime_minutes": 98
+}

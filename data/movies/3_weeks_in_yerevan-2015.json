@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_weeks_in_yerevan_2015",
+  "title": "3 Weeks in Yerevan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26699705",
+    "imdb": "tt5791932",
+    "tmdb": 579082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

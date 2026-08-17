@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_300_hommes_2015",
+  "title": "300 hommes",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44507892",
+    "imdb": "tt3596302",
+    "tmdb": 332423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-18",
+  "runtime_minutes": 82
+}

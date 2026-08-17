@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_alif_lam_mim_2015",
+  "title": "3: Alif Lam Mim",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21452168",
+    "imdb": "tt5199156",
+    "tmdb": 388155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
