@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypse_child_2015",
+  "title": "Apocalypse Child",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302491",
+    "imdb": "tt5573164",
+    "tmdb": 363779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01"
+}

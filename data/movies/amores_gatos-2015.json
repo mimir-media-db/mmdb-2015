@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amores_gatos_2015",
+  "title": "Amores gatos",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123434868",
+    "imdb": "tt5037302",
+    "tmdb": 825432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

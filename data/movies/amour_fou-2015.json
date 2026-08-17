@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amour_fou_2015",
+  "title": "Amour Fou",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249196",
+    "imdb": "tt3003800",
+    "tmdb": 266044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-15",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ao_oni_ver_20_2015",
+  "title": "Ao Oni ver. 2.0",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121097534",
+    "imdb": "tt4309612",
+    "tmdb": 371238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

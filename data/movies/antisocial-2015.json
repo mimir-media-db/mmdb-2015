@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antisocial_2015",
+  "title": "Anti-Social",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46600556",
+    "imdb": "tt3475596",
+    "tmdb": 330206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 116
+}

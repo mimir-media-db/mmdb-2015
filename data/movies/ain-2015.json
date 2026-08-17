@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ain_2015",
+  "title": "Ain",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881782",
+    "imdb": "tt4557064",
+    "tmdb": 361772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-25"
+}

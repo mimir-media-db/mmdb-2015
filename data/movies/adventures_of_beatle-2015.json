@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_beatle_2015",
+  "title": "The Adventures of Beatle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56884222",
+    "imdb": "tt2201532",
+    "tmdb": 356366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 83
+}

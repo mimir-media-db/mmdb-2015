@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahwak_2015",
+  "title": "Ahwak",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22934025",
+    "imdb": "tt5051390",
+    "tmdb": 372113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-20",
+  "runtime_minutes": 120
+}

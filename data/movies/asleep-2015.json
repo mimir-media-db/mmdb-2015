@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asleep_2015",
+  "title": "Asleep",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112446260",
+    "imdb": "tt4216808",
+    "tmdb": 338376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-06",
+  "runtime_minutes": 91
+}

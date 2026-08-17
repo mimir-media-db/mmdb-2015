@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventurers_club_2015",
+  "title": "Adventurers' Club",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21498230",
+    "imdb": "tt4375114",
+    "tmdb": 395608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18",
+  "runtime_minutes": 98
+}

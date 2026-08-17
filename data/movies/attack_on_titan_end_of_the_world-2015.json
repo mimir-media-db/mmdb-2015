@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_on_titan_end_of_the_world_2015",
+  "title": "Attack on Titan: End of the World",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115921828",
+    "imdb": "tt4294052",
+    "tmdb": 340382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-01"
+}

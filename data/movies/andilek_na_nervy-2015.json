@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andilek_na_nervy_2015",
+  "title": "Andílek na nervy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20010910",
+    "imdb": "tt3825900",
+    "tmdb": 344672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-18",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aztec_revenge_2015",
+  "title": "Aztec Revenge",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33730514",
+    "imdb": "tt4539298",
+    "tmdb": 464761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

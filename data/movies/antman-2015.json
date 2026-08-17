@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antman_2015",
+  "title": "Ant-Man",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5901134",
+    "imdb": "tt0478970",
+    "tmdb": 102899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-17",
+  "runtime_minutes": 117
+}

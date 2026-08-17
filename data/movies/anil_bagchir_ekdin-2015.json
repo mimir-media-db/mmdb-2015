@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anil_bagchir_ekdin_2015",
+  "title": "Anil Bagchir Ekdin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24288476",
+    "imdb": "tt5247736",
+    "tmdb": 400044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

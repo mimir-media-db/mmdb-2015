@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akegarasu_2015",
+  "title": "akegarasu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28682747",
+    "imdb": "tt4559742",
+    "tmdb": 382274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

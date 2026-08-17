@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_line_2015",
+  "title": "Across the Line",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136458",
+    "imdb": "tt4295258",
+    "tmdb": 356301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-19",
+  "runtime_minutes": 87
+}

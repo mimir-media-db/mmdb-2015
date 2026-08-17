@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autumn_without_berlin_2015",
+  "title": "An Autumn Without Berlin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20889308",
+    "imdb": "tt3900580",
+    "tmdb": 324298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-21",
+  "runtime_minutes": 95
+}

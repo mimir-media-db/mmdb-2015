@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avengers_grimm_time_wars_2015",
+  "title": "Avengers Grimm: Time Wars",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60040465",
+    "imdb": "tt8159584",
+    "tmdb": 521720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

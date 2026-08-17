@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aerobics_a_love_story_2015",
+  "title": "Aerobics – A Love Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23708214",
+    "imdb": "tt3810428",
+    "tmdb": 325124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akhil_2015",
+  "title": "Akhil",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19899078",
+    "imdb": "tt4974356",
+    "tmdb": 370986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-11"
+}

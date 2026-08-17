@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_holocaust_2015",
+  "title": "After the Holocaust",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643456",
+    "imdb": "tt12007940"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

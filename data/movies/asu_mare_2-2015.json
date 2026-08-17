@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asu_mare_2_2015",
+  "title": "Asu mare 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19863009",
+    "imdb": "tt4528386",
+    "tmdb": 335031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 100
+}

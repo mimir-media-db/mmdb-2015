@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aaaaaaaah_2015",
+  "title": "Aaaaaaaah!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21645980",
+    "imdb": "tt4501706",
+    "tmdb": 347760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 79
+}

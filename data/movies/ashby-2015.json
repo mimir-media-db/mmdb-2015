@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ashby_2015",
+  "title": "Ashby",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17513279",
+    "imdb": "tt3774466",
+    "tmdb": 330112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-19",
+  "runtime_minutes": 100
+}

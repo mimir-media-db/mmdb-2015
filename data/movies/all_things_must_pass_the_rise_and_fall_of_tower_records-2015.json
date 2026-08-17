@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_things_must_pass_the_rise_and_fall_of_tower_records_2015",
+  "title": "All Things Must Pass: The Rise and Fall of Tower Records",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89312733",
+    "imdb": "tt3272570",
+    "tmdb": 324253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
