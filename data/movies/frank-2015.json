@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frank_2015",
+  "title": "Frank",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3082474",
+    "imdb": "tt1605717",
+    "tmdb": 171372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-27",
+  "runtime_minutes": 94
+}

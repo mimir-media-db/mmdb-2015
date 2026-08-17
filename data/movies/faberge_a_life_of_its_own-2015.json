@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faberge_a_life_of_its_own_2015",
+  "title": "Fabergé: A Life of Its Own",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20154723",
+    "imdb": "tt3219610",
+    "tmdb": 346104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-29",
+  "runtime_minutes": 87
+}

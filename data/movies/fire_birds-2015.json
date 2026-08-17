@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_birds_2015",
+  "title": "Fire Birds",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837016",
+    "imdb": "tt3921362",
+    "tmdb": 358975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 105
+}

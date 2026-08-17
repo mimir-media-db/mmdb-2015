@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_party_2015",
+  "title": "The Farewell Party",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17810451",
+    "imdb": "tt3163304",
+    "tmdb": 287483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-24",
+  "runtime_minutes": 92
+}

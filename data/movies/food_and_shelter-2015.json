@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_food_and_shelter_2015",
+  "title": "Food and Shelter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23232925",
+    "imdb": "tt4572998",
+    "tmdb": 331641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-04",
+  "runtime_minutes": 89
+}

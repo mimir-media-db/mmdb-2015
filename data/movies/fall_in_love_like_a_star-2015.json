@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_in_love_like_a_star_2015",
+  "title": "Fall in Love Like a Star",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775731",
+    "imdb": "tt4892714",
+    "tmdb": 369553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_felices_140_2015",
+  "title": "Felices 140",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19632200",
+    "imdb": "tt3841866",
+    "tmdb": 327383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fack_ju_gohte_2_2015",
+  "title": "Fack ju Göhte 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20950352",
+    "imdb": "tt3702996",
+    "tmdb": 329263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-10",
+  "runtime_minutes": 115
+}

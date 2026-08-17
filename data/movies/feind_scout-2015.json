@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_feind_scout_2015",
+  "title": "Feind Scout",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137212095",
+    "imdb": "tt14117590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-10"
+}

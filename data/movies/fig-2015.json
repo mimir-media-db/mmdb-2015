@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fig_2015",
+  "title": "Fig",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23991085",
+    "imdb": "tt4710828",
+    "tmdb": 375256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 13
+}

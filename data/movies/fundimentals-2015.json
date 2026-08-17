@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fundimentals_2015",
+  "title": "Fundi-Mentals",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21198212",
+    "imdb": "tt4388136"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-12"
+}

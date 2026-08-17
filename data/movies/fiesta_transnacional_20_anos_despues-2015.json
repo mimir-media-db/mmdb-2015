@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fiesta_transnacional_20_anos_despues_2015",
+  "title": "Fiesta Transnacional: 20 años después",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123434875",
+    "imdb": "tt2375009",
+    "tmdb": 467290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

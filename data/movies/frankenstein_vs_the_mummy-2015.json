@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frankenstein_vs_the_mummy_2015",
+  "title": "Frankenstein vs. The Mummy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20967623",
+    "imdb": "tt3295482",
+    "tmdb": 319188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-10",
+  "runtime_minutes": 115
+}

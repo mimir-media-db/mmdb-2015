@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_factory_complex_2015",
+  "title": "Factory Complex",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740683",
+    "imdb": "tt4584800",
+    "tmdb": 351869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-13"
+}

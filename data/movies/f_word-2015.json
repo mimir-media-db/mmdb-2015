@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f_word_2015",
+  "title": "The F Word",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14522920",
+    "imdb": "tt1486834",
+    "tmdb": 212716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 98
+}

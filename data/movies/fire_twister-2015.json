@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fire_twister_2015",
+  "title": "Fire Twister",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33256144",
+    "imdb": "tt3350436",
+    "tmdb": 353267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

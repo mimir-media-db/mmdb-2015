@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foujita_2015",
+  "title": "Foujita",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22125488",
+    "imdb": "tt4073044",
+    "tmdb": 315853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-26"
+}

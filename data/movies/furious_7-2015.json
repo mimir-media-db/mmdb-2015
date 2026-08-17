@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_furious_7_2015",
+  "title": "Furious 7",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14650496",
+    "imdb": "tt2820852",
+    "tmdb": 168259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-26",
+  "runtime_minutes": 137
+}

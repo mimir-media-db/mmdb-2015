@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuerzas_especiales_2_cabos_sueltos_2015",
+  "title": "Fuerzas Especiales 2: Cabos Sueltos",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23758675",
+    "imdb": "tt4418280",
+    "tmdb": 387723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 92
+}

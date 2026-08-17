@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fotograf_2015",
+  "title": "Fotograf",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16946988",
+    "imdb": "tt3662686",
+    "tmdb": 324631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-08",
+  "runtime_minutes": 133
+}

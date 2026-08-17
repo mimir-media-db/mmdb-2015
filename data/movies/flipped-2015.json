@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flipped_2015",
+  "title": "Flipped",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28173232",
+    "imdb": "tt2388050",
+    "tmdb": 380018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

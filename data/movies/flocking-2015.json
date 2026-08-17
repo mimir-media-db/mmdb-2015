@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flocking_2015",
+  "title": "Flocking",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22117481",
+    "imdb": "tt3749338",
+    "tmdb": 324764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

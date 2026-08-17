@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_beyond_the_sun_2015",
+  "title": "Far Beyond the Sun",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897348",
+    "imdb": "tt4171200",
+    "tmdb": 373256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 76
+}

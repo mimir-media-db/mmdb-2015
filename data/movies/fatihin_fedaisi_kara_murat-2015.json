@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatihin_fedaisi_kara_murat_2015",
+  "title": "Fatih'in Fedaisi: Kara Murat",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755162",
+    "imdb": "tt4347932",
+    "tmdb": 473181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

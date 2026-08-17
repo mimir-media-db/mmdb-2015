@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fukushima_a_nuclear_story_2015",
+  "title": "Fukushima: A Nuclear Story",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126903543",
+    "imdb": "tt4078744",
+    "tmdb": 338127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
