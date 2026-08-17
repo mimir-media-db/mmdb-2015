@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_5_vagues_de_lavenir_2015",
+  "title": "5 vagues de l'avenir",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55595312",
+    "imdb": "tt5917592"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
