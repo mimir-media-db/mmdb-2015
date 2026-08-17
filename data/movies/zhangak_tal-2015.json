@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zhangak_tal_2015",
+  "title": "Zhangak tal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22192277",
+    "imdb": "tt5145334",
+    "tmdb": 420335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-04",
+  "runtime_minutes": 81
+}

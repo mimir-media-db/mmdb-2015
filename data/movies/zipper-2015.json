@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zipper_2015",
+  "title": "Zipper",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18343202",
+    "imdb": "tt3346224",
+    "tmdb": 309503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-27",
+  "runtime_minutes": 106
+}
