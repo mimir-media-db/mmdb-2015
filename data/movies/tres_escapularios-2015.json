@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tres_escapularios_2015",
+  "title": "Tres escapularios",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56384075",
+    "imdb": "tt5761968",
+    "tmdb": 692712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 118
+}

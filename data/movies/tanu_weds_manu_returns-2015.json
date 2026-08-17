@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tanu_weds_manu_returns_2015",
+  "title": "Tanu Weds Manu Returns",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18387925",
+    "imdb": "tt2140465",
+    "tmdb": 336211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-22",
+  "runtime_minutes": 128
+}

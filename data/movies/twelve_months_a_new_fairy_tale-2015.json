@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twelve_months_a_new_fairy_tale_2015",
+  "title": "Twelve Months: A New Fairy Tale",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27477421",
+    "imdb": "tt5042486",
+    "tmdb": 330886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_sugar_film_2015",
+  "title": "That Sugar Film",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21095965",
+    "imdb": "tt3892434",
+    "tmdb": 305091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-29",
+  "runtime_minutes": 90
+}

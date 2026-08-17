@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_thunai_mudhalvar_2015",
+  "title": "Thunai Mudhalvar",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21428174",
+    "tmdb": 337653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-10"
+}

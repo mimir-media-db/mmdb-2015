@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_love_ways_2015",
+  "title": "True Love Ways",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21029648",
+    "imdb": "tt2732286",
+    "tmdb": 336777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-01",
+  "runtime_minutes": 106
+}

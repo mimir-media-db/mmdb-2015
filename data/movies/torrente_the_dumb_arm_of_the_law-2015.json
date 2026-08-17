@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torrente_the_dumb_arm_of_the_law_2015",
+  "title": "Torrente, the dumb arm of the law",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1050105",
+    "imdb": "tt0120868",
+    "tmdb": 1283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-16",
+  "runtime_minutes": 97
+}

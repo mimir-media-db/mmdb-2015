@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trailer_park_boys_drunk_high_and_unemployed_live_in_austin_2015",
+  "title": "Trailer Park Boys: Drunk, High and Unemployed: Live In Austin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63452308",
+    "imdb": "tt5087462",
+    "tmdb": 372337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thithi_2015",
+  "title": "Thithi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24033005",
+    "imdb": "tt4881362",
+    "tmdb": 355786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-10",
+  "runtime_minutes": 123
+}

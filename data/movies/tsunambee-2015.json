@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tsunambee_2015",
+  "title": "Tsunambee",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124013891",
+    "imdb": "tt4586136",
+    "tmdb": 461618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-01",
+  "runtime_minutes": 82
+}

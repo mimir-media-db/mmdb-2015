@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terra_2015",
+  "title": "Terra",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50413383",
+    "imdb": "tt5733210",
+    "tmdb": 395985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

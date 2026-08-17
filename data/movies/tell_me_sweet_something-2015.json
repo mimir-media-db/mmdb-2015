@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_me_sweet_something_2015",
+  "title": "Tell Me Sweet Something",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24807169",
+    "imdb": "tt4573706",
+    "tmdb": 409476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

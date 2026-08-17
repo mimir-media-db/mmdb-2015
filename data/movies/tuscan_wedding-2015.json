@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tuscan_wedding_2015",
+  "title": "Tuscan Wedding",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14499630",
+    "imdb": "tt2949626",
+    "tmdb": 242257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-09",
+  "runtime_minutes": 104
+}

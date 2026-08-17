@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tyrus_2015",
+  "title": "Tyrus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672539",
+    "imdb": "tt2531928",
+    "tmdb": 359107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

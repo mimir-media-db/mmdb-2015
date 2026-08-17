@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twinsters_2015",
+  "title": "Twinsters",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21553080",
+    "imdb": "tt2980626",
+    "tmdb": 324325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-15",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_those_people_2015",
+  "title": "Those People",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21428173",
+    "imdb": "tt3899516",
+    "tmdb": 340684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_troopship_tragedy_2015",
+  "title": "Troopship Tragedy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115955356",
+    "imdb": "tt4388264"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tooken_2015",
+  "title": "Tooken",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25340065",
+    "imdb": "tt3564200",
+    "tmdb": 337663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-26",
+  "runtime_minutes": 80
+}

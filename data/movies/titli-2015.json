@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_titli_2015",
+  "title": "Titli",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16875759",
+    "imdb": "tt3019620",
+    "tmdb": 266038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-28"
+}

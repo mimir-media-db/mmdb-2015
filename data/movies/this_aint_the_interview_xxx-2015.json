@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_aint_the_interview_xxx_2015",
+  "title": "This Ain’t the Interview XXX",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412747",
+    "imdb": "tt4585194",
+    "tmdb": 454608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_mukokuseki_shojo_2015",
+  "title": "Tōkyō Mukokuseki Shōjo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22128870",
+    "imdb": "tt4654606",
+    "tmdb": 338033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

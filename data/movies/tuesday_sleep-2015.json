@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tuesday_sleep_2015",
+  "title": "The Tuesday Sleep",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22690437",
+    "imdb": "tt5016632",
+    "tmdb": 448249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-16"
+}

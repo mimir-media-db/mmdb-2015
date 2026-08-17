@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thinkal_muthal_velli_vare_2015",
+  "title": "Thinkal Muthal Velli Vare",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21647195",
+    "imdb": "tt4930624",
+    "tmdb": 354764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

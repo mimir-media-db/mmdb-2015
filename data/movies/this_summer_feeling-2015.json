@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_summer_feeling_2015",
+  "title": "This Summer Feeling",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22683674",
+    "imdb": "tt4021084",
+    "tmdb": 369594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 106
+}

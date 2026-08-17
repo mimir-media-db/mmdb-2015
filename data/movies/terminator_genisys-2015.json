@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terminator_genisys_2015",
+  "title": "Terminator Genisys",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15140437",
+    "imdb": "tt1340138",
+    "tmdb": 87101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-25",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_their_distance_2015",
+  "title": "Their Distance",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28682165",
+    "imdb": "tt4621472",
+    "tmdb": 394713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

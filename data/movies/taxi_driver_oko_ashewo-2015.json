@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taxi_driver_oko_ashewo_2015",
+  "title": "Taxi Driver: Oko Ashewo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22497973",
+    "imdb": "tt5112438",
+    "tmdb": 412195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-13"
+}

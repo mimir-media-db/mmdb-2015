@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_50_wonder_mama_2015",
+  "title": "This is 50 Wonder Mama",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48885506",
+    "imdb": "tt3902214",
+    "tmdb": 343028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29"
+}

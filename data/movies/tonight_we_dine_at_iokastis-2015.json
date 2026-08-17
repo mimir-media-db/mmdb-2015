@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tonight_we_dine_at_iokastis_2015",
+  "title": "Tonight We Dine at Iokastis",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125777917",
+    "imdb": "tt4132518",
+    "tmdb": 337319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 87
+}

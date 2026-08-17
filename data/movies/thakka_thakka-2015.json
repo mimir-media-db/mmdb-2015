@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thakka_thakka_2015",
+  "title": "Thakka Thakka",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20900165",
+    "imdb": "tt4987572",
+    "tmdb": 356516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-28"
+}

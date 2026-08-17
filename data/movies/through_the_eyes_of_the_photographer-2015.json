@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_the_eyes_of_the_photographer_2015",
+  "title": "Through the Eyes of the Photographer",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28377517",
+    "imdb": "tt5289412",
+    "tmdb": 511141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 81
+}

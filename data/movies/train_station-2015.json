@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_train_station_2015",
+  "title": "Train Station",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22682174",
+    "imdb": "tt2575290",
+    "tmdb": 483368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-06",
+  "runtime_minutes": 97
+}

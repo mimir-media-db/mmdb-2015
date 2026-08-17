@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tig_2015",
+  "title": "Tig",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20720836",
+    "imdb": "tt3986532",
+    "tmdb": 318225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-17",
+  "runtime_minutes": 95
+}

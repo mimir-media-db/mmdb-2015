@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_summer_night_2015",
+  "title": "Three Summer Night",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444581",
+    "imdb": "tt6419470",
+    "tmdb": 352155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-15"
+}
