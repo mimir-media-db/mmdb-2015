@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ulterior_motive_2015",
+  "title": "Ulterior Motive",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20688102",
+    "imdb": "tt4898598",
+    "tmdb": 367199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
