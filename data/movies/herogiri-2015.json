@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_herogiri_2015",
+  "title": "Herogiri",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811603",
+    "imdb": "tt4504922",
+    "tmdb": 579196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

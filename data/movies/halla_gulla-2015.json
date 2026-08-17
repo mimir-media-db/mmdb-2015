@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halla_gulla_2015",
+  "title": "Halla Gulla",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18603031",
+    "imdb": "tt4920116",
+    "tmdb": 600842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

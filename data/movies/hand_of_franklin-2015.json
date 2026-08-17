@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hand_of_franklin_2015",
+  "title": "The Hand of Franklin",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572047",
+    "imdb": "tt4490210",
+    "tmdb": 1233529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

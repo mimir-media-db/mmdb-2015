@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotline_2015",
+  "title": "Hotline",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19263449",
+    "imdb": "tt4507630",
+    "tmdb": 372483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 120
+}

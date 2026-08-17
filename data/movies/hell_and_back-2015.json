@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_and_back_2015",
+  "title": "Hell and Back",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5706480",
+    "imdb": "tt2141773",
+    "tmdb": 336313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

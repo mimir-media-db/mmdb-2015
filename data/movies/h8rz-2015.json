@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_h8rz_2015",
+  "title": "H8RZ",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20715690",
+    "imdb": "tt3382888",
+    "tmdb": 348955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hey_bro_2015",
+  "title": "Hey Bro",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811604",
+    "imdb": "tt4512230",
+    "tmdb": 331298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

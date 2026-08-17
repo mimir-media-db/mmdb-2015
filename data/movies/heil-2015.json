@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heil_2015",
+  "title": "Heil",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20795543",
+    "imdb": "tt4711952",
+    "tmdb": 346239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 104
+}

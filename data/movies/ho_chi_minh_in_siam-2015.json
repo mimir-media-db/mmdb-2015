@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ho_chi_minh_in_siam_2015",
+  "title": "Ho Chi Minh in Siam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20882297",
+    "imdb": "tt4979704",
+    "tmdb": 1182324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

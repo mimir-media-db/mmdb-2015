@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_husband_factor_2015",
+  "title": "Husband Factor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20473165",
+    "imdb": "tt4450706",
+    "tmdb": 332788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
