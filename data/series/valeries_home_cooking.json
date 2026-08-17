@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_valeries_home_cooking",
+  "title": "Valerie's Home Cooking",
+  "start_year": 2015,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q23763059",
+    "imdb": "tt4905966",
+    "tmdb": 90387
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 172
+}
