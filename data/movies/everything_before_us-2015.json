@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_before_us_2015",
+  "title": "Everything Before Us",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20058592",
+    "imdb": "tt4401704",
+    "tmdb": 342925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 99
+}

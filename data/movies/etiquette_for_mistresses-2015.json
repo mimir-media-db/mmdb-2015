@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_etiquette_for_mistresses_2015",
+  "title": "Etiquette for Mistresses",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899438",
+    "imdb": "tt4609676",
+    "tmdb": 362004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 122
+}

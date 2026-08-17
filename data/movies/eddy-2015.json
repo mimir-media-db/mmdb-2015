@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eddy_2015",
+  "title": "Eddy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18760974",
+    "imdb": "tt4625352",
+    "tmdb": 1271337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 30
+}

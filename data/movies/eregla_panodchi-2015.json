@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eregla_panodchi_2015",
+  "title": "Eregla Panodchi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646385",
+    "imdb": "tt41919705"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ettuthikkum_madhayaanai_2015",
+  "title": "Ettuthikkum Madhayaanai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248347",
+    "imdb": "tt3681434",
+    "tmdb": 280881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

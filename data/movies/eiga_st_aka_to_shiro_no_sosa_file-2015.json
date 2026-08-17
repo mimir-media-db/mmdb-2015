@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eiga_st_aka_to_shiro_no_sosa_file_2015",
+  "title": "Eiga ST Aka to Shirō no Sōsa File",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786424",
+    "imdb": "tt3952246",
+    "tmdb": 290237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

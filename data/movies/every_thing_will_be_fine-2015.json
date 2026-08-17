@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_every_thing_will_be_fine_2015",
+  "title": "Every Thing Will Be Fine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14634026",
+    "imdb": "tt1707380",
+    "tmdb": 246127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 119
+}

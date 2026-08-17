@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_a_beautiful_epoch_2015",
+  "title": "The End of a Beautiful Epoch",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20165476",
+    "imdb": "tt4419390",
+    "tmdb": 364833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 98
+}

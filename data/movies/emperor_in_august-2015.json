@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emperor_in_august_2015",
+  "title": "The Emperor in August",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065475",
+    "imdb": "tt4289340",
+    "tmdb": 314837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 135
+}

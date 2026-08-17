@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ejersbo_2015",
+  "title": "Ejersbo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493734",
+    "imdb": "tt5372514",
+    "tmdb": 396738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

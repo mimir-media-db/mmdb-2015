@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_expelled_2015",
+  "title": "Expelled",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961281",
+    "imdb": "tt4189442",
+    "tmdb": 305932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 85
+}

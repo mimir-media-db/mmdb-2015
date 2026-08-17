@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eisenstein_in_guanajuato_2015",
+  "title": "Eisenstein in Guanajuato",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4530024",
+    "imdb": "tt1702429",
+    "tmdb": 121869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 110
+}

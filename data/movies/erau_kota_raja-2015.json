@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_erau_kota_raja_2015",
+  "title": "Erau Kota Raja",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19725630",
+    "imdb": "tt10173962",
+    "tmdb": 380491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

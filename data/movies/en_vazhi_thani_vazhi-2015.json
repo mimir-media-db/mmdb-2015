@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_vazhi_thani_vazhi_2015",
+  "title": "En Vazhi Thani Vazhi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18124596",
+    "imdb": "tt4504934",
+    "tmdb": 329143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

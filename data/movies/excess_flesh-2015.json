@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_excess_flesh_2015",
+  "title": "Excess Flesh",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824647",
+    "imdb": "tt3468698",
+    "tmdb": 323369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}
