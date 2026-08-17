@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_jackson_heights_2015",
+  "title": "In Jackson Heights",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899905",
+    "imdb": "tt4936064",
+    "tmdb": 355230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-04"
+}

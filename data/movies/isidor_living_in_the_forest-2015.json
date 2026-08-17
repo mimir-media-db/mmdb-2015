@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isidor_living_in_the_forest_2015",
+  "title": "Isidor - Living In The Forest",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75041089",
+    "imdb": "tt8466558",
+    "tmdb": 720781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-01",
+  "runtime_minutes": 80
+}

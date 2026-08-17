@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intersection_2015",
+  "title": "Intersection",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55717144",
+    "imdb": "tt5139154",
+    "tmdb": 363525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 7
+}

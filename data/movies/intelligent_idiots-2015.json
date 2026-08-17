@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intelligent_idiots_2015",
+  "title": "Intelligent Idiots",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27963167",
+    "imdb": "tt4614082",
+    "tmdb": 330485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-23"
+}

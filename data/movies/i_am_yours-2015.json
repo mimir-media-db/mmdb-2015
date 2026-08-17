@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_yours_2015",
+  "title": "I Am Yours",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16985413",
+    "imdb": "tt2798170",
+    "tmdb": 215028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-30",
+  "runtime_minutes": 98
+}

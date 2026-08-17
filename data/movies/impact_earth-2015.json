@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_impact_earth_2015",
+  "title": "Impact Earth",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97841166",
+    "imdb": "tt4160208",
+    "tmdb": 338838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_name_of_my_son_2015",
+  "title": "In the Name of My Son",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25998007",
+    "imdb": "tt4877700",
+    "tmdb": 371869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

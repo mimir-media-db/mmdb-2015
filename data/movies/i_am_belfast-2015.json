@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_belfast_2015",
+  "title": "I am Belfast",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30636911",
+    "imdb": "tt3847390",
+    "tmdb": 332806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

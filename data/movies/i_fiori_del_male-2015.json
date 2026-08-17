@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_fiori_del_male_2015",
+  "title": "I fiori del male",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115610188",
+    "imdb": "tt4428784",
+    "tmdb": 748062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 75
+}

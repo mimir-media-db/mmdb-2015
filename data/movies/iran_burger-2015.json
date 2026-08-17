@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iran_burger_2015",
+  "title": "Iran Burger",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20110774",
+    "imdb": "tt4532596",
+    "tmdb": 413972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-07"
+}

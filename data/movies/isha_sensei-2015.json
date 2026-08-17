@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_isha_sensei_2015",
+  "title": "Isha Sensei",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29526013",
+    "imdb": "tt4162016",
+    "tmdb": 673739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-17"
+}

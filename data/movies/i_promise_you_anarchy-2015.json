@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_promise_you_anarchy_2015",
+  "title": "I Promise You Anarchy",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20899465",
+    "imdb": "tt4863784",
+    "tmdb": 317940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-09",
+  "runtime_minutes": 88
+}

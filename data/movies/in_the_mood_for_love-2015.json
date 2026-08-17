@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_mood_for_love_2015",
+  "title": "In the Mood for Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121750991",
+    "tmdb": 646676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

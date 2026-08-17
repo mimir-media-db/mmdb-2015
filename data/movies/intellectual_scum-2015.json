@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_intellectual_scum_2015",
+  "title": "Intellectual Scum",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21775772",
+    "imdb": "tt4418944",
+    "tmdb": 329325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-05"
+}

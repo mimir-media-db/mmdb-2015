@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_innocent_lilies_the_end_and_the_beginning_2015",
+  "title": "Innocent Lilies The End And The Beginning",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28677076",
+    "imdb": "tt4965092",
+    "tmdb": 1189844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 94
+}

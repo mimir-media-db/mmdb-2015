@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_dream_too_much_2015",
+  "title": "I Dream Too Much",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44613052",
+    "imdb": "tt3474978",
+    "tmdb": 324276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 91
+}

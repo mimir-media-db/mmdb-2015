@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indias_daughter_2015",
+  "title": "India's Daughter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19409509",
+    "imdb": "tt4058426",
+    "tmdb": 328233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_chris_farley_2015",
+  "title": "I Am Chris Farley",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022628",
+    "imdb": "tt3910602",
+    "tmdb": 345944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-08-10"
+}
