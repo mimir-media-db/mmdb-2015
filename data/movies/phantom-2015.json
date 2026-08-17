@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phantom_2015",
+  "title": "Phantom",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15111541",
+    "imdb": "tt3469244",
+    "tmdb": 353879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

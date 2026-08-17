@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pitch_perfect_2_2015",
+  "title": "Pitch Perfect 2",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16619265",
+    "imdb": "tt2848292",
+    "tmdb": 254470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 115
+}

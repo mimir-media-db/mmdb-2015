@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pass_the_light_2015",
+  "title": "Pass the Light",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649029",
+    "imdb": "tt2572030",
+    "tmdb": 307125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

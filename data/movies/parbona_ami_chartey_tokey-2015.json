@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parbona_ami_chartey_tokey_2015",
+  "title": "Parbona Ami Chartey Tokey",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20751335",
+    "imdb": "tt4944932",
+    "tmdb": 521875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

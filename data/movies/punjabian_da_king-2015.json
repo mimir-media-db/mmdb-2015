@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punjabian_da_king_2015",
+  "title": "Punjabian Da King",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170305",
+    "imdb": "tt3592082",
+    "tmdb": 375713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

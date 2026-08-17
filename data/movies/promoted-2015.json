@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_promoted_2015",
+  "title": "Promoted",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20714957",
+    "imdb": "tt3445004",
+    "tmdb": 374893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

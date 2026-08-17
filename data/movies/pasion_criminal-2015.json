@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pasion_criminal_2015",
+  "title": "Pasión criminal",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21186461",
+    "imdb": "tt3277072",
+    "tmdb": 1340604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}
