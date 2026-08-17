@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meeruthiya_gangster_2015",
+  "title": "Meeruthiya Gangster",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20785750",
+    "imdb": "tt4117066",
+    "tmdb": 365912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

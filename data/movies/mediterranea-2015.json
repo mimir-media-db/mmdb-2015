@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mediterranea_2015",
+  "title": "Mediterranea",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824788",
+    "imdb": "tt3486542",
+    "tmdb": 336660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_motleys_law_2015",
+  "title": "Motley's Law",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494868",
+    "imdb": "tt4336186",
+    "tmdb": 361205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

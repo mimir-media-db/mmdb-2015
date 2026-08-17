@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_msg_the_messenger_of_god_2015",
+  "title": "MSG: The Messenger of God",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18702402",
+    "imdb": "tt4107858",
+    "tmdb": 318848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

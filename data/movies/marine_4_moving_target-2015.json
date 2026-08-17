@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marine_4_moving_target_2015",
+  "title": "The Marine 4: Moving Target",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512788",
+    "imdb": "tt3528666",
+    "tmdb": 329540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

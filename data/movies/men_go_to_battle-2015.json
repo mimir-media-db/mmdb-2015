@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_men_go_to_battle_2015",
+  "title": "Men Go To Battle",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21065527",
+    "imdb": "tt4604496",
+    "tmdb": 332665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

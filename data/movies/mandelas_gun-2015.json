@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mandelas_gun_2015",
+  "title": "Mandela's Gun",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16932262",
+    "imdb": "tt4171652",
+    "tmdb": 438268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

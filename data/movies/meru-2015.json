@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meru_2015",
+  "title": "Meru",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20856973",
+    "imdb": "tt2545428",
+    "tmdb": 318279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mero_badloo_2015",
+  "title": "Mero Badloo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19899023",
+    "imdb": "tt12385772"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

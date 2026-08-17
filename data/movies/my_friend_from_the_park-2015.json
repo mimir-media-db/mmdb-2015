@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_from_the_park_2015",
+  "title": "My Friend from the Park",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962276",
+    "imdb": "tt3826628",
+    "tmdb": 361744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 84
+}

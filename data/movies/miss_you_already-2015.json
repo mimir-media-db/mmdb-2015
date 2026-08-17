@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_you_already_2015",
+  "title": "Miss You Already",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18152748",
+    "imdb": "tt2245003",
+    "tmdb": 290762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 112
+}

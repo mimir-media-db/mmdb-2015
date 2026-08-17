@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mammejong_2015",
+  "title": "Mammejong",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466207",
+    "imdb": "tt3224956",
+    "tmdb": 459395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

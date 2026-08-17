@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_up_2015",
+  "title": "Man Up",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16997268",
+    "imdb": "tt3064298",
+    "tmdb": 332340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_map_of_salvation_2015",
+  "title": "Map of Salvation",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19693302",
+    "imdb": "tt4590326",
+    "tmdb": 942131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}
