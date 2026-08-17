@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yang_guifei_2015",
+  "title": "Yang Guifei",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17055661",
+    "imdb": "tt2080418",
+    "tmdb": 139319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 122
+}

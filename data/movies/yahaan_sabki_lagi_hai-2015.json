@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yahaan_sabki_lagi_hai_2015",
+  "title": "Yahaan Sabki Lagi Hai",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19600496",
+    "imdb": "tt2612138",
+    "tmdb": 509298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

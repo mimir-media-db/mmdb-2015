@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_cant_save_yourself_alone_2015",
+  "title": "You Can't Save Yourself Alone",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19622399",
+    "imdb": "tt4114456",
+    "tmdb": 324744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 100
+}
