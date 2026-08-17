@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memoria_2015",
+  "title": "Memoria",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136540",
+    "imdb": "tt3262252",
+    "tmdb": 291874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-01"
+}

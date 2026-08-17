@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mega_shark_vs_kolossus_2015",
+  "title": "Mega Shark vs. Kolossus",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24868806",
+    "imdb": "tt4566574",
+    "tmdb": 343097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 89
+}

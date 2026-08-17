@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mutual_relations_2015",
+  "title": "Mutual Relations",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139838813",
+    "tmdb": 721193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-26"
+}

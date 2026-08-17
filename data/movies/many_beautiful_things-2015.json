@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_many_beautiful_things_2015",
+  "title": "Many Beautiful Things",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905333",
+    "imdb": "tt4506686",
+    "tmdb": 426829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-17",
+  "runtime_minutes": 70
+}

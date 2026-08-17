@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_in_the_orange_jacket_2015",
+  "title": "The Man in the Orange Jacket",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28361600",
+    "imdb": "tt2231646",
+    "tmdb": 277686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 71
+}

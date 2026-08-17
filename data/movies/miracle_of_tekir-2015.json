@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_of_tekir_2015",
+  "title": "The Miracle of Tekir",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28842928",
+    "imdb": "tt4473938",
+    "tmdb": 362139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 88
+}

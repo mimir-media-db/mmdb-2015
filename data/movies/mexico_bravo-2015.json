@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mexico_bravo_2015",
+  "title": "México Bravo",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89678678",
+    "imdb": "tt6385470",
+    "tmdb": 1060167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

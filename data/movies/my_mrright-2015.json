@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mrright_2015",
+  "title": "My Mr.right",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22099916",
+    "imdb": "tt7870464",
+    "tmdb": 1455813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

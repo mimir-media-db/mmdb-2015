@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mitti_na_pharol_jogiya_2015",
+  "title": "Mitti Na Pharol Jogiya",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17073943",
+    "imdb": "tt5340458",
+    "tmdb": 376195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-08"
+}

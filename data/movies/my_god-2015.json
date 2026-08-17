@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_god_2015",
+  "title": "My God",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646754",
+    "imdb": "tt5346932",
+    "tmdb": 1416339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

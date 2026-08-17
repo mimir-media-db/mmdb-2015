@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minds_eye_2015",
+  "title": "The Mind's Eye",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959304",
+    "imdb": "tt4567486",
+    "tmdb": 336265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-15",
+  "runtime_minutes": 87
+}

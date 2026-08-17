@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madame_bovary_2015",
+  "title": "Madame Bovary",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15154960",
+    "imdb": "tt2334733",
+    "tmdb": 253161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-12-17",
+  "runtime_minutes": 118
+}

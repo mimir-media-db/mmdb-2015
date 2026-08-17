@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_kaplan_2015",
+  "title": "Mr. Kaplan",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170211",
+    "imdb": "tt2642524",
+    "tmdb": 284050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-16",
+  "runtime_minutes": 98
+}

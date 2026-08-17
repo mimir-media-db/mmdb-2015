@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_men_never_come_back_2015",
+  "title": "Men Never Come Back",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16674581",
+    "imdb": "tt2781212"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-19",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_men_of_talvivaara_mine_2015",
+  "title": "Men of Talvivaara Mine",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107388477",
+    "imdb": "tt3569544",
+    "tmdb": 322270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

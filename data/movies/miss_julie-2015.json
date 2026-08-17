@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_julie_2015",
+  "title": "Miss Julie",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126204",
+    "imdb": "tt2667960",
+    "tmdb": 230266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_martial_arts_kid_2015",
+  "title": "The Martial Arts Kid",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22075161",
+    "imdb": "tt3393762",
+    "tmdb": 316822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-18"
+}

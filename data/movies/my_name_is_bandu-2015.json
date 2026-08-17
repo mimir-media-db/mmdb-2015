@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_bandu_2015",
+  "title": "My Name Is Bandu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859388",
+    "imdb": "tt5966718"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-30"
+}

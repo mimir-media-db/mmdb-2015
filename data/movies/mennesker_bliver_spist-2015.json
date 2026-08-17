@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mennesker_bliver_spist_2015",
+  "title": "Mennesker bliver spist",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494023",
+    "imdb": "tt3646540",
+    "tmdb": 327474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-26",
+  "runtime_minutes": 104
+}

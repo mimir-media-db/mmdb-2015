@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_son_the_jihadi_2015",
+  "title": "My Son the Jihadi",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28065170",
+    "imdb": "tt5140734",
+    "tmdb": 464216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-22",
+  "runtime_minutes": 60
+}

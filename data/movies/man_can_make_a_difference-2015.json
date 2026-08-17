@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_can_make_a_difference_2015",
+  "title": "A Man Can Make a Difference",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21213457",
+    "imdb": "tt5137502",
+    "tmdb": 370689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-11-12",
+  "runtime_minutes": 94
+}

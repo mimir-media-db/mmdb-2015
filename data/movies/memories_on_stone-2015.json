@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_on_stone_2015",
+  "title": "Memories on Stone",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20895451",
+    "imdb": "tt3954882",
+    "tmdb": 309323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-27",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marvel_super_hero_adventures_frost_fight_2015",
+  "title": "Marvel Super Hero Adventures: Frost Fight!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350781",
+    "imdb": "tt5272052",
+    "tmdb": 372631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 73
+}

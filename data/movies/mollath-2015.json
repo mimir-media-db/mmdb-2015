@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mollath_2015",
+  "title": "Mollath",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20113542",
+    "imdb": "tt4419678",
+    "tmdb": 349386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-09",
+  "runtime_minutes": 93
+}

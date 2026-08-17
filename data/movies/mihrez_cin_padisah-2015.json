@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mihrez_cin_padisah_2015",
+  "title": "Mihrez: Cin Padişahı",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20472417",
+    "imdb": "tt4591732",
+    "tmdb": 481564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-04-17"
+}

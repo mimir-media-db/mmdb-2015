@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_first_love_2015",
+  "title": "My First Love",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38150091",
+    "imdb": "tt4270060",
+    "tmdb": 473558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-27"
+}

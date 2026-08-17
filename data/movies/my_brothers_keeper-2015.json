@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brothers_keeper_2015",
+  "title": "My Brother's Keeper",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21008489",
+    "imdb": "tt3458550",
+    "tmdb": 255552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-03",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_mike_xxl_2015",
+  "title": "Magic Mike XXL",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17893055",
+    "imdb": "tt2268016",
+    "tmdb": 264999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-01",
+  "runtime_minutes": 115
+}

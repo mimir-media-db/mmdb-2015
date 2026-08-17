@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madmast_barkhaa_2015",
+  "title": "Madmast Barkhaa",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19893444",
+    "imdb": "tt4845248",
+    "tmdb": 354441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-05-29"
+}

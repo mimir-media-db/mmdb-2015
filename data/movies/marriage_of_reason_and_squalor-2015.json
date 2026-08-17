@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marriage_of_reason_and_squalor_2015",
+  "title": "The Marriage of Reason and Squalor",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94322456",
+    "imdb": "tt4409912",
+    "tmdb": 389864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01",
+  "runtime_minutes": 86
+}

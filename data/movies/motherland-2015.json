@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motherland_2015",
+  "title": "Motherland",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23672438",
+    "imdb": "tt4886070",
+    "tmdb": 362771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-06"
+}

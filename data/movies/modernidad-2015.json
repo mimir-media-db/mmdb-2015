@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_modernidad_2015",
+  "title": "Modernidad",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123434913",
+    "imdb": "tt5126994",
+    "tmdb": 586504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mune_guardian_of_the_moon_2015",
+  "title": "Mune: Guardian of the Moon",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20005521",
+    "imdb": "tt3858372",
+    "tmdb": 323661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-07-30",
+  "runtime_minutes": 86
+}

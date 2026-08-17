@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mage_yalu_malu_2015",
+  "title": "Mage Yalu Malu",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28859398",
+    "imdb": "tt9314866"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-22"
+}

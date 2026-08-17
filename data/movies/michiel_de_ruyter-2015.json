@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michiel_de_ruyter_2015",
+  "title": "Michiel de Ruyter",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17048105",
+    "imdb": "tt2544766",
+    "tmdb": 277154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-29",
+  "runtime_minutes": 151
+}

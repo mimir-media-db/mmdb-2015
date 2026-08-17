@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masala_padam_2015",
+  "title": "Masala Padam",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786429",
+    "imdb": "tt5103942",
+    "tmdb": 363181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-10-09"
+}

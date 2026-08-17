@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maku_ga_agaru_2015",
+  "title": "Maku ga Agaru",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18729861",
+    "imdb": "tt4173442",
+    "tmdb": 335427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-02-28",
+  "runtime_minutes": 119
+}

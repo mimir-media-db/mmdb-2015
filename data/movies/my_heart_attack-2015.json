@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_heart_attack_2015",
+  "title": "My Heart Attack",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130394949",
+    "imdb": "tt33007646",
+    "tmdb": 511581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-01-01"
+}

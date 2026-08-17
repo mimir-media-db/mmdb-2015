@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manny_lewis_2015",
+  "title": "Manny Lewis",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19875370",
+    "imdb": "tt3852066",
+    "tmdb": 326434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-03-12",
+  "runtime_minutes": 89
+}

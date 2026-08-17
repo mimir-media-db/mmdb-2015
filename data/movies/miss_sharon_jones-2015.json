@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_sharon_jones_2015",
+  "title": "Miss Sharon Jones!",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26964879",
+    "imdb": "tt4935480",
+    "tmdb": 358924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-09-11",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fair_wedding_2015",
+  "title": "My Fair Wedding",
+  "year": 2015,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81222911",
+    "imdb": "tt4509614",
+    "tmdb": 341947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2015-06-04"
+}
