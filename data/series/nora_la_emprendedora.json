@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nora_la_emprendedora",
+  "title": "Nora, la Emprendedora",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17082390",
+    "imdb": "tt3377808",
+    "tmdb": 107224
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 76
+}

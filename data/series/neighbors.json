@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_neighbors",
+  "title": "The Neighbors",
+  "start_year": 2015,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18393489",
+    "imdb": "tt3432810",
+    "tmdb": 98205
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

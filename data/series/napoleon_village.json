@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_napoleon_village",
+  "title": "Napoleon Village",
+  "start_year": 2015,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20631845",
+    "imdb": "tt4724346",
+    "tmdb": 86994
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

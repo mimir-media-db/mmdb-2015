@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nightly_show_with_larry_wilmore",
+  "title": "The Nightly Show with Larry Wilmore",
+  "start_year": 2015,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17109379",
+    "imdb": "tt3722332",
+    "tmdb": 61587
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 259
+}
